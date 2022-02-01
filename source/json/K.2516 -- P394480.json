@@ -1,0 +1,234 @@
+{
+  "number": "K.2516",
+  "cdliNumber": "P394480",
+  "bmIdNumber": "W_K-2516",
+  "accession": "",
+  "publication": "Edition by NinMed",
+  "joins": [],
+  "description": "Left hand corner of a clay tablet. Incantations, prayers and ceremonies. Neo-Assyrian.",
+  "measures": {
+    "length": 10.79,
+    "width": 5.71,
+    "thickness": 2.85
+  },
+  "collection": "Kuyunjik",
+  "script": "NA",
+  "folios": [
+    {
+      "name": "FWG",
+      "number": "Ah09",
+      "type": {
+        "name": "Geers",
+        "hasImage": true
+      }
+    },
+    {
+      "name": "FWG",
+      "number": "E49",
+      "type": {
+        "name": "Geers",
+        "hasImage": true
+      }
+    },
+    {
+      "name": "FWG",
+      "number": "J011",
+      "type": {
+        "name": "Geers",
+        "hasImage": true
+      }
+    },
+    {
+      "name": "FWG",
+      "number": "J102",
+      "type": {
+        "name": "Geers",
+        "hasImage": true
+      }
+    }
+  ],
+  "record": [
+    {
+      "user": "Simkó",
+      "date": "2020-08-09T14:37:31.528385",
+      "type": "Transliteration"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-24T12:34:52.092207",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-24T12:59:34.497426",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-24T16:45:34.233664",
+      "type": "Revision"
+    },
+    {
+      "user": "Jiménez",
+      "date": "2021-06-22T09:03:48.818280",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-07-19T16:33:51.513899",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-07-30T10:01:30.363507",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-07-30T10:44:11.315890",
+      "type": "Revision"
+    }
+  ],
+  "text": {
+    "allLines": []
+  },
+  "notes": "CRANIUM 3 ms. A1\n(+) K.2566+ (ms. A) [KS], edition there",
+  "museum": {
+    "name": "The British Museum",
+    "logo": "/static/media/The_British_Museum.74e9b90f.png",
+    "url": "https://britishmuseum.org/",
+    "copyright": "Courtesy of the [Trustees of The British Museum](https://www.britishmuseum.org/about_this_site/terms_of_use/copyright_and_permissions.aspx)"
+  },
+  "references": [
+    {
+      "type": "DISCUSSION",
+      "pages": "",
+      "notes": "BAM V 493. {FWG J 102.}",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "BorgerKat",
+          "author": [
+            {
+              "family": "Borger",
+              "given": "R."
+            }
+          ],
+          "title": "Katalog der Kuyunjik-Sammlung",
+          "type": "book",
+          "citation-label": "BorgerKat",
+          "issued": {
+            "date-parts": [
+              [
+                1970
+              ],
+              [
+                2010
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "COPY",
+      "pages": "Pl. 92 no. 493",
+      "notes": "",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "RN1271a",
+          "author": [
+            {
+              "family": "Köcher",
+              "given": "F."
+            }
+          ],
+          "title": "Die babylonisch-assyrische Medizin in Texten und Untersuchungen. Band V: Keilschrifttexte aus Ninive 1",
+          "publisher": "de Gruyter",
+          "publisher-place": "Berlin, New York",
+          "container-title-short": "BAM",
+          "collection-number": "5",
+          "collection-title": "Die babylonisch-assyrische Medizin",
+          "type": "book",
+          "citation-label": "RN1271a",
+          "issued": {
+            "date-parts": [
+              [
+                1979
+              ]
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "uncuratedReferences": [
+    {
+      "document": "Böck 2007 Das Handbuch Mussu'u 'Einreibung'- eine Serie Sumerischer und Akkadischer Beschwörungen aus dem 1. Jt. von Chr BPOA 3",
+      "pages": [
+        12,
+        20,
+        202
+      ]
+    },
+    {
+      "document": "Fincke 2000 Augenleiden nach keilschriftlichen Quellen. Untersuchungen zur altorientalischen Medizin WMF 70",
+      "pages": [
+        130
+      ]
+    },
+    {
+      "document": "AfO 28 1981-1982",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "document": "AfO Register 1974-2004",
+      "pages": [
+        286
+      ]
+    },
+    {
+      "document": "[Kuyunjik] 1982 AfO 28 Die Kuyunjik Sammlung von Ende 1973 bis Anfang 1982",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "document": "AfO 28 1981",
+      "pages": [
+        188
+      ]
+    },
+    {
+      "document": "WZKM1983",
+      "pages": [
+        269
+      ]
+    },
+    {
+      "document": "BAM 5",
+      "pages": [
+        26,
+        134
+      ]
+    }
+  ],
+  "atf": "",
+  "hasPhoto": true,
+  "genres": {
+    "genres": [
+      {
+        "category": [
+          "CANONICAL",
+          "Technical",
+          "Medicine",
+          "Therapeutic"
+        ],
+        "uncertain": false
+      }
+    ]
+  }
+}

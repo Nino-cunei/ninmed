@@ -1,0 +1,2091 @@
+{
+  "number": "K.18017",
+  "cdliNumber": "P403291",
+  "bmIdNumber": "W_K-18017",
+  "accession": "",
+  "publication": "",
+  "joins": [],
+  "description": "Uncertain. Neo-Assyrian.",
+  "measures": {
+    "length": null,
+    "width": null,
+    "thickness": null
+  },
+  "collection": "Kuyunjik",
+  "script": "NA",
+  "folios": [
+    {
+      "name": "WGL",
+      "number": "11803",
+      "type": {
+        "name": "Lambert",
+        "hasImage": true
+      }
+    }
+  ],
+  "record": [
+    {
+      "user": "Sáenz",
+      "date": "2018-07-14T00:00:00.000Z",
+      "type": "Transliteration"
+    },
+    {
+      "user": "Jiménez",
+      "date": "2018-07-14T00:00:00.000Z",
+      "type": "Revision"
+    },
+    {
+      "user": "Jiménez",
+      "date": "2021-08-20T09:01:13.293874",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-08-26T09:47:58.315374",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-08-26T09:55:06.218536",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-08-26T09:56:04.497387",
+      "type": "Revision"
+    }
+  ],
+  "text": {
+    "allLines": [
+      {
+        "prefix": "1'.",
+        "content": [
+          {
+            "value": "[...]",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "[...]",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 1,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "2'.",
+        "content": [
+          {
+            "value": "[...",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "PI]Š₁₀.I[D₂",
+            "cleanValue": "PIŠ₁₀.ID₂",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "PI]Š₁₀",
+                "cleanValue": "PIŠ₁₀",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "name": "PIŠ",
+                "nameParts": [
+                  {
+                    "value": "PI",
+                    "cleanValue": "PI",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "]",
+                    "cleanValue": "",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "side": "RIGHT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "Š",
+                    "cleanValue": "Š",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 10,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "I[D₂",
+                "cleanValue": "ID₂",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "ID",
+                "nameParts": [
+                  {
+                    "value": "I",
+                    "cleanValue": "I",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "[",
+                    "cleanValue": "",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "side": "LEFT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "D",
+                    "cleanValue": "D",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 2,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "kibrītu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x]",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 2,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "3'.",
+        "content": [
+          {
+            "value": "[...",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "NAM.L]U₂.U₁₈.L[U",
+            "cleanValue": "NAM.LU₂.U₁₈.LU",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "NAM",
+                "cleanValue": "NAM",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "name": "NAM",
+                "nameParts": [
+                  {
+                    "value": "NAM",
+                    "cleanValue": "NAM",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "L]U₂",
+                "cleanValue": "LU₂",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "name": "LU",
+                "nameParts": [
+                  {
+                    "value": "L",
+                    "cleanValue": "L",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "]",
+                    "cleanValue": "",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "side": "RIGHT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "U",
+                    "cleanValue": "U",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 2,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "U₁₈",
+                "cleanValue": "U₁₈",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "U",
+                "nameParts": [
+                  {
+                    "value": "U",
+                    "cleanValue": "U",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 18,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "L[U",
+                "cleanValue": "LU",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "LU",
+                "nameParts": [
+                  {
+                    "value": "L",
+                    "cleanValue": "L",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "[",
+                    "cleanValue": "",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "side": "LEFT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "U",
+                    "cleanValue": "U",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "awīlūtu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x]",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 3,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "4'.",
+        "content": [
+          {
+            "value": "[...]",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "{giš!}EREN",
+            "cleanValue": "{giš}EREN",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "{giš!}",
+                "cleanValue": "{giš}",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "parts": [
+                  {
+                    "value": "giš!",
+                    "cleanValue": "giš",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "name": "giš",
+                    "nameParts": [
+                      {
+                        "value": "giš",
+                        "cleanValue": "giš",
+                        "enclosureType": [],
+                        "erasure": "NONE",
+                        "type": "ValueToken"
+                      }
+                    ],
+                    "subIndex": 1,
+                    "modifiers": [],
+                    "flags": [
+                      "!"
+                    ],
+                    "sign": null,
+                    "type": "Reading"
+                  }
+                ],
+                "type": "Determinative"
+              },
+              {
+                "value": "EREN",
+                "cleanValue": "EREN",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "EREN",
+                "nameParts": [
+                  {
+                    "value": "EREN",
+                    "cleanValue": "EREN",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "erēnu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "T[AG-at",
+            "cleanValue": "TAG-at",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "T[AG",
+                "cleanValue": "TAG",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "TAG",
+                "nameParts": [
+                  {
+                    "value": "T",
+                    "cleanValue": "T",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "[",
+                    "cleanValue": "",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "side": "LEFT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "AG",
+                    "cleanValue": "AG",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": "-",
+                "cleanValue": "-",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "at",
+                "cleanValue": "at",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "name": "at",
+                "nameParts": [
+                  {
+                    "value": "at",
+                    "cleanValue": "at",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "type": "Reading"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "lapātu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x]",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 4,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "5'.",
+        "content": [
+          {
+            "value": "[...]",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "ŠEŠ₂?#-su?#",
+            "cleanValue": "ŠEŠ₂-su",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "ŠEŠ₂?#",
+                "cleanValue": "ŠEŠ₂",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "ŠEŠ",
+                "nameParts": [
+                  {
+                    "value": "ŠEŠ",
+                    "cleanValue": "ŠEŠ",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 2,
+                "modifiers": [],
+                "flags": [
+                  "?",
+                  "#"
+                ],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": "-",
+                "cleanValue": "-",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "su?#",
+                "cleanValue": "su",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "su",
+                "nameParts": [
+                  {
+                    "value": "su",
+                    "cleanValue": "su",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [
+                  "?",
+                  "#"
+                ],
+                "sign": null,
+                "type": "Reading"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "pašāšu I",
+              "-šu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "Š[E₁₀?",
+            "cleanValue": "ŠE₁₀",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "Š[E₁₀?",
+                "cleanValue": "ŠE₁₀",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "ŠE",
+                "nameParts": [
+                  {
+                    "value": "Š",
+                    "cleanValue": "Š",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  },
+                  {
+                    "value": "[",
+                    "cleanValue": "",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "side": "LEFT",
+                    "type": "BrokenAway"
+                  },
+                  {
+                    "value": "E",
+                    "cleanValue": "E",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 10,
+                "modifiers": [],
+                "flags": [
+                  "?"
+                ],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "zû I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x]",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 5,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "6'.",
+        "content": [
+          {
+            "value": "[...",
+            "cleanValue": "...",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "...",
+                "cleanValue": "...",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "type": "UnknownNumberOfSigns"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "LU₂].U₁₈?#.LU?#",
+            "cleanValue": "LU₂.U₁₈.LU",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "LU₂",
+                "cleanValue": "LU₂",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "name": "LU",
+                "nameParts": [
+                  {
+                    "value": "LU",
+                    "cleanValue": "LU",
+                    "enclosureType": [
+                      "BROKEN_AWAY"
+                    ],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 2,
+                "modifiers": [],
+                "flags": [],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "U₁₈?#",
+                "cleanValue": "U₁₈",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "U",
+                "nameParts": [
+                  {
+                    "value": "U",
+                    "cleanValue": "U",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 18,
+                "modifiers": [],
+                "flags": [
+                  "?",
+                  "#"
+                ],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              },
+              {
+                "value": ".",
+                "cleanValue": ".",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "type": "Joiner"
+              },
+              {
+                "value": "LU?#",
+                "cleanValue": "LU",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "name": "LU",
+                "nameParts": [
+                  {
+                    "value": "LU",
+                    "cleanValue": "LU",
+                    "enclosureType": [],
+                    "erasure": "NONE",
+                    "type": "ValueToken"
+                  }
+                ],
+                "subIndex": 1,
+                "modifiers": [],
+                "flags": [
+                  "?",
+                  "#"
+                ],
+                "sign": null,
+                "surrogate": [],
+                "type": "Logogram"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": true,
+            "alignable": true,
+            "uniqueLemma": [
+              "awīlūtu I"
+            ],
+            "type": "Word"
+          },
+          {
+            "value": "[x",
+            "cleanValue": "x",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "[",
+                "cleanValue": "",
+                "enclosureType": [],
+                "erasure": "NONE",
+                "side": "LEFT",
+                "type": "BrokenAway"
+              },
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          },
+          {
+            "value": "x]",
+            "cleanValue": "x",
+            "enclosureType": [
+              "BROKEN_AWAY"
+            ],
+            "erasure": "NONE",
+            "parts": [
+              {
+                "value": "x",
+                "cleanValue": "x",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "flags": [],
+                "type": "UnclearSign"
+              },
+              {
+                "value": "]",
+                "cleanValue": "",
+                "enclosureType": [
+                  "BROKEN_AWAY"
+                ],
+                "erasure": "NONE",
+                "side": "RIGHT",
+                "type": "BrokenAway"
+              }
+            ],
+            "language": "AKKADIAN",
+            "normalized": false,
+            "lemmatizable": false,
+            "alignable": false,
+            "uniqueLemma": [],
+            "type": "Word"
+          }
+        ],
+        "type": "TextLine",
+        "lineNumber": {
+          "number": 6,
+          "hasPrime": true,
+          "prefixModifier": null,
+          "suffixModifier": null,
+          "type": "LineNumber"
+        }
+      },
+      {
+        "prefix": "#tr.en: ",
+        "content": [
+          {
+            "value": "[Its ritual: you twist together red (and) white wool, gazelle sinew (and) male @i{ašlu}-rush, you tie on seven and seven knots (and) you wrap @i{ēdu}-plant, sea algae, @i{nikiptu}-spurge,] @i{kibrītu}-sulphur, [@i{ru’tītu}-sulphur, root of male @i{pillû}-mandrake, tamarisk seed, stag horn,] human [skull – (all) these drugs – around each of (these) knots in red wool, (then) you recite the incantation seven times (over the twine),] you sprinkle it with cedar [blood (and) you tie it to his temple. You parch human skull, you pound it] (and) you anoint him [with it in oil. You crush together pig] faeces, [pig jawbone, pig shin,] human [skull, horned @i{uḫūlu}-alkali, stag horn, mint, black cumin (and) @i{saḫlû}-cress, you mix them with old beef fat (and) you fumigate him (with the mixture) over embers.]",
+            "cleanValue": "[Its ritual: you twist together red (and) white wool, gazelle sinew (and) male @i{ašlu}-rush, you tie on seven and seven knots (and) you wrap @i{ēdu}-plant, sea algae, @i{nikiptu}-spurge,] @i{kibrītu}-sulphur, [@i{ru’tītu}-sulphur, root of male @i{pillû}-mandrake, tamarisk seed, stag horn,] human [skull – (all) these drugs – around each of (these) knots in red wool, (then) you recite the incantation seven times (over the twine),] you sprinkle it with cedar [blood (and) you tie it to his temple. You parch human skull, you pound it] (and) you anoint him [with it in oil. You crush together pig] faeces, [pig jawbone, pig shin,] human [skull, horned @i{uḫūlu}-alkali, stag horn, mint, black cumin (and) @i{saḫlû}-cress, you mix them with old beef fat (and) you fumigate him (with the mixture) over embers.]",
+            "enclosureType": [],
+            "erasure": "NONE",
+            "type": "ValueToken"
+          }
+        ],
+        "type": "TranslationLine",
+        "parts": [
+          {
+            "text": "[Its ritual: you twist together red (and) white wool, gazelle sinew (and) male ",
+            "type": "StringPart"
+          },
+          {
+            "text": "ašlu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-rush, you tie on seven and seven knots (and) you wrap ",
+            "type": "StringPart"
+          },
+          {
+            "text": "ēdu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-plant, sea algae, ",
+            "type": "StringPart"
+          },
+          {
+            "text": "nikiptu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-spurge,] ",
+            "type": "StringPart"
+          },
+          {
+            "text": "kibrītu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-sulphur, [",
+            "type": "StringPart"
+          },
+          {
+            "text": "ru’tītu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-sulphur, root of male ",
+            "type": "StringPart"
+          },
+          {
+            "text": "pillû",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-mandrake, tamarisk seed, stag horn,] human [skull – (all) these drugs – around each of (these) knots in red wool, (then) you recite the incantation seven times (over the twine),] you sprinkle it with cedar [blood (and) you tie it to his temple. You parch human skull, you pound it] (and) you anoint him [with it in oil. You crush together pig] faeces, [pig jawbone, pig shin,] human [skull, horned ",
+            "type": "StringPart"
+          },
+          {
+            "text": "uḫūlu",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-alkali, stag horn, mint, black cumin (and) ",
+            "type": "StringPart"
+          },
+          {
+            "text": "saḫlû",
+            "type": "EmphasisPart"
+          },
+          {
+            "text": "-cress, you mix them with old beef fat (and) you fumigate him (with the mixture) over embers.]",
+            "type": "StringPart"
+          }
+        ],
+        "language": "en",
+        "extent": null
+      }
+    ]
+  },
+  "notes": "// K.4023 ii 12′–14′\n+? K.2566+ [EJ]",
+  "museum": {
+    "name": "The British Museum",
+    "logo": "/static/media/The_British_Museum.74e9b90f.png",
+    "url": "https://britishmuseum.org/",
+    "copyright": "Courtesy of the [Trustees of The British Museum](https://www.britishmuseum.org/about_this_site/terms_of_use/copyright_and_permissions.aspx)"
+  },
+  "references": [],
+  "uncuratedReferences": null,
+  "atf": "1'. [...] x [...]\n2'. [... PI]Š₁₀.I[D₂ x x x x x x x x]\n3'. [... NAM.L]U₂.U₁₈.L[U x x x x x x x x x]\n4'. [...] {giš!}EREN T[AG-at x x x x x x]\n5'. [...] ŠEŠ₂?#-su?# Š[E₁₀? x x x x]\n6'. [... LU₂].U₁₈?#.LU?# [x x x x x]\n#tr.en: [Its ritual: you twist together red (and) white wool, gazelle sinew (and) male @i{ašlu}-rush, you tie on seven and seven knots (and) you wrap @i{ēdu}-plant, sea algae, @i{nikiptu}-spurge,] @i{kibrītu}-sulphur, [@i{ru’tītu}-sulphur, root of male @i{pillû}-mandrake, tamarisk seed, stag horn,] human [skull – (all) these drugs – around each of (these) knots in red wool, (then) you recite the incantation seven times (over the twine),] you sprinkle it with cedar [blood (and) you tie it to his temple. You parch human skull, you pound it] (and) you anoint him [with it in oil. You crush together pig] faeces, [pig jawbone, pig shin,] human [skull, horned @i{uḫūlu}-alkali, stag horn, mint, black cumin (and) @i{saḫlû}-cress, you mix them with old beef fat (and) you fumigate him (with the mixture) over embers.]",
+  "hasPhoto": true,
+  "genres": {
+    "genres": []
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "number": "K.2970",
+  "cdliNumber": "P394759",
+  "bmIdNumber": "W_K-2970",
+  "accession": "",
+  "publication": "Edition by NinMed",
+  "joins": [
+    [
+      {
+        "museumNumber": "K.2456",
+        "isChecked": true,
+        "joinedBy": "",
+        "date": "",
+        "note": "",
+        "legacyData": "K. 02970+ K. 02980+ Sm. 1897 (join: before 1891)+ K. 02456 (Geller: 28/04/1982)",
+        "isInFragmentarium": true
+      },
+      {
+        "museumNumber": "K.2970",
+        "isChecked": true,
+        "joinedBy": "Geller",
+        "date": "28/04/1982",
+        "note": "",
+        "legacyData": "K. 02970+ K. 02980+ Sm. 1897 (join: before 1891)+ K. 02456 (Geller: 28/04/1982)",
+        "isInFragmentarium": true
+      },
+      {
+        "museumNumber": "K.2980",
+        "isChecked": true,
+        "joinedBy": "",
+        "date": "before 1891",
+        "note": "",
+        "legacyData": "K. 02970+ K. 02980 (join: before 1891)+ K. 02456 (Geller: 28/04/1982)",
+        "isInFragmentarium": true
+      },
+      {
+        "museumNumber": "Sm.1897",
+        "isChecked": true,
+        "joinedBy": "",
+        "date": "before 1891",
+        "note": "",
+        "legacyData": "K. 02970+ Sm. 1897 (join: before 1891)+ K. 02456 (Geller: 28/04/1982)",
+        "isInFragmentarium": true
+      }
+    ]
+  ],
+  "description": "Fragment of a clay tablet, 12 + 14 lines of inscription. Neo-Assyrian.",
+  "measures": {
+    "length": 10.16,
+    "width": 6.98,
+    "thickness": null
+  },
+  "collection": "Kuyunjik",
+  "script": "NA",
+  "folios": [],
+  "record": [],
+  "text": {
+    "allLines": []
+  },
+  "notes": "",
+  "museum": {
+    "name": "The British Museum",
+    "logo": "/static/media/The_British_Museum.74e9b90f.png",
+    "url": "https://britishmuseum.org/",
+    "copyright": "Courtesy of the [Trustees of The British Museum](https://www.britishmuseum.org/about_this_site/terms_of_use/copyright_and_permissions.aspx)"
+  },
+  "references": [
+    {
+      "type": "COPY",
+      "pages": "no. 8/1, 9/1, 10/1, 11/1, 12/1",
+      "notes": "*BAM* VI 514",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "RN2980a",
+          "author": [
+            {
+              "family": "Campbell Thompson",
+              "given": "R."
+            }
+          ],
+          "title": "Assyrian Medical Texts from the Originals in the British Museum",
+          "container-title-short": "AMT",
+          "publisher": "Milford",
+          "publisher-place": "London",
+          "type": "book",
+          "citation-label": "RN2980a",
+          "issued": {
+            "date-parts": [
+              [
+                1923
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "DISCUSSION",
+      "pages": "",
+      "notes": "+ K 2456.",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "BorgerKat",
+          "author": [
+            {
+              "family": "Borger",
+              "given": "R."
+            }
+          ],
+          "title": "Katalog der Kuyunjik-Sammlung",
+          "type": "book",
+          "citation-label": "BorgerKat",
+          "issued": {
+            "date-parts": [
+              [
+                1970
+              ],
+              [
+                2010
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "COPY",
+      "pages": "29, 29*, 29**/4",
+      "notes": "",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "RN1971",
+          "author": [
+            {
+              "family": "Pinches",
+              "given": "Th.G."
+            }
+          ],
+          "title": "The Cuneiform Inscriptions of Western Asia. Volume IV, Second Edition",
+          "publisher-place": "London",
+          "type": "book",
+          "container-title-short": "4R²",
+          "citation-label": "RN1971",
+          "issued": {
+            "date-parts": [
+              [
+                1891
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "COPY",
+      "pages": "Pls. 16-24 No. 514",
+      "notes": "",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "RN1271",
+          "author": [
+            {
+              "family": "Köcher",
+              "given": "F."
+            }
+          ],
+          "title": "Die babylonisch-assyrische Medizin in Texten und Untersuchungen. Band VI: Keilschrifttexte aus Ninive 2",
+          "publisher": "de Gruyter",
+          "publisher-place": "Berlin, New York",
+          "container-title-short": "BAM",
+          "collection-number": "6",
+          "collection-title": "Die babylonisch-assyrische Medizin",
+          "type": "book",
+          "citation-label": "RN1271",
+          "issued": {
+            "date-parts": [
+              [
+                1980
+              ]
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "uncuratedReferences": [
+    {
+      "document": "Collins 1999 Natural Illness in Babylonian Medial Incantations PhD",
+      "pages": [
+        214,
+        217,
+        219,
+        221,
+        224,
+        225,
+        227,
+        229,
+        230,
+        231,
+        233,
+        236
+      ]
+    },
+    {
+      "document": "Geller 1984 Rv Köcher BAM 5-6 ZA 74",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "document": "Holma 1911 Die Namen der Körperteile im Assyrisch-Babylonischen Körperteile",
+      "pages": [
+        87
+      ]
+    },
+    {
+      "document": "Myhrman 1902 Die Labartu-Texte ZA 16",
+      "pages": [
+        45
+      ]
+    },
+    {
+      "document": "AfO 28 1981-1982",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "document": "AfO 31 1984",
+      "pages": [
+        47,
+        181
+      ]
+    },
+    {
+      "document": "AfO Register 1974-2004",
+      "pages": [
+        286,
+        453
+      ]
+    },
+    {
+      "document": "[Kuyunjik] 1982 AfO 28 Die Kuyunjik Sammlung von Ende 1973 bis Anfang 1982",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "document": "[Kuyunjik] 1984 AfO 31 Die Kuyunjik Sammlung 1982-1983",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "document": "AfO 28 1981",
+      "pages": [
+        188
+      ]
+    },
+    {
+      "document": "zava.1902.16.2.141",
+      "pages": [
+        45
+      ]
+    },
+    {
+      "document": "ZA74",
+      "pages": [
+        161
+      ]
+    },
+    {
+      "document": "ZA 74 1984",
+      "pages": [
+        159
+      ]
+    },
+    {
+      "document": "Campbell Thompson AMT",
+      "pages": [
+        7,
+        9,
+        18,
+        19,
+        21
+      ]
+    },
+    {
+      "document": "BAM 6",
+      "pages": [
+        4,
+        5,
+        6,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "document": "KB 6 1 Jensen [Assyrisch-babylonische Mythen und Epen]",
+      "pages": [
+        440
+      ]
+    }
+  ],
+  "atf": "",
+  "hasPhoto": false,
+  "genres": {
+    "genres": []
+  }
+}

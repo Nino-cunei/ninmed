@@ -1,0 +1,247 @@
+{
+  "number": "K.2974",
+  "cdliNumber": "P394756",
+  "bmIdNumber": "W_K-2974",
+  "accession": "",
+  "publication": "Edition by NinMed",
+  "joins": [],
+  "description": "Fragment of a clay tablet, 15 + 11 lines of inscription. Neo-Assyrian.",
+  "measures": {
+    "length": 6.98,
+    "width": 7.62,
+    "thickness": null
+  },
+  "collection": "Kuyunjik",
+  "script": "NA",
+  "folios": [],
+  "record": [
+    {
+      "user": "Panayotov",
+      "date": "2020-08-05T07:26:23.325982",
+      "type": "Transliteration"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-09T16:14:47.159730",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-09T16:24:54.328443",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-10T14:14:16.831885",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-10T15:25:50.798669",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-10T15:27:13.398507",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-10T15:27:19.046922",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-10T15:44:23.634810",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-19T14:23:53.511423",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-19T16:04:51.494384",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-25T13:08:53.495928",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-26T15:45:28.749733",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-26T19:00:20.144845",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2020-08-26T19:36:12.330947",
+      "type": "Revision"
+    },
+    {
+      "user": "Jiménez",
+      "date": "2021-04-23T10:39:45.901486",
+      "type": "Revision"
+    },
+    {
+      "user": "Simkó",
+      "date": "2021-07-20T14:06:02.628160",
+      "type": "Revision"
+    }
+  ],
+  "text": {
+    "allLines": []
+  },
+  "notes": "CRANIUM 3 ms. C2\n(+) K.7642 (ms. C) edition there",
+  "museum": {
+    "name": "The British Museum",
+    "logo": "/static/media/The_British_Museum.74e9b90f.png",
+    "url": "https://britishmuseum.org/",
+    "copyright": "Courtesy of the [Trustees of The British Museum](https://www.britishmuseum.org/about_this_site/terms_of_use/copyright_and_permissions.aspx)"
+  },
+  "references": [
+    {
+      "type": "COPY",
+      "pages": "no. 13/5, 14/5",
+      "notes": "",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "RN2980a",
+          "author": [
+            {
+              "family": "Campbell Thompson",
+              "given": "R."
+            }
+          ],
+          "title": "Assyrian Medical Texts from the Originals in the British Museum",
+          "container-title-short": "AMT",
+          "publisher": "Milford",
+          "publisher-place": "London",
+          "type": "book",
+          "citation-label": "RN2980a",
+          "issued": {
+            "date-parts": [
+              [
+                1923
+              ]
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "DISCUSSION",
+      "pages": "",
+      "notes": "AMT 13/5 usw.",
+      "linesCited": [],
+      "document": {
+        "cslData": {
+          "id": "BorgerKat",
+          "author": [
+            {
+              "family": "Borger",
+              "given": "R."
+            }
+          ],
+          "title": "Katalog der Kuyunjik-Sammlung",
+          "type": "book",
+          "citation-label": "BorgerKat",
+          "issued": {
+            "date-parts": [
+              [
+                1970
+              ],
+              [
+                2010
+              ]
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "uncuratedReferences": [
+    {
+      "document": "Böck 2007 Das Handbuch Mussu'u 'Einreibung'- eine Serie Sumerischer und Akkadischer Beschwörungen aus dem 1. Jt. von Chr BPOA 3",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "document": "Farber 1982 Rv Köcher BAM 5-6 BiOr 39",
+      "pages": [
+        2
+      ]
+    },
+    {
+      "document": "Fincke 2000 Augenleiden nach keilschriftlichen Quellen. Untersuchungen zur altorientalischen Medizin WMF 70",
+      "pages": [
+        86,
+        87,
+        130,
+        135,
+        184
+      ]
+    },
+    {
+      "document": "Thompson 1937 Assyrian prescriptions for the head-concluded AJSLL 54",
+      "pages": [
+        16,
+        18
+      ]
+    },
+    {
+      "document": "Wee 2012 The Practice of Diagnosis in Mesopotamian Medicine- With Editions of Commentaries on the Diagnostic Series Sa-gig PhD",
+      "pages": [
+        227
+      ]
+    },
+    {
+      "document": "BiOr1982",
+      "pages": [
+        157
+      ]
+    },
+    {
+      "document": "Campbell Thompson AMT",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "document": "BAM 3",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "document": "BAM 5",
+      "pages": [
+        24
+      ]
+    }
+  ],
+  "atf": "",
+  "hasPhoto": true,
+  "genres": {
+    "genres": [
+      {
+        "category": [
+          "CANONICAL",
+          "Technical",
+          "Medicine",
+          "Therapeutic"
+        ],
+        "uncertain": false
+      }
+    ]
+  }
+}
