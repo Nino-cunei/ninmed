@@ -1,0 +1,5 @@
+text.allLines[].content[].language
+	'AKKADIAN'
+	'SUMERIAN'
+text.allLines[].language
+	'en'

@@ -1,14 +1,42 @@
 import collections
 import os
 import json
+import yaml
+
+
+def readYaml(fileName):
+    if os.path.exists(fileName):
+        with open(fileName) as y:
+            y = yaml.load(y, Loader=yaml.FullLoader)
+    else:
+        y = {}
+    return y
 
 
 GH = os.path.expanduser("~/github")
 ORG = "Nino-cunei"
 REPO = "ninmed"
 REPO_DIR = f"{GH}/{ORG}/{REPO}"
-SRC_DIR = f"{REPO_DIR}/source/json"
 REPORT_DIR = f"{REPO_DIR}/report"
+DECL_PATH = f"{REPO_DIR}/yaml"
+META_DECL_FILE = f"{DECL_PATH}/meta.yaml"
+
+META_DECL = readYaml(META_DECL_FILE)
+
+VERSION_SRC = META_DECL["versionSrc"]
+VERSION_TF = META_DECL["versionTf"]
+SRC_DIR = f"{REPO_DIR}/source/json/{VERSION_SRC}"
+
+SKIP_KEYS = set("""
+accession
+bmIdNumber
+folios
+joins
+measures
+record
+references
+script
+""".strip().split())
 
 
 def getJsonFiles():
@@ -106,10 +134,12 @@ def compact(path, doMeta=False, doText=False):
     print(f"{pNum}\n{meta}\n{text}")
 
 
-def analyse(data, theKey):
+def analyse(data, theKey, asData=False, full=False):
     entries = collections.defaultdict(set)
 
     def walk(path, info):
+        if not full and path in SKIP_KEYS:
+            return
         if path == theKey or path.endswith(f".{theKey}") or path.endswith(f"]{theKey}"):
             entries[path].add(repr(info))
         elif type(info) is dict:
@@ -129,10 +159,99 @@ def analyse(data, theKey):
                 entries[path].add(info)
 
     walk("", data)
+    lines = []
     for (path, types) in sorted(entries.items(), key=lambda x: x[0]):
-        print(path)
-        for tp in types:
-            print(f"\t{tp}")
+        if asData:
+            lines.append(path)
+            for tp in types:
+                lines.append((f"\t{tp}"))
+        else:
+            print(path)
+            for tp in types:
+                print(f"\t{tp}")
+    if asData:
+        return lines
+
+
+def analyseAll(theKey, toFile=True, full=False):
+    data = []
+    for path in getJsonFiles():
+        data.append(readJsonFile(path))
+    lines = analyse(data, theKey, asData=True, full=full)
+    if toFile:
+        writeReport(f"{theKey}.txt", lines)
+    else:
+        print("\n".join(lines))
+
+
+def output(items, toFile, fileName):
+    lines = []
+    for (item, docNums) in items.items():
+        lines.append(item)
+        for docNum in docNums:
+            lines.append(f"\t{docNum}")
+    if toFile:
+        writeReport(fileName, lines)
+    else:
+        print("\n".join(lines))
+
+
+def getData():
+    for path in getJsonFiles():
+        data = readJsonFile(path)
+        docNum = data["number"]
+        yield (docNum, data)
+
+
+def getFaces(toFile=True):
+    fileName = "faces.txt"
+    items = collections.defaultdict(list)
+    for (docNum, data) in getData():
+        for lineData in data["text"]["allLines"]:
+            if lineData["type"] != "SurfaceAtLine":
+                continue
+            value = lineData["displayValue"]
+            items[value].append(docNum)
+    output(items, toFile, fileName)
+
+
+def getColumns(toFile=True):
+    fileName = "columns.txt"
+    items = collections.defaultdict(list)
+    for (docNum, data) in getData():
+        for lineData in data["text"]["allLines"]:
+            if lineData["type"] != "ColumnAtLine":
+                continue
+            value = lineData["displayValue"]
+            items[value].append(docNum)
+    output(items, toFile, fileName)
+
+
+def getContentTypes(toFile=True):
+    fileName = "contenttypes.txt"
+    items = collections.defaultdict(set)
+    for (docNum, data) in getData():
+        for lineData in data["text"]["allLines"]:
+            for contentData in lineData["content"]:
+                contentType = contentData["type"]
+                items[contentType].add(docNum)
+    output(items, toFile, fileName)
+
+
+def getVariants(toFile=True):
+    fileName = "variants.txt"
+    items = collections.defaultdict(set)
+    for (docNum, data) in getData():
+        for lineData in data["text"]["allLines"]:
+            for contentData in lineData["content"]:
+                contentType = contentData["type"]
+                if contentType == "Word":
+                    for signData in contentData["parts"]:
+                        signType = signData["type"]
+                        if signType == "Variant":
+                            variant = signData["value"]
+                            items[variant].add(docNum)
+    output(items, toFile, fileName)
 
 
 META_KEYS = {
@@ -161,83 +280,23 @@ LINE_TYPES = set(
 
 
 def getLine(line):
-    tp = line["type"]
+    prefix = line["prefix"]
     content = " ".join(c["value"] for c in line.get("content", []))
-    if tp == "EmptyLine":
-        prefix = ""
-    elif tp == "TextLine":
-        info = line.get("lineNumber", {})
-        prefix = "" + (
-            ";".join(
-                (
-                    str(info["number"]),
-                    "'" if info["hasPrime"] else "",
-                )
-            )
-        )
-    elif tp == "ColumnAtLine":
-        info = line["label"]
-        prefix = "@column" + (
-            ";".join(
-                (
-                    str(info["column"]),
-                    "'" if info["status"] == ["PRIME"] else "",
-                )
-            )
-        )
-    elif tp == "DiscourseAtLine":
-        prefix = "#colophon"
-    elif tp == "SurfaceAtLine":
-        info = line["label"]
-        prefix = "@face" + (
-            ";".join(
-                (
-                    info["abbreviation"],
-                    "'" if info["status"] == ["PRIME"] else "",
-                )
-            )
-        )
-    elif tp == "ControlLine":
-        (pre, content) = content.split(":", 1)
-        preParts = pre.split(".", 1)
-        kind = preParts[0]
-        atts = preParts[1] if len(preParts) > 1 else ""
-        attParts = atts.split(".", 1)
-        lang = attParts[0]
-        extra = attParts[1] if len(attParts) > 1 else ""
-        prefix = f"#{kind};{lang};{extra}"
-        if not kind.startswith("tr"):
-            print(f"Strange ControlLine: {content}")
-    elif tp == "NoteLine":
-        prefix = "#note"
-    elif tp == "TranslationLine":
-        lang = line["language"]
-        prefix = f"#tr;{lang};"
-    elif tp == "LooseDollarLine":
-        prefix = "$"
-    elif tp == "RulingDollarLine":
-        number = line["number"].lower()
-        prefix = f"$ruling;{number}"
-    elif tp == "SealDollarLine":
-        prefix = "$seal"
-    else:
-        prefix = f"!!!{tp}"
-        print(f"Unknown line type: {tp}")
     return (prefix, content)
 
 
 def extractLines(path, asData=False):
     data = readJsonFile(path)
     pNum = data["cdliNumber"]
+    xNum = data["number"]
 
-    result = [f"@pnum={pNum}"]
+    result = [f"@pnum={pNum}", f"@xnum={xNum}"]
 
     lines = data["text"]["allLines"]
 
     for line in lines:
         (prefix, content) = getLine(line)
-        tp = line["type"]
-        result.append(f"{tp}: {prefix}: {content}")
+        result.append(f"{pNum}-{xNum}: {prefix}: {content}")
 
     if asData:
         return result

@@ -1,0 +1,32 @@
+text.allLines[].content[].flags
+	['#', '?']
+	[]
+	['#']
+text.allLines[].content[].parts[].flags
+	['!']
+	['#']
+	['?', '?']
+	['?', '#']
+	['!', '?']
+	['?']
+	['!', '#']
+	[]
+	['!', '?', '#']
+	['*']
+	['#', '?']
+text.allLines[].content[].parts[].parts[].flags
+	['!']
+	['#']
+	['?', '#']
+	['?']
+	[]
+	['#', '?']
+text.allLines[].content[].parts[].sign.flags
+	['?']
+	[]
+	['#']
+text.allLines[].content[].parts[].tokens[].flags
+	['?', '#']
+	['#', '?']
+	[]
+	['#']

@@ -1,0 +1,6 @@
+text.allLines[].label.status
+	['PRIME']
+	[]
+text.allLines[].status
+	None
+	'UNCERTAIN'

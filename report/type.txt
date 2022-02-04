@@ -1,0 +1,62 @@
+text.allLines[].content[].parts[].nameParts[].type
+	'ValueToken'
+	'BrokenAway'
+text.allLines[].content[].parts[].parts[].nameParts[].type
+	'ValueToken'
+	'BrokenAway'
+text.allLines[].content[].parts[].parts[].type
+	'Reading'
+	'Joiner'
+text.allLines[].content[].parts[].sign.type
+	'Grapheme'
+text.allLines[].content[].parts[].tokens[].nameParts[].type
+	'ValueToken'
+text.allLines[].content[].parts[].tokens[].type
+	'Logogram'
+	'Reading'
+	'Number'
+text.allLines[].content[].parts[].type
+	'Joiner'
+	'BrokenAway'
+	'Determinative'
+	'Reading'
+	'Variant'
+	'Number'
+	'UnclearSign'
+	'PerhapsBrokenAway'
+	'UnknownNumberOfSigns'
+	'Logogram'
+	'Removal'
+	'AccidentalOmission'
+	'UnidentifiedSign'
+text.allLines[].content[].type
+	'ValueToken'
+	'LanguageShift'
+	'LoneDeterminative'
+	'BrokenAway'
+	'Erasure'
+	'Word'
+	'Divider'
+	'DocumentOrientedGloss'
+text.allLines[].extent.number.type
+	'LineNumber'
+text.allLines[].lineNumber.type
+	'LineNumber'
+text.allLines[].parts[].type
+	'StringPart'
+	'EmphasisPart'
+text.allLines[].scope.type
+	'Object'
+	'Scope'
+text.allLines[].type
+	'EmptyLine'
+	'LooseDollarLine'
+	'ColumnAtLine'
+	'SurfaceAtLine'
+	'TextLine'
+	'ControlLine'
+	'SealDollarLine'
+	'TranslationLine'
+	'RulingDollarLine'
+	'NoteLine'
+	'DiscourseAtLine'

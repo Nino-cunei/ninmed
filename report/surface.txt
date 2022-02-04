@@ -1,0 +1,3 @@
+text.allLines[].label.surface
+	'OBVERSE'
+	'REVERSE'

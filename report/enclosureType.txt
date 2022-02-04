@@ -1,0 +1,44 @@
+text.allLines[].content[].enclosureType
+	['DOCUMENT_ORIENTED_GLOSS']
+	[]
+	['BROKEN_AWAY', 'PERHAPS_BROKEN_AWAY']
+	['DOCUMENT_ORIENTED_GLOSS', 'BROKEN_AWAY']
+	['REMOVAL']
+	['BROKEN_AWAY']
+text.allLines[].content[].parts[].enclosureType
+	['DOCUMENT_ORIENTED_GLOSS']
+	['ACCIDENTAL_OMISSION']
+	[]
+	['BROKEN_AWAY', 'PERHAPS_BROKEN_AWAY']
+	['PERHAPS']
+	['DOCUMENT_ORIENTED_GLOSS', 'BROKEN_AWAY']
+	['REMOVAL']
+	['BROKEN_AWAY']
+text.allLines[].content[].parts[].nameParts[].enclosureType
+	['DOCUMENT_ORIENTED_GLOSS']
+	['ACCIDENTAL_OMISSION']
+	[]
+	['BROKEN_AWAY', 'PERHAPS_BROKEN_AWAY']
+	['DOCUMENT_ORIENTED_GLOSS', 'BROKEN_AWAY']
+	['REMOVAL']
+	['BROKEN_AWAY']
+text.allLines[].content[].parts[].parts[].enclosureType
+	['BROKEN_AWAY', 'PERHAPS_BROKEN_AWAY']
+	['BROKEN_AWAY']
+	[]
+	['DOCUMENT_ORIENTED_GLOSS']
+text.allLines[].content[].parts[].parts[].nameParts[].enclosureType
+	['BROKEN_AWAY', 'PERHAPS_BROKEN_AWAY']
+	['BROKEN_AWAY']
+	[]
+	['DOCUMENT_ORIENTED_GLOSS']
+text.allLines[].content[].parts[].sign.enclosureType
+	[]
+text.allLines[].content[].parts[].tokens[].enclosureType
+	['BROKEN_AWAY']
+	[]
+	['DOCUMENT_ORIENTED_GLOSS']
+text.allLines[].content[].parts[].tokens[].nameParts[].enclosureType
+	['BROKEN_AWAY']
+	[]
+	['DOCUMENT_ORIENTED_GLOSS']
