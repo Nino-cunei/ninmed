@@ -1,0 +1,4 @@
+text.allLines[].content[].type
+	%akk
+	%sb
+	%sux

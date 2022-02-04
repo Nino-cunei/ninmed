@@ -1,0 +1,44 @@
+@node
+@converters=Cale Johnson, Dirk Roorda
+@description=P number of a document
+@editor=Cale Johnson et al.
+@name=NinMed Medical Texts from Nineveh
+@project=BabMed
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2022-02-04T15:37:13Z
+
+85884	P285136
+P479250
+P285109
+P399223
+P399313
+P400909
+P401255
+P403291
+P403381
+P394104
+P393782
+P404547
+P365742
+P394390
+P365744
+P394422
+P394434
+P394454
+P394492
+P432416
+P394520
+P394523
+P395359
+P395407
+P396343
+P393735
+P396392
+P393743
+P397315
+P397594
+P398154
+P424899
+P365747
+P425685

@@ -27,7 +27,8 @@ VERSION_SRC = META_DECL["versionSrc"]
 VERSION_TF = META_DECL["versionTf"]
 SRC_DIR = f"{REPO_DIR}/source/json/{VERSION_SRC}"
 
-SKIP_KEYS = set("""
+SKIP_KEYS = set(
+    """
 accession
 bmIdNumber
 folios
@@ -36,7 +37,8 @@ measures
 record
 references
 script
-""".strip().split())
+""".strip().split()
+)
 
 
 def getJsonFiles():
@@ -134,31 +136,41 @@ def compact(path, doMeta=False, doText=False):
     print(f"{pNum}\n{meta}\n{text}")
 
 
-def analyse(data, theKey, asData=False, full=False):
+def analyse(data, theKey, instead=None, asData=False, full=False):
     entries = collections.defaultdict(set)
+    if instead is not None:
+        (theValue, otherKey) = instead[0:2]
+        subKey = instead[2] if len(instead) >= 2 else None
 
-    def walk(path, info):
+    def walk(path, info, parent):
         if not full and path in SKIP_KEYS:
             return
         if path == theKey or path.endswith(f".{theKey}") or path.endswith(f"]{theKey}"):
-            entries[path].add(repr(info))
+            if instead is None:
+                entries[path].add(repr(info))
+            else:
+                if info == theValue:
+                    lookup = parent[otherKey]
+                    if subKey is not None:
+                        lookup = (
+                            tuple(c[subKey] for c in lookup)
+                            if type(lookup) is list
+                            else lookup[subKey]
+                        )
+
+                    entries[path].add(lookup)
         elif type(info) is dict:
             for (k, v) in sorted(info.items()):
                 pathRep = f"{path}." if path else ""
-                walk(f"{pathRep}{k}", v)
+                walk(f"{pathRep}{k}", v, info)
         elif type(info) is list:
             for v in info:
                 pathRep = f"{path}[]" if path else ""
-                walk(f"{pathRep}", v)
-        else:
-            if (
-                path == theKey
-                or path.endswith(f".{theKey}")
-                or path.endswith(f"]{theKey}")
-            ):
-                entries[path].add(info)
+                walk(f"{pathRep}", v, info)
 
-    walk("", data)
+    walk("", data, {})
+    if asData == 1:
+        return entries
     lines = []
     for (path, types) in sorted(entries.items(), key=lambda x: x[0]):
         if asData:
@@ -173,13 +185,16 @@ def analyse(data, theKey, asData=False, full=False):
         return lines
 
 
-def analyseAll(theKey, toFile=True, full=False):
+def analyseAll(theKey, instead=None, asData=False, toFile=True, full=False):
     data = []
     for path in getJsonFiles():
         data.append(readJsonFile(path))
-    lines = analyse(data, theKey, asData=True, full=full)
-    if toFile:
-        writeReport(f"{theKey}.txt", lines)
+    lines = analyse(data, theKey, instead=instead, asData=True, full=full)
+    if asData:
+        return lines
+    elif toFile:
+        base = theKey if instead is None else f"{theKey}-{instead[0]}-{instead[1]}"
+        writeReport(f"{base}.txt", lines)
     else:
         print("\n".join(lines))
 

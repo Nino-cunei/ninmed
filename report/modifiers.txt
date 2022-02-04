@@ -1,0 +1,11 @@
+text.allLines[].content[].modifiers
+	[]
+text.allLines[].content[].parts[].modifiers
+	[]
+	['@v']
+text.allLines[].content[].parts[].parts[].modifiers
+	[]
+text.allLines[].content[].parts[].sign.modifiers
+	[]
+text.allLines[].content[].parts[].tokens[].modifiers
+	[]
