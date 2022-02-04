@@ -332,7 +332,7 @@ def director(cv):
     def doModifiers(data, cur):
         modifierList = data.get("modifiers", [])
         if len(modifierList):
-            modifiers = "".join(modifierList)
+            modifiers = "".join(m[1:] for m in modifierList)
             cv.feature(cur, modifiers=f"@{modifiers}")
 
     def doSign(data, **features):
