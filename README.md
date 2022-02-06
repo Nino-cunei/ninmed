@@ -20,13 +20,6 @@ run your own programs off-line, and publish your work in online notebooks.
 This repo contains transliterations of texts of the Nineveh Medical Encyclopedia
 (ca. 800 BCE).
 
-This compendium was first described and transliterated as part of the
-BabMed Project (Berlin, 2013–2018)
-and is now being edited, with normalizations, lemmatization and translations,
-in the NinMed Project, which is currently underway (London, 2020–2023).
-
-We have used JSON files provided by NinMed and converted them into a Text-Fabric corpus.
-
 See also
 [about](docs/about.md)
 and
