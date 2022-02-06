@@ -1,0 +1,45 @@
+apiVersion: 3
+dataDisplay:
+  showVerseInTuple: true
+  textFormats:
+    layout-orig-full:
+      method: layoutFull
+      style: trans
+    layout-orig-plain:
+      method: layoutPlain
+      style: trans
+    text-orig-full:
+      style: trans
+    text-orig-plain:
+      style: trans
+docs:
+  charText: mapping from readings to UNICODE
+  charUrl: 'https://nbviewer.jupyter.org/github/Nino-cunei/tfFromAtf/blob/master/programs/mapReadings.ipynb'
+  docPage: about
+  featureBase: 'https://github.com/Nino-cunei/ninmed/blob/master/docs/transcription{docExt}'
+  featurePage: ''
+provenanceSpec:
+  corpus: 'Nineveh Medical Encyclopedia 800 BCE: Cuneiform tablets'
+  doi: 10.5281/zenodo.2579207
+  version: 0.2
+  webBase: https://cdli.ucla.edu
+  webHint: Show this document on CDLI
+  webUrl: '{webBase}/search/search_results.php?SearchMode=Text&ObjectID=<1>'
+typeDisplay:
+  cluster:
+    stretch: false
+    label: '{type}'
+  document:
+    featuresBare: docnumber
+  face:
+    featuresBare: face
+  line:
+    features: seal ruling note comment tr@en
+  sign:
+    features: collated remarkable question damage det uncertain missing excised supplied
+      lang 
+  word:
+    base: true
+    label: true
+    wrap: false
+writing: akk

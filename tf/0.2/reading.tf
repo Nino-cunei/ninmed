@@ -1,0 +1,23580 @@
+@node
+@converters=Cale Johnson, Dirk Roorda
+@description=reading of a sign
+@editor=Cale Johnson et al.
+@name=NinMed Medical Texts from Nineveh
+@project=BabMed
+@valueType=str
+@writtenBy=Text-Fabric
+@dateWritten=2022-02-06T13:00:37Z
+
+22	su
+24	ub
+hur
+27	ri
+29	im
+su
+33	ub
+36	ša
+sa
+39	ku
+41	tu
+hi
+44	si
+a
+47	pi
+49	il
+51	lat
+aš
+kur
+56	ba
+58	an
+60	ni
+73	hi
+85	ma
+87	mit
+89	šar
+91	ra
+94	qi
+96	ina
+98	pil
+100	ši
+un
+gi
+ha
+ba
+124	ina
+128	ta
+130	kar
+hu
+133	bu
+135	uš
+159	šim
+161	ina
+163	tur
+165	ar
+190	ina
+192	tur
+194	ar
+209	lu
+215	ta
+217	kar
+251	su
+gur
+254	ru
+256	ud
+sah
+259	le
+261	e
+si
+264	ki
+267	tu
+287	ina
+294	su
+297	si
+336	su
+tu
+339	gal
+341	lab
+346	u
+352	u
+376	a
+379	na
+381	ku
+u
+385	ša
+387	an
+389	ni
+402	e
+411	nu
+418	gi
+420	pisan
+422	gen
+keš
+425	da
+439	a
+442	ge
+444	a
+nu
+447	tuku
+463	nu
+465	ku
+467	ku
+471	nig
+473	ge
+475	e
+477	gen
+479	na
+dumu
+482	gu
+497	šu
+u
+500	me
+502	ti
+522	ka
+524	bi
+526	ta
+u
+529	me
+531	ni
+533	gar
+550	he
+552	en
+554	si
+556	il
+558	e
+568	he
+570	em
+572	ma
+575	ra
+577	e
+598	ina
+603	ma
+ina
+606	eš
+618	ka
+620	keš
+622	bi
+he
+625	du
+627	a
+632	ka
+634	keš
+636	bi
+he
+639	du
+641	a
+655	ina
+659	šu
+u
+662	man
+664	zaq
+666	ma
+ina
+669	eš
+677	ta
+ma
+680	la
+682	a
+rit
+685	ta
+687	šu
+690	a
+693	ha
+695	tu
+mu
+698	še
+700	qa
+702	at
+re
+705	ši
+707	šu
+710	na
+713	ši
+pat
+716	ri
+731	ana
+737	di
+ina
+741	šu
+u
+744	man
+746	zaq
+748	ma
+ina
+751	eš
+765	as
+768	suh
+770	šu
+772	ma
+iṣ
+775	ṣa
+777	bat
+780	bi
+806	ma
+iṣ
+809	ṣa
+811	bat
+814	bi
+816	u
+835	a
+837	na
+u
+840	ma
+843	mi
+848	ma
+iṣ
+851	ṣa
+853	bat
+856	bi
+u
+859	ma
+861	me
+879	bi
+d
+882	lip
+884	pa
+886	šir
+898	bi
+u
+901	ma
+903	me
+lip
+906	pa
+908	šir
+922	šam
+924	ma
+927	ka
+930	šu
+lib
+933	luṭ
+948	bu
+i
+951	re
+953	du
+955	šu
+958	ap
+961	pi
+šil
+964	ta
+966	hi
+ša
+975	šu
+978	šu
+u
+982	šu
+988	urudu
+na
+991	ah
+993	bi
+995	ana
+997	urudu
+na
+1000	ah
+1002	bi
+1015	qe
+1048	ina
+1051	sar
+1072	ti
+šim
+1092	eme
+1094	sal
+1096	li
+mal
+1099	ma
+1101	liš
+1105	ina
+1151	sar
+1154	aš
+1157	ma
+1169	na
+1172	aṣ
+1174	ma
+1176	da
+1178	te
+an
+1181	na
+1183	ti
+1191	ša
+1198	ša
+hul
+1202	qu
+ana
+1208	u
+1237	ti
+ina
+1242	aṣ
+1244	ma
+1247	šu
+u
+1251	za
+1253	ka
+1255	ma
+1293	u
+1313	ma
+1348	lu
+1350	u
+ina
+1393	šu
+1434	ana
+1455	su
+1457	ma
+1481	su
+u
+an
+1485	ki
+1487	nu
+1489	ti
+1501	ta
+1503	na
+1505	ṣar
+1509	ma
+1526	šu
+1530	šim
+1536	su
+1553	šu
+ina
+1556	tu
+1558	šap
+1560	ra
+1562	šu
+1564	ma
+1580	su
+ana
+1584	šu
+1588	u
+ap
+1591	ru
+1593	ša
+1596	su
+1607	šim
+1615	ma
+1630	ana
+1634	šu
+1638	šim
+1645	šim
+1650	su
+1663	i
+1665	na
+1667	qu
+tu
+1670	ṣar
+1672	raš
+1674	ma
+1691	u
+ap
+1694	ru
+1696	ša
+u
+il
+1700	kul
+1702	la
+ša
+1720	su
+1722	ma
+1737	tu
+1739	bal
+ta
+1742	sak
+ina
+1752	su
+1755	ma
+1767	tu
+1769	bal
+ta
+1772	sak
+ina
+1782	su
+1785	ma
+1801	ma
+1804	ṣi
+1806	na
+1808	ah
+1811	tu
+1813	ra
+1817	šim
+1826	ša
+1828	šu
+1830	nu
+1840	ta
+1842	sak
+ina
+1862	ma
+1869	šu
+in
+1872	nem
+1874	me
+1876	ru
+in
+1879	ne
+1882	bi
+1884	ṭu
+1911	tara
+1913	bak
+1923	ina
+1925	dug
+1930	šal
+1945	i
+1948	lu
+1950	ru
+sa
+1953	a
+1955	mu
+1961	su
+1967	e
+1970	qi
+1972	di
+ša
+la
+1977	ina
+1989	u
+i
+1992	lu
+1994	ru
+sa
+1997	a
+1999	mu
+2004	su
+še
+bi
+2012	tu
+2015	kaṣ
+2017	ṣa
+2020	šu
+e
+2023	qi
+2025	di
+2027	ma
+ša
+la
+2031	ana
+2041	id
+2046	su
+ina
+tug
+ṣi
+2051	in
+2054	di
+2061	šu
+la
+ta
+2065	ṣa
+2067	ba
+2076	bu
+2078	ṭu
+2080	tu
+ina
+2083	tara
+2085	bak
+2090	su
+2100	d
+2108	mušen
+2117	niš
+ina
+2130	gu
+2133	riš
+2135	tu
+i
+2138	tel
+2140	li
+2160	u
+2170	u
+2178	u
+u
+2182	ra
+2184	nu
+2189	ki
+2191	is
+2197	ul
+2199	tu
+2206	ki
+2208	is
+2215	u
+2220	ul
+2222	tu
+2244	šu
+2247	ma
+2254	aš
+2256	rat
+d
+2259	nin
+2261	urta
+2264	ma
+2271	šu
+2277	šim
+2281	sig
+2285	mi
+2290	bi
+za
+te
+2295	šim
+2304	šu
+2306	ma
+2313	aš
+2315	rat
+d
+2320	ma
+2327	mi
+ana
+2336	šu
+2341	an
+2391	giš
+2396	at
+2409	su
+2434	te
+2436	ṭer
+2439	ri
+2443	u
+2447	lim
+2451	pa
+2454	tan
+2478	šu
+mur
+2482	din
+2484	ni
+2486	sah
+2488	le
+2490	e
+2497	ina
+2499	tara
+2501	bak
+2512	šu
+2518	ka
+2520	la
+2524	me
+2527	šu
+2529	ina
+2533	mi
+ina
+šim
+2539	er
+2541	ri
+2546	šu
+ta
+2549	kad
+2551	da
+2553	ad
+2555	ina
+2562	šu
+2570	šu
+2572	tu
+2574	šak
+2576	kal
+qer
+2579	ša
+em
+2582	ma
+2585	šu
+2588	šu
+2591	šu
+2596	šu
+2601	kur
+2603	sin
+2605	ni
+2614	šu
+2621	pap
+2623	ina
+2627	ti
+ina
+ir
+2631	ri
+2640	šu
+2642	giš
+2645	ana
+2651	šu
+ta
+2654	bi
+2656	la
+2661	ka
+2663	la
+2666	me
+2669	šu
+2671	u
+2673	kal
+2675	ma
+2677	giš
+2682	u
+giš
+šinig
+2687	u
+2690	d
+2694	šim
+2701	sah
+2703	le
+2705	e
+2709	ta
+2711	bi
+2713	la
+ana
+2720	šu
+2726	su
+2729	ma
+2739	ina
+2743	me
+2746	šu
+2748	ma
+2753	su
+tu
+2756	gal
+2758	lab
+2760	rib
+2762	ka
+2767	šu
+2772	ina
+2775	eš
+2782	mušen
+mun
+eme
+2786	sal
+2788	li
+2790	ga
+2792	bi
+2794	i
+2798	šim
+2810	sar
+2816	ṭi
+2818	pu
+šum
+2821	ma
+2827	šu
+2831	ha
+2833	an
+2835	ṭa
+u
+mur
+2839	din
+2842	ni
+2849	ga
+2851	bi
+2853	i
+mun
+eme
+2857	sal
+2859	li
+an
+2862	nu
+2864	u
+ṭi
+2868	pu
+ša
+2874	šim
+2885	sar
+an
+2888	nu
+2890	u
+2892	ṭi
+2894	pu
+ša
+2908	šu
+2916	u
+2918	kal
+2920	la
+ana
+2923	a
+2925	hi
+2927	i
+2930	ma
+2934	si
+ki
+2937	ma
+2951	du
+2959	du
+2961	ku
+2963	nu
+2965	ma
+tab
+2968	la
+2973	a
+2976	na
+2982	e
+2984	de
+2986	e
+2989	ma
+2993	si
+ki
+2996	ma
+3017	du
+3023	ku
+3025	nu
+3027	ma
+tab
+3030	la
+3038	ina
+3044	šu
+li
+3047	piš
+3049	tu
+šim
+3054	šim
+3056	šim
+3067	ina
+3074	šu
+3076	a
+3078	ṣa
+3080	at
+u
+3086	šu
+a
+3089	ša
+3091	a
+3093	kam
+3095	ma
+3103	ša
+3114	mal
+3116	ma
+3118	liš
+3120	ina
+3131	šu
+3133	ta
+3135	maš
+3138	aš
+3149	šu
+3151	a
+3153	li
+3155	ka
+3158	a
+ana
+3163	šu
+3178	ina
+3191	na
+as
+3194	har
+ina
+3214	šu
+3218	kam
+3221	ma
+u
+3225	ak
+ana
+3229	šu
+3236	šim
+3244	mušen
+mun
+3247	eme
+3249	sal
+3251	li
+3254	niš
+3259	ina
+3262	giš
+3264	lu
+ina
+3269	giš
+3280	uš
+ina
+3290	šu
+3301	šu
+3303	u
+3308	šim
+3311	u
+3321	šim
+3329	mušen
+sah
+3332	lu
+3334	u
+3338	an
+3340	nu
+3342	ti
+3344	te
+3346	qit
+ša
+3359	šu
+qu
+3362	qa
+3364	ni
+3368	gu
+3370	ru
+3372	uš
+3374	ga
+3376	ra
+3379	aš
+ša
+3385	ina
+3388	te
+3390	sip
+3394	me
+ina
+3397	te
+3399	te
+3401	mer
+3405	ma
+3412	mal
+3414	ma
+3416	liš
+3431	ina
+3463	mal
+3465	ma
+3467	liš
+3469	ina
+3477	giš
+3489	d
+3502	ana
+3508	šu
+3516	šu
+3519	ina
+3533	niš
+3537	ina
+3550	te
+3552	eq
+3554	qi
+3556	i
+3558	na
+3567	i
+3569	te
+3571	ne
+3573	ṭa
+3575	a
+3580	šu
+3583	ma
+3588	šu
+ip
+3591	pa
+3593	a
+ana
+3597	šu
+3607	ina
+3616	šu
+3626	šu
+nu
+3629	up
+3632	pu
+3634	ha
+3638	šim
+3650	ina
+3652	tara
+3654	bak
+3659	šu
+3666	ga
+3668	bi
+3670	i
+mun
+eme
+3674	sal
+3676	li
+3683	ṭi
+3685	pu
+ša
+3696	šu
+bar
+3700	ra
+u
+3703	u
+3705	kal
+3707	la
+3724	me
+ina
+3728	te
+3730	te
+3732	mer
+3735	ma
+3748	šu
+3757	šu
+3769	šu
+ar
+3773	pa
+3776	ina
+3778	u
+3783	ša
+3792	šu
+3799	ša
+ki
+3802	ib
+3804	ša
+3808	u
+3810	ina
+3831	šu
+ṣu
+3834	uh
+3836	hu
+3838	ta
+3848	su
+tu
+3851	ha
+3853	sa
+3858	šu
+ina
+dug
+3863	tara
+3865	bak
+3870	ma
+ša
+3875	i
+3879	šal
+3881	lu
+ina
+3886	u
+3901	ina
+3903	ta
+3905	ka
+3907	aṣ
+ina
+3910	te
+3912	ep
+3914	pi
+ma
+3917	ʾ
+3919	da
+la
+i
+3923	ba
+3932	šim
+3934	u
+3941	ga
+3943	bi
+3945	i
+3950	sar
+ina
+3961	šu
+3969	ši
+3971	ib
+3973	ri
+tur
+3978	ar
+3980	ki
+3982	ma
+ṭi
+3985	pi
+te
+3988	ṭe
+3990	ep
+3993	pi
+4011	sar
+sah
+4014	le
+4016	e
+qa
+4019	la
+4021	a
+4023	ti
+bal
+4026	ṭa
+4028	ti
+ina
+dug
+4032	tara
+4034	bak
+4040	šim
+4045	sar
+ina
+4053	šu
+4069	tur
+4071	ar
+ina
+4084	ina
+4104	ku
+ina
+4109	al
+4116	an
+4119	ma
+4123	ina
+4144	ina
+4163	u
+4170	ina
+4176	ina
+4181	ka
+4196	ina
+4214	ina
+4220	ina
+4224	an
+4232	tur
+4234	ar
+4246	ina
+mu
+4249	ša
+4251	li
+4263	šu
+4266	ma
+4272	ina
+4279	ana
+4285	šu
+tu
+4288	na
+4290	tak
+4292	ša
+4295	ti
+4301	ina
+4306	u
+4308	ša
+4310	mušen
+4312	mal
+4314	ma
+4316	liš
+4326	ina
+mu
+4329	ša
+4331	li
+4337	ana
+4343	šu
+4348	di
+4352	mušen
+4364	ma
+4380	ka
+ina
+4385	si
+4388	ina
+4393	tu
+4395	la
+4397	bak
+4401	ina
+mu
+4404	ša
+4406	li
+4410	an
+ka
+4413	a
+4415	a
+4417	nam
+te
+4420	te
+4422	ne
+4424	qi
+4433	ana
+4437	tara
+4439	bak
+4447	im
+4458	ku
+4460	ut
+4462	pa
+4464	a
+ina
+4471	te
+4473	qi
+4485	ina
+4487	ina
+urudu
+4494	at
+te
+4497	qi
+4503	giš
+4510	ur
+4512	ne
+4514	e
+4518	ta
+4520	sak
+te
+4523	qi
+4527	ina
+4530	te
+4532	qi
+4538	ta
+ana
+4545	šu
+tu
+4548	na
+4550	tak
+4553	bu
+4555	ṣi
+4558	ni
+ša
+nu
+4562	ri
+ta
+4565	sa
+4567	rim
+qut
+4570	ra
+ša
+nu
+4574	ri
+4588	šu
+4591	si
+4603	mušen
+mal
+4606	ma
+4608	liš
+4619	ina
+4621	u
+4629	ina
+urudu
+4635	tu
+4637	kaṣ
+4639	ṣa
+ina
+urudu
+4654	ša
+urudu
+4659	ta
+4661	šam
+4663	ma
+4665	aṭ
+4669	mi
+4675	pa
+4677	ʾa
+4679	ṣu
+4681	te
+4687	ina
+ir
+4690	ri
+4696	te
+4698	qi
+4700	ma
+4706	šu
+ik
+4709	ši
+4711	a
+4713	na
+4717	ki
+4719	ṣa
+4721	a
+4723	ti
+bul
+4726	lu
+4728	ṭu
+u
+kap
+4732	pi
+4737	šu
+4739	šu
+4741	ṣi
+4743	i
+sah
+4746	le
+4748	e
+ki
+4751	ṣa
+4753	a
+4755	ti
+ina
+4760	ma
+4762	ma
+4764	ʾa
+4766	du
+la
+ir
+4770	ri
+4772	ra
+ina
+4779	tara
+4781	bak
+4786	šu
+4791	ina
+4797	rib
+4799	ki
+4804	šu
+4809	ma
+4815	u
+4820	u
+4827	u
+4837	ti
+4840	qe
+ina
+4847	sah
+4849	le
+4851	e
+4858	šu
+4863	tur
+4865	ar
+ta
+4868	pa
+4870	a
+4872	aṣ
+ina
+4884	me
+ina
+4888	te
+4890	tem
+4892	mer
+4895	ma
+ina
+4905	ina
+4919	šu
+4921	nu
+ina
+giš
+4925	tu
+4927	tak
+4929	kap
+4936	ša
+4938	mušen
+ana
+4944	šu
+il
+4947	qa
+4949	a
+4953	ša
+4955	šu
+ta
+4958	sak
+te
+4961	qi
+4965	kam
+4967	ka
+4969	di
+4975	ša
+kap
+4978	pi
+4983	šu
+4985	tu
+4987	gal
+4989	lab
+4991	u
+4996	da
+4999	aq
+5001	qi
+5003	qi
+5005	up
+5007	pu
+5009	te
+gu
+5012	ra
+ša
+5016	u
+ta
+5019	lu
+5021	pa
+5023	di
+5025	la
+5028	ar
+5030	si
+5032	ni
+ša
+hal
+5036	li
+5038	ša
+5040	ša
+5055	la
+5057	ki
+5059	i
+ša
+5062	la
+na
+5065	aš
+5067	ku
+5071	la
+ṣa
+5074	bi
+5076	tu
+ina
+nem
+5080	se
+5082	te
+ta
+5085	qal
+5087	lu
+5090	giš
+5093	bal
+5095	ta
+ša
+5098	u
+5102	giš
+5109	u
+5113	ta
+5115	qal
+5117	lu
+5119	u
+5127	u
+5135	u
+gim
+5138	gi
+5140	ra
+5153	niš
+5158	ina
+5161	sar
+sek
+5164	ru
+5166	ti
+5172	ta
+5174	la
+5176	aš
+5200	te
+5202	eq
+5204	qi
+5215	šu
+5223	giš
+5232	ina
+gi
+5237	ana
+5243	šu
+5255	šu
+5263	giš
+5271	ina
+5276	mun
+eme
+5279	sal
+5281	li
+5293	šu
+5297	ma
+5299	ma
+5301	ʾ
+5303	du
+5305	ti
+5308	ina
+5312	šu
+5317	šu
+5330	su
+tu
+5333	gal
+5335	lab
+ina
+5339	me
+5342	šu
+5348	tu
+5350	kaṣ
+5352	ṣa
+5354	u
+5358	tur
+5361	ar
+5364	ina
+5378	si
+5380	sar
+5386	šu
+5389	u
+5391	za
+5393	ku
+5395	u
+5401	u
+5414	ina
+5421	te
+5423	te
+5425	niq
+5427	qi
+5436	šu
+5439	ma
+ši
+5442	ši
+5444	tu
+5446	d
+5452	šu
+ar
+5457	mat
+5467	ak
+5472	šu
+5477	ma
+5479	u
+5483	sah
+5485	la
+5487	na
+5489	u
+5504	mušen
+5513	ša
+5515	šu
+5517	nu
+5521	niš
+5523	ina
+5527	giš
+5537	šu
+5540	ma
+5548	šu
+5551	ma
+5553	ši
+5555	ši
+5557	tu
+5559	d
+5565	šu
+ar
+5568	mat
+di
+5572	gal
+5574	šu
+5576	ana
+5578	ša
+5580	d
+5586	šu
+5588	u
+at
+5591	kam
+5596	ina
+5599	giš
+5608	šu
+5613	ma
+5621	šu
+5625	ma
+5629	di
+5631	gal
+5633	šu
+5645	šu
+5667	giš
+5680	ma
+5690	ina
+gi
+5695	ana
+5702	šu
+5705	ah
+5716	di
+ana
+5720	i
+5722	gu
+5724	le
+5726	e
+5731	ta
+5733	šar
+5735	rap
+qut
+5738	ra
+ša
+šit
+5742	ti
+5745	a
+5747	he
+5750	en
+5752	na
+5757	šu
+5762	ma
+5775	šu
+5780	ma
+5782	ana
+5785	šu
+5791	šim
+5793	u
+5799	u
+5804	ha
+5812	šu
+ši
+5815	ši
+5818	tu
+5828	ina
+5843	mušen
+5852	ta
+5854	bi
+5856	la
+5866	mušen
+ina
+5879	ina
+5884	u
+im
+5887	hur
+5889	lim
+ina
+5901	šu
+5910	šu
+5914	šu
+5917	šu
+5925	ina
+5931	ina
+5935	šu
+5940	mušen
+ina
+5949	giš
+5951	bi
+5953	ni
+5955	giš
+5960	ina
+5967	ta
+5969	la
+5971	aš
+5976	šu
+5990	pa
+5992	tan
+5994	ana
+6001	šu
+ta
+6004	ma
+6006	za
+6008	aʾ
+6013	mun
+eme
+6016	sal
+6018	li
+si
+6021	ik
+6023	ti
+6032	tur
+6034	ar
+6044	ina
+6049	sa
+6051	a
+6053	qi
+6064	šim
+6067	munus
+6071	ša
+6085	ana
+6091	šu
+tu
+6094	na
+6096	tak
+6110	a
+6115	ina
+6126	ta
+6128	ša
+6130	qal
+6138	mušen
+ta
+6141	bi
+6143	la
+ina
+6155	u
+6157	ba
+6159	ni
+6161	a
+6163	ṣi
+6166	su
+ina
+6171	si
+6177	šu
+6179	nu
+6186	ši
+6188	hi
+6190	il
+6192	tu
+6196	mal
+6198	ma
+6200	liš
+6205	ina
+6213	e
+6218	ina
+6221	munus
+6225	mal
+6227	ma
+6229	liš
+6242	šu
+6244	nu
+ana
+dug
+6254	at
+6263	an
+6267	ma
+6271	ina
+6282	ana
+6289	šu
+tu
+6292	na
+6294	tak
+6298	ina
+6312	šu
+kat
+6315	ma
+kur
+6318	ṣip
+6320	ti
+6324	ina
+na
+6337	šu
+6342	na
+6353	giš
+6368	a
+6370	he
+6372	e
+6380	u
+6385	ina
+6391	ina
+6411	ina
+6428	šu
+6430	nu
+ina
+giš
+6434	tu
+6437	tak
+6439	kap
+6444	ina
+6456	bi
+6458	la
+6460	ta
+6465	ina
+6477	ana
+6483	šu
+tu
+6487	na
+6489	tak
+6500	ti
+6502	i
+6509	hap
+6511	pi
+6519	ina
+6522	te
+6524	sip
+6527	ana
+6533	šu
+tu
+6537	na
+6539	tak
+6544	i
+6546	na
+6548	sah
+6564	ta
+6566	sak
+6576	ina
+6579	te
+6581	qi
+6585	ina
+6587	ta
+6589	la
+6591	aš
+6596	šu
+6601	te
+6603	qi
+6609	te
+6611	qi
+6615	ina
+6618	te
+6620	qi
+6623	ina
+6626	šu
+6629	tu
+6631	mad
+6635	ta
+6637	sak
+te
+6640	qi
+6656	u
+6666	šu
+6671	en
+6677	šu
+6687	a
+6689	ši
+6691	i
+6694	ina
+6701	a
+6703	na
+nu
+6706	uh
+6708	hi
+6714	ina
+6725	ana
+6732	šu
+6735	ina
+6739	giš
+6745	mun
+me
+6749	u
+ak
+6752	tam
+6754	ina
+6759	ina
+6772	šu
+ma
+6775	di
+6777	ra
+6784	ra
+6800	mušen
+6807	ina
+6822	šu
+6825	ma
+šam
+6828	ha
+6837	šu
+6841	ma
+6844	ina
+6850	še
+6853	e
+6855	li
+6863	šu
+6867	ma
+6870	ina
+6885	šu
+6897	ša
+6899	mušen
+ina
+6902	munus
+6918	si
+6920	ik
+6922	ti
+6936	d
+6944	šu
+6956	šu
+6973	ṣi
+6976	ri
+6978	ih
+6980	ta
+6996	ri
+6998	i
+7018	šu
+7032	kur
+7034	ṣib
+7036	ti
+7039	u
+7052	šu
+7058	ina
+7065	niš
+7085	šu
+7092	m
+aš
+7095	šur
+7107	ki
+ša
+d
+7111	u
+d
+taš
+7115	me
+7117	tu
+7121	ra
+7123	pa
+7125	aš
+7127	tu
+iš
+7130	ru
+7132	ku
+7134	šu
+7137	e
+7139	hu
+7141	uz
+7144	zu
+7150	na
+7152	mir
+7154	tu
+7156	ni
+7158	siq
+tup
+7161	šar
+7163	ru
+7165	ti
+7167	ša
+ina
+7173	ni
+a
+7176	lik
+mah
+7179	ri
+7181	ia
+mam
+7184	ma
+šip
+7187	ru
+7189	šu
+7191	a
+7193	tu
+7195	e
+7197	hu
+7199	uz
+7201	zu
+7203	bul
+7205	ṭi
+7207	muh
+7209	hi
+7212	liq
+7214	ti
+7218	ta
+7220	hi
+7223	zu
+nak
+7227	la
+a
+7230	zu
+7232	gal
+7234	lu
+7236	ut
+d
+nin
+7240	urta
+u
+d
+gu
+7245	la
+ma
+7248	la
+ba
+7251	aš
+7253	mu
+ina
+ṭup
+7258	pa
+7260	a
+7262	ni
+aš
+7265	ṭur
+as
+7269	niq
+7274	ma
+a
+7277	na
+ta
+7280	mar
+7282	ti
+7284	ši
+7286	ta
+7288	si
+7290	ia
+7292	qe
+7294	reb
+7300	ia
+7302	u
+7304	kin
+7308	su
+7310	a
+7312	lam
+7314	ana
+ki
+7317	is
+7322	šu
+7324	šu
+7326	ru
+7328	uš
+giš
+7333	šu
+7335	ru
+7337	uš
+giš
+šu
+7341	še
+u
+tar
+7345	muš
+u
+7349	lim
+u
+7354	u
+tu
+7357	lal
+u
+7371	ina
+7375	di
+ina
+7378	tuš
+7380	bat
+ina
+7390	pa
+7392	tan
+7397	ma
+ina
+7400	eš
+7403	ki
+7405	is
+7408	ina
+7410	ša
+7412	tu
+giš
+7419	šu
+7422	šu
+7424	ma
+7426	ki
+7428	a
+7430	am
+7433	nu
+7444	dam
+gal
+kur
+7449	gi
+d
+en
+7453	lil
+a
+7456	e
+nu
+7459	ub
+7461	zum
+7463	d
+zar
+7466	pa
+7468	ni
+7470	tu
+ša
+7473	igi
+7475	gal
+7477	la
+gub
+7480	a
+gir
+7483	a
+7485	ni
+gub
+7488	ba
+gir
+7491	a
+7493	ni
+dur
+7496	ra
+7499	du
+7501	ra
+7503	gir
+igi
+7506	gal
+gub
+7509	gir
+igi
+7512	gal
+7517	an
+7519	ni
+7521	ta
+7524	nu
+7526	ma
+7528	ana
+7532	d
+7539	ba
+7541	lu
+pa
+7544	tan
+7547	ma
+7550	ana
+7553	šu
+7555	ru
+7557	uš
+giš
+šu
+7561	še
+ina
+7566	ba
+7568	lu
+pa
+7571	tan
+7574	ma
+7576	ana
+7581	ina
+7585	ba
+7587	lu
+pa
+7590	tan
+7593	ma
+7595	ana
+7599	a
+7601	ma
+7603	ni
+7605	ba
+7607	lu
+pa
+7610	tan
+7613	ma
+7617	ki
+7619	is
+7624	ina
+7630	šu
+tu
+7633	še
+7635	šab
+7637	šu
+7640	sar
+sek
+7643	ru
+7645	ti
+7648	ti
+ana
+7652	šu
+7655	ma
+7657	ana
+7660	ina
+7666	šu
+uk
+7669	tam
+7671	ma
+7673	as
+7675	ma
+u
+7678	šab
+7681	ana
+7685	šu
+tu
+7688	qar
+7690	ra
+7692	ar
+ana
+7700	su
+ana
+šap
+7704	la
+7706	nu
+7709	an
+7714	šu
+ana
+7720	nu
+tu
+7723	ša
+7725	qa
+ina
+me
+7729	ku
+7731	ti
+7734	su
+ta
+7737	ma
+7739	haṣ
+ina
+me
+7743	ku
+7745	ti
+tu
+7748	ma
+7750	aš
+7753	šad
+7756	su
+7758	ma
+ana
+7763	ab
+7767	ina
+7772	ka
+7775	ti
+ša
+7780	šu
+7785	su
+7788	at
+7791	šu
+7796	su
+7799	at
+u
+qaq
+7803	qa
+7805	ra
+7808	at
+ana
+7813	giš
+7819	giš
+šu
+7822	šum
+u
+7826	lim
+u
+7831	u
+tar
+7834	muš
+u
+7841	u
+7847	lu
+ina
+7850	lu
+ina
+7860	šu
+it
+7863	te
+7865	net
+7867	ba
+7869	aš
+7871	šum
+7874	u
+7883	u
+7892	e
+7906	ki
+7908	is
+7915	šu
+ma
+7918	gal
+7925	hu
+mu
+7928	še
+7930	er
+7932	rit
+7935	ta
+7937	šu
+7941	šu
+u
+7947	giš
+7952	a
+7954	he
+7956	en
+7959	na
+7961	a
+7964	ina
+7967	mal
+7969	ma
+7971	liš
+7974	qe
+ina
+7979	ina
+7983	tu
+7985	la
+7987	bak
+ina
+7990	tuš
+7992	bat
+ina
+še
+7996	ri
+7999	šal
+ta
+8002	ša
+8004	hal
+ana
+8008	šu
+8011	ak
+8016	ma
+8020	šim
+8024	šim
+8026	šim
+8031	giš
+8036	giš
+8041	u
+ur
+8044	ba
+8046	ti
+8049	niš
+8056	šim
+8061	ina
+8067	ri
+8071	šu
+8074	ma
+8078	ki
+8080	is
+8085	u
+8090	šu
+8094	har
+8096	šu
+ina
+8100	šu
+8105	ra
+8108	šu
+u
+8111	sa
+8113	hal
+8115	šu
+ip
+8118	ta
+8120	na
+8122	ru
+8128	šu
+ir
+8132	ta
+8134	nam
+8136	mu
+8138	u
+8140	ina
+8143	šu
+8149	šu
+eb
+8152	ṭu
+ana
+8156	šu
+8171	sar
+8182	hal
+8184	ṣa
+8190	u
+8195	ana
+8199	di
+ina
+8202	ana
+8204	mul
+8206	tuš
+8208	bat
+ina
+8218	pa
+8220	tan
+8223	šu
+8226	šu
+8230	ši
+8232	qa
+8235	šu
+ina
+8239	šu
+u
+8243	šu
+8247	tu
+8249	ser
+8251	šu
+8253	ma
+8256	uṭ
+ana
+8263	i
+8265	a
+8267	ma
+8269	ni
+8274	ina
+8277	pa
+8279	tan
+8282	šu
+ina
+8286	šu
+u
+8290	šu
+8295	ma
+tu
+8298	ser
+8300	šu
+8302	ma
+8304	ana
+8307	u
+8317	u
+8320	lim
+8325	ina
+8330	pa
+8332	tan
+8335	šu
+ina
+8339	šu
+u
+8343	šu
+8348	ma
+8352	ana
+8363	ha
+8365	ru
+8367	be
+di
+8370	ik
+8372	ta
+8382	ina
+8385	pa
+8387	tan
+8392	me
+8402	me
+ina
+8408	pa
+8410	tan
+8420	šu
+tu
+8423	sa
+8426	lah
+8428	ma
+8432	ana
+8435	urudu
+8441	u
+8445	ma
+giš
+si
+8450	ha
+giš
+8453	ar
+8455	gan
+8457	na
+giš
+ba
+8462	ri
+8464	ra
+8466	ta
+8469	u
+8474	u
+at
+8477	kam
+ana
+8482	di
+8497	giš
+8502	su
+8506	sah
+8508	le
+8510	e
+8514	šim
+8522	šim
+8528	u
+qut
+8531	ri
+8537	sar
+8563	pa
+8565	pa
+8567	si
+8569	d
+8574	u
+8581	u
+8594	mušen
+8598	u
+8601	ti
+8607	šim
+8649	an
+8651	nu
+8653	ti
+8660	ina
+8665	ina
+urudu
+8671	ra
+8673	bi
+8675	ki
+tara
+8678	bak
+8682	me
+8686	šu
+8689	id
+8693	u
+8697	šu
+8700	har
+8702	šu
+8704	ma
+8712	šu
+ik
+8715	ta
+8717	na
+8719	su
+8721	šu
+u
+8725	lim
+8727	pa
+8729	tan
+i
+8732	kal
+ta
+8735	sak
+ina
+8739	pa
+8741	tan
+8746	ma
+8749	uṭ
+8751	ana
+8755	u
+8760	u
+šur
+8763	ne
+8765	e
+8767	pa
+8769	tan
+8774	ina
+8777	pa
+8779	tan
+8784	ma
+8787	uṭ
+8789	ana
+8793	u
+ar
+8796	zal
+8798	la
+u
+8803	šim
+8807	šim
+8813	pa
+8815	tan
+8818	ana
+8824	a
+8826	a
+8828	ar
+8836	u
+8842	pa
+8844	tan
+8849	ma
+8851	ana
+8854	kak
+8856	ku
+8858	sa
+8860	kam
+ša
+8866	šu
+8870	ina
+8873	sar
+8875	ina
+8877	u
+8881	aṣ
+8883	pa
+8885	tan
+8890	ma
+8892	ana
+8895	kak
+8897	ku
+8899	sa
+8901	kam
+ša
+8907	šu
+8911	u
+8915	niš
+8917	ina
+8919	u
+8923	aṣ
+8925	pa
+8927	tan
+8932	ma
+8934	ana
+8940	ša
+8945	šu
+8953	sar
+ta
+8956	sa
+8958	laq
+8965	ana
+8969	giš
+šu
+8972	še
+8974	pa
+8976	tan
+8979	ina
+8982	pa
+8984	tan
+9008	um
+9011	šu
+9015	šu
+9022	pa
+9025	tan
+9063	šu
+9066	šu
+u
+9073	lu
+ina
+9078	lu
+ina
+9081	lu
+ina
+9087	ana
+9091	di
+9097	šu
+9100	šu
+u
+9105	lu
+ina
+9108	lu
+ina
+9116	šu
+9119	šu
+u
+ti
+9123	ia
+9125	a
+9127	ti
+ina
+9131	u
+9134	lim
+ina
+9137	u
+9141	ina
+9143	u
+tar
+9146	muš
+ina
+9149	u
+9151	ina
+9153	u
+9157	ina
+9159	u
+9161	ina
+9163	u
+9167	lu
+ina
+9170	lu
+ina
+9179	šu
+9184	šu
+9209	ina
+9217	šal
+tu
+9220	kaṣ
+9222	ṣa
+ta
+9225	ša
+9227	hal
+9231	ana
+9235	di
+ana
+9239	šu
+9242	ak
+9245	ma
+9250	sar
+9252	sar
+9254	ina
+9258	ana
+9266	sar
+9268	sar
+9270	ana
+9273	ina
+9275	tuš
+9277	bat
+9279	iš
+9281	tu
+9284	u
+9292	ina
+9300	ana
+9303	u
+9310	ina
+9313	ana
+9316	u
+9319	lim
+9324	ana
+9327	u
+9335	šu
+ka
+9338	si
+9340	šu
+9342	sar
+9345	su
+šim
+9356	ina
+9360	aṣ
+9362	pa
+9364	tan
+9367	šu
+9373	lu
+ina
+9380	lu
+ina
+9386	ana
+9389	šim
+9395	ina
+9399	pa
+9401	tan
+9405	ma
+9407	ana
+9410	u
+9413	lim
+u
+9418	u
+tar
+9421	muš
+9423	giš
+9432	mal
+9435	ma
+9437	liš
+9441	ina
+9443	tara
+9445	sa
+9447	an
+ina
+9450	tuš
+9452	bat
+ina
+še
+9456	ri
+ba
+9459	lu
+pa
+9462	tan
+9466	šu
+9473	šu
+9479	šu
+ik
+9482	ta
+9484	na
+9486	su
+9488	šu
+9493	šu
+ma
+9496	gal
+nap
+9499	hu
+9502	u
+9510	šim
+9512	šim
+9514	ana
+9517	bi
+9520	di
+9523	šal
+ta
+9526	ša
+9528	hal
+lu
+ba
+9532	hir
+ana
+9536	šu
+9539	ma
+9548	ma
+i
+9551	ši
+9553	bi
+9556	šu
+ik
+9559	ta
+9561	na
+9563	su
+9565	šu
+9570	su
+9575	šu
+9579	u
+i
+9582	sil
+9585	šu
+mu
+9588	še
+9593	ana
+9596	šu
+giš
+e
+9600	re
+9602	na
+giš
+9611	šim
+9613	šim
+9615	u
+9629	ta
+9631	ka
+9633	sim
+ana
+9638	di
+9641	šal
+ta
+9644	ša
+9646	hal
+9648	u
+9652	hal
+9654	ṣa
+ana
+9659	di
+lu
+ba
+9663	hi
+9665	ir
+ana
+9668	maš
+9670	qe
+9672	ti
+te
+9675	si
+9677	ip
+ana
+9681	šu
+9690	it
+9692	ta
+9694	nap
+9696	ša
+9698	ru
+ze
+9701	er
+kar
+9704	šu
+9708	ku
+9710	uṣ
+9712	ṣu
+9714	ru
+9716	u
+9730	ek
+9732	le
+9734	ta
+ki
+9737	i
+me
+9740	e
+hi
+9743	ri
+9745	ti
+a
+9748	la
+9750	pa
+9752	a
+na
+9755	du
+9757	u
+9762	šu
+ša
+9766	ar
+9769	e
+9771	di
+9773	ip
+na
+9776	di
+i
+9779	ta
+9781	naq
+9783	qi
+9786	ma
+9788	la
+9790	a
+9795	šu
+e
+9798	ta
+9802	na
+9804	ba
+9806	la
+ša
+9809	pa
+9811	tu
+9813	šu
+i
+9816	ta
+9818	na
+9820	pa
+9822	aṣ
+ki
+9825	ma
+9829	it
+9831	ta
+9833	nak
+9835	bir
+ki
+9838	ma
+9840	e
+9843	mur
+9846	ma
+d
+gu
+9850	la
+na
+9853	di
+9855	na
+9857	at
+ba
+9860	la
+9862	ṭi
+9870	ina
+9872	d
+asal
+9875	lu
+9877	hi
+u
+9880	bil
+eṭ
+9883	lu
+d
+9890	re
+9892	me
+9894	nu
+9896	u
+ip
+9899	pa
+9901	lis
+9903	su
+9905	ma
+gi
+9908	ša
+9910	ma
+9913	uṭ
+eṭ
+9916	lu
+šum
+9919	ma
+9921	ina
+9923	lu
+9925	ṣi
+šum
+9928	ma
+gi
+9931	ša
+9933	tu
+ina
+nap
+9937	ša
+9939	ti
+li
+9942	še
+9944	ṣi
+9952	ana
+ki
+9955	is
+9959	nu
+9963	e
+9966	ta
+9968	na
+9970	ša
+9972	aš
+9974	u
+9976	la
+i
+9979	mah
+9981	har
+9988	šu
+9993	šu
+9999	su
+10001	gi
+10003	na
+10005	a
+10019	sar
+10023	sar
+10027	sar
+10031	ina
+10033	giš
+10042	aṣ
+10044	u
+10049	u
+10054	ina
+10058	ma
+10061	ana
+10077	ina
+10079	lu
+10085	u
+10092	šim
+10096	giš
+10101	ina
+10108	ki
+10110	is
+10113	ana
+ki
+10116	is
+10120	si
+u
+10124	lim
+u
+10129	u
+tar
+10132	muš
+10135	u
+tar
+10138	muš
+10140	u
+10145	ina
+10147	u
+10153	ina
+10161	ša
+10163	bu
+10165	la
+10172	u
+kak
+10175	ku
+10177	sak
+10179	ku
+ša
+10185	šu
+10189	u
+10191	u
+10194	lim
+10197	ina
+10211	ina
+10215	ina
+10218	pa
+10220	tan
+10223	ma
+ina
+10226	eš
+10231	lib
+10233	bi
+lib
+10236	bi
+10241	si
+u
+ur
+10245	ne
+10247	e
+u
+10252	u
+ti
+10255	ia
+10257	ta
+u
+10264	u
+10268	sah
+10270	le
+10272	e
+u
+tar
+10276	muš
+u
+10280	lim
+u
+10285	u
+ak
+10288	tam
+u
+10295	giš
+10304	ba
+10306	lu
+pa
+10309	tan
+ina
+10319	šu
+ik
+10322	ta
+10324	na
+10326	ar
+10328	giš
+10330	u
+10339	ina
+10342	pa
+10344	tan
+10347	ma
+ina
+10350	eš
+10352	giš
+šu
+10355	ši
+10357	giš
+10362	u
+tar
+10365	muš
+u
+10369	lim
+u
+10374	u
+10379	u
+10391	ki
+10393	is
+10396	bi
+ina
+10405	eme
+10407	sal
+10409	li
+šim
+10416	šim
+10420	niš
+10425	ina
+10429	šal
+10433	ana
+10438	di
+ana
+10442	šu
+10446	ak
+10449	mi
+10451	na
+10453	a
+ma
+10456	lu
+10458	u
+lib
+10461	bu
+10464	ka
+mi
+10467	na
+10469	a
+ma
+10472	lu
+10475	u
+lib
+10478	bu
+10481	ka
+10486	d
+10489	lib
+10491	bu
+10494	ka
+man
+10497	nu
+lu
+10500	uš
+10503	pur
+ana
+gu
+10507	gal
+lib
+10510	bi
+10513	ka
+10516	liš
+10518	ša
+10521	a
+10536	li
+10538	pat
+10540	ta
+10542	a
+10558	li
+10560	par
+10562	ši
+10565	du
+10567	ma
+li
+10570	ṣu
+10572	ni
+zu
+10575	u
+10577	šu
+10594	li
+10596	mur
+10598	ul
+ia
+10601	tu
+10603	un
+10622	d
+gu
+10625	la
+10629	qiš
+10631	ta
+10634	e
+10654	ia
+10657	bi
+10661	ana
+10664	ia
+10680	bi
+10682	ina
+u
+10685	re
+10687	e
+li
+10690	kul
+10703	bi
+10705	ina
+a
+10708	sur
+10710	re
+10712	e
+10720	d
+a
+10724	sal
+10726	luh
+u
+d
+gu
+10732	la
+10743	iq
+10746	bu
+10748	nim
+10750	ma
+a
+10753	na
+10755	ku
+10757	u
+10759	ša
+10761	an
+10763	ni
+10779	ana
+10788	nu
+10797	gi
+pisan
+10800	gen
+keš
+10803	da
+10818	a
+pu
+10821	gen
+a
+10824	ge
+10826	a
+nu
+10829	tuku
+10841	tuku
+10843	u
+nu
+10846	ku
+10848	ku
+a
+nu
+10852	ku
+10854	ku
+10859	ne
+10861	d
+asal
+10864	lu
+10866	hi
+igi
+10869	nig
+ge
+10872	e
+10874	gen
+10876	na
+dumu
+10879	gu
+10887	ne
+10889	ke
+10891	u
+u
+ha
+10895	šu
+10897	u
+šu
+u
+10901	me
+10903	ti
+10905	nam
+10908	šub
+eridu
+ki
+10912	ga
+u
+10916	me
+10918	ni
+10920	si
+10922	lu
+10924	u
+10926	lu
+dumu
+dingir
+10930	ra
+10932	na
+ka
+10935	bi
+10937	ta
+u
+10940	me
+10942	ni
+10944	gar
+10946	lu
+dumu
+10949	dingir
+10951	ra
+10953	na
+še
+10956	gen
+he
+10960	dur
+10962	re
+bu
+10965	luh
+10967	gen
+10969	ri
+10971	he
+10973	en
+10975	si
+10977	il
+10979	e
+10981	im
+10983	ma
+gu
+10986	du
+10988	a
+10990	ni
+10992	ta
+he
+10995	em
+10997	ma
+10999	ra
+11001	e
+11012	ana
+11018	di
+ina
+11022	šu
+u
+11025	man
+11027	zaq
+11029	ma
+ina
+11034	ma
+ina
+11037	eš
+11042	ka
+11045	keš
+11047	bi
+he
+11050	du
+11052	a
+11056	d
+asal
+11060	lu
+11062	hi
+dumu
+eridu
+ki
+11067	ga
+11071	ke
+ka
+11074	keš
+11076	bi
+he
+11079	du
+11081	a
+11096	šu
+11099	nu
+ina
+11103	šu
+u
+11107	man
+11110	zaq
+11112	ma
+ina
+11115	eš
+11118	d
+11120	ina
+11124	ba
+11126	šu
+11128	ka
+11130	su
+11132	šu
+11134	ma
+11140	ta
+ma
+11143	la
+11146	a
+rit
+11150	ta
+11152	šu
+ul
+11155	um
+11157	mu
+pe
+11160	ta
+11163	at
+pa
+11166	ni
+11168	šu
+ul
+a
+11172	ha
+11174	tu
+mu
+11177	še
+11180	qa
+11182	at
+re
+11185	ši
+11187	šu
+11189	ki
+11192	ma
+11197	na
+11199	ši
+pat
+11202	ri
+11216	u
+nu
+11219	hur
+11221	ta
+11224	qe
+ana
+11230	di
+11244	šam
+11246	mu
+ša
+11251	bi
+ina
+11255	i
+a
+11258	ṣi
+11260	ma
+as
+11263	suh
+11265	šu
+11267	ma
+11276	a
+11278	na
+d
+11286	ma
+iṣ
+11289	ṣa
+11291	bat
+11294	bi
+11296	d
+11317	a
+11320	na
+11329	ma
+iṣ
+11332	ṣa
+11334	bat
+11337	bi
+11359	a
+11361	na
+11363	d
+e
+11366	a
+11370	ia
+aq
+11373	bi
+11375	ma
+11379	bi
+11393	bi
+11396	u
+11399	lip
+11401	pa
+11403	šir
+11407	bi
+11421	lip
+11423	pa
+11425	šir
+11439	šu
+11463	šu
+u
+11467	šu
+11473	urudu
+na
+11476	ah
+11479	bi
+11482	ana
+11484	d
+11490	šu
+11497	nu
+11501	ina
+11503	ta
+11505	sa
+11507	rim
+11514	ina
+11517	u
+11523	ina
+na
+11526	kap
+11530	u
+11533	i
+11535	na
+11537	as
+11539	suk
+11541	ma
+ina
+11545	eš
+11549	d
+11551	ina
+11554	i
+11561	ma
+11565	ina
+ma
+11568	kan
+ki
+a
+11572	ṣi
+11574	ma
+d
+11578	is
+11580	suh
+11582	šu
+11584	ša
+d
+11587	im
+11589	me
+11591	ru
+pa
+11594	nu
+11596	šu
+d
+11599	šam
+11601	ma
+11605	i
+u
+11608	še
+11610	ri
+11612	dam
+11615	ma
+11617	iš
+11619	kun
+11621	ma
+ina
+qaq
+11625	qa
+11627	ri
+šur
+11630	šu
+11632	šu
+qaq
+11635	qa
+11637	ra
+11643	šu
+11646	e
+nak
+11649	pa
+iṣ
+11652	bat
+11654	d
+11656	ina
+11659	le
+11661	qi
+11663	šu
+iṣ
+11666	bat
+11668	d
+11670	ina
+11674	iṣ
+11676	bat
+11679	ina
+tar
+11682	ba
+11684	ṣi
+iṣ
+11687	bat
+11692	ina
+su
+11695	pu
+11697	ri
+iṣ
+11700	bat
+11703	ina
+su
+11706	kul
+11708	li
+iṣ
+11711	bat
+11716	ina
+ši
+11719	ga
+11721	ri
+iṣ
+11724	bat
+11727	ina
+er
+11730	re
+11732	ti
+iṣ
+11735	bat
+11738	ina
+me
+11741	lul
+11743	ti
+iṣ
+11746	bat
+11751	ina
+ur
+11754	ši
+11756	ša
+iṣ
+11759	bat
+11764	tu
+11766	mu
+11768	re
+11770	e
+tu
+11773	ga
+11775	re
+11777	e
+a
+11780	na
+e
+11783	re
+11785	ši
+11787	šu
+11789	ma
+11792	šu
+i
+11795	di
+11797	e
+11799	ma
+iš
+11802	ku
+11804	nu
+i
+11807	di
+11815	u
+ur
+11818	ne
+11820	e
+u
+11827	u
+ti
+11830	ia
+11832	ta
+11834	sar
+u
+11841	niš
+11843	ina
+11849	aṣ
+11851	ana
+11855	nu
+ina
+11860	šu
+11863	ma
+11868	šam
+11870	mu
+11872	ša
+11876	bi
+ina
+11880	i
+a
+11883	ṣi
+11885	ma
+as
+11888	suh
+11890	šu
+11892	ma
+iṣ
+11895	ṣa
+11897	bat
+11900	bi
+11902	ana
+d
+11906	aq
+11908	bi
+11910	ma
+iṣ
+11913	ṣa
+11915	bat
+11917	d
+11920	ana
+11923	e
+u
+11927	ti
+aq
+11931	bi
+11933	ma
+iṣ
+11936	ṣa
+11938	bat
+11943	u
+11946	ana
+u
+11949	ma
+11951	mi
+11956	ma
+iṣ
+11960	ṣa
+11962	bat
+11964	u
+11966	ma
+11968	me
+a
+11971	na
+d
+e
+11976	a
+11978	ap
+11980	si
+aq
+11983	bi
+11986	ma
+11989	bi
+11991	lip
+11993	pa
+11995	šir
+11999	bi
+d
+12002	lip
+12004	pa
+12006	šir
+ki
+12009	ma
+12013	bi
+d
+12016	ip
+12018	pa
+12020	ša
+12023	ru
+12026	bi
+12029	u
+12031	lip
+12033	pa
+12036	šir
+ki
+12039	ma
+12042	bi
+12044	u
+12066	šu
+12069	nu
+ina
+12073	šu
+u
+12077	man
+12079	zaq
+12081	ma
+12083	ina
+12085	eš
+12098	sa
+12100	bi
+12102	tu
+12105	nam
+12107	zi
+12109	tu
+a
+12112	ši
+12114	tu
+12116	pi
+12118	ina
+a
+12121	mat
+d
+12126	ina
+qi
+12129	bit
+d
+12133	lib
+12135	luṭ
+12140	el
+12142	lu
+ša
+ina
+12147	i
+aš
+12150	bu
+man
+12153	nu
+ub
+12156	lak
+12158	ka
+12162	el
+12165	li
+ša
+a
+12169	me
+12171	lu
+12173	ti
+ša
+12177	šu
+ša
+la
+a
+12182	ka
+12184	li
+ša
+12190	šu
+ša
+la
+12202	ana
+šu
+12205	bur
+12207	ri
+ki
+12210	ma
+ṣe
+12213	er
+ka
+12216	ra
+12218	ni
+ta
+12221	aṣ
+12223	ṣi
+12235	u
+ti
+12238	ia
+12240	ta
+12242	sar
+12251	ana
+pa
+12254	ni
+ma
+12257	aš
+12259	ti
+12261	i
+ta
+12264	za
+12266	ru
+12269	šu
+12276	ana
+12294	ti
+12296	ia
+12298	ta
+12300	sar
+ta
+12303	mar
+12305	raq
+ina
+12309	ana
+12315	ina
+12319	u
+12325	e
+12327	sil
+ki
+12331	ma
+na
+12335	di
+na
+12338	pi
+12340	ih
+12342	ma
+ki
+12345	ma
+lu
+12348	up
+12350	pi
+12354	šu
+12356	u
+ina
+12362	šu
+šu
+12365	u
+giš
+12371	ma
+12379	ina
+12385	ka
+12388	ti
+ša
+12394	šu
+ana
+12401	šu
+12404	ma
+ina
+12407	eš
+12410	nam
+12412	zi
+12414	tu
+12416	la
+12418	as
+12420	su
+12422	uh
+12430	ina
+12436	ka
+12439	ti
+ša
+12445	di
+u
+ina
+12452	ka
+ta
+12455	mar
+12457	raṭ
+12459	ma
+ina
+12462	eš
+12464	ša
+12466	ru
+12468	um
+12470	mi
+ša
+12473	ru
+ša
+12476	ru
+12481	at
+12483	ta
+ša
+12486	ru
+ša
+bi
+12490	rit
+ze
+12493	e
+u
+ši
+12497	na
+12499	a
+12501	ti
+at
+12504	ta
+tu
+12507	ṣi
+12509	a
+12511	ma
+it
+12514	ti
+12522	ka
+na
+12525	di
+12527	a
+12529	at
+giš
+12535	ka
+12542	u
+12551	ina
+12557	di
+12561	nu
+12564	su
+12566	ma
+ina
+12569	eš
+12571	lib
+12573	bu
+12575	ma
+12578	bu
+12581	bu
+da
+12584	an
+12587	bu
+qar
+12590	rad
+12595	ma
+12597	li
+pu
+12600	luh
+12602	ta
+ki
+12605	ma
+12611	la
+12613	ka
+12615	da
+uš
+12618	šur
+12620	ul
+ia
+12623	at
+12625	tu
+12627	d
+gu
+12630	la
+12632	a
+12634	nam
+12636	di
+12638	ana
+12642	d
+e
+12645	a
+a
+12648	nam
+12650	di
+12652	ana
+12656	d
+a
+12659	nim
+a
+12662	nam
+12664	di
+ana
+12670	aš
+12672	šum
+mi
+12675	ni
+12677	i
+aš
+12680	šum
+mi
+12683	ni
+12685	i
+aš
+12688	šum
+ka
+12691	bat
+12693	ti
+aš
+12696	šum
+li
+12699	ib
+12701	bi
+aš
+12704	šum
+li
+12707	ib
+12709	bi
+aš
+12712	šum
+li
+12715	ib
+12717	bi
+mar
+12720	ṣi
+12743	nu
+ina
+12748	šu
+12751	ma
+ina
+12754	eš
+12756	a
+12758	na
+li
+12761	bur
+12763	za
+12765	ni
+12767	nu
+qi
+12770	bi
+12773	ma
+um
+12776	ma
+a
+12780	da
+12782	pa
+12785	ma
+12789	at
+12791	ta
+u
+a
+12795	na
+12797	ku
+kul
+12800	lat
+12802	ni
+12804	ti
+12806	qam
+12808	ma
+12811	ha
+12814	li
+12816	lu
+12818	ti
+12836	qa
+12838	ti
+mar
+12841	ṣi
+ṣa
+12844	bat
+12846	d
+e
+12849	a
+12852	šu
+12854	ma
+12856	lib
+12858	luṭ
+12868	u
+12875	u
+ti
+12878	ia
+12880	ta
+12882	ta
+12884	mar
+12886	raq
+12903	šu
+ina
+12907	ka
+ta
+12910	mar
+12912	raṭ
+12919	a
+12921	na
+li
+12924	bur
+12926	na
+12928	din
+iš
+12931	pur
+12933	an
+12935	ni
+12939	ina
+a
+12942	hi
+12944	ša
+12947	i
+12951	ul
+nu
+12954	uš
+12956	ba
+12958	am
+12960	ma
+12967	ra
+12969	ši
+12971	ana
+mah
+12974	ri
+12976	ka
+12995	ša
+12997	ana
+13002	u
+13005	te
+13008	de
+13010	ek
+13012	ki
+13014	šu
+13016	ma
+i
+13019	ne
+13021	eš
+13027	d
+13029	ina
+13032	e
+u
+13036	te
+13048	šu
+13051	nu
+13062	e
+13064	mur
+13066	šu
+13068	ma
+d
+asal
+13072	lu
+13074	hi
+ih
+13077	ba
+13079	a
+13091	dug
+13093	ina
+qa
+13096	ti
+13098	šu
+13104	bi
+ana
+d
+e
+13109	a
+be
+13112	li
+13114	šu
+13116	ul
+ia
+13119	tu
+13121	un
+13123	d
+13125	u
+d
+asal
+13129	lu
+13131	hi
+13133	d
+gu
+13136	la
+13146	u
+13155	qe
+13159	šu
+ana
+13164	ma
+i
+13167	man
+13169	zaq
+13171	ma
+13174	da
+13176	an
+13179	bu
+qar
+13182	rad
+13185	bu
+ša
+13189	bi
+ar
+13192	ra
+13194	qa
+13199	šu
+pur
+13202	si
+13204	it
+13206	na
+13208	ši
+13210	ma
+ir
+13213	ru
+sa
+13216	hi
+13218	ru
+13220	ti
+ul
+13223	lu
+13225	lu
+ina
+a
+13229	hi
+13231	šu
+e
+13234	ta
+13236	šiṭ
+13239	bu
+e
+13242	ta
+13244	tu
+13246	ra
+13248	ana
+13250	dam
+13252	qi
+ana
+13257	da
+13259	me
+13261	eq
+13263	tu
+uš
+13266	šir
+13269	ma
+13271	li
+13273	pu
+13275	uš
+uš
+13278	šir
+13282	qin
+13284	na
+liq
+13287	nun
+ir
+13290	ru
+suh
+13293	hu
+13295	ru
+ze
+13298	er
+kar
+13301	šum
+u
+ši
+13305	i
+ri
+13308	qi
+13310	tu
+bu
+13313	up
+13315	pa
+13317	ni
+13319	ša
+sah
+13322	pat
+liš
+13325	lim
+kar
+13328	šum
+ir
+13331	ri
+liš
+13334	te
+13336	ši
+13338	ru
+13340	ma
+ri
+13343	qi
+13345	tu
+lit
+13348	ru
+13350	uṣ
+13353	ina
+šu
+13356	bur
+13358	ri
+13360	ge
+13362	šu
+13364	ti
+ina
+na
+13368	piš
+13370	ti
+li
+13373	ṣa
+13375	a
+13385	ina
+13388	bi
+13393	šu
+13396	nu
+13399	šu
+13401	ma
+ina
+13404	eš
+13408	bu
+13411	bu
+e
+13414	ki
+13416	il
+13419	bu
+13421	mu
+13423	ši
+13425	ti
+ma
+13428	li
+nam
+13431	ri
+13433	ri
+13435	i
+13438	na
+qab
+13441	li
+13443	ti
+ul
+i
+13447	šu
+a
+13450	pa
+13452	tu
+13454	ma
+ul
+u
+13458	šer
+13460	šu
+ma
+13463	am
+13465	ma
+13467	ir
+13470	ru
+su
+13473	hu
+13475	ru
+ze
+13478	er
+kar
+13481	šum
+u
+ši
+13485	i
+ri
+13488	qi
+13490	tu
+bu
+13493	up
+13495	pa
+13497	ni
+13499	ša
+sah
+13502	pat
+13504	li
+13507	it
+13509	ru
+13511	uṣ
+kar
+13514	šu
+ri
+13517	qi
+13519	tu
+lit
+13522	ru
+13524	uṣ
+13526	ki
+13529	ma
+ša
+13532	a
+13534	ri
+a
+13537	na
+šu
+13540	bur
+13542	ri
+ki
+13545	ma
+ge
+13548	šu
+13550	te
+a
+13553	na
+13558	ki
+13561	ma
+zu
+13564	ʾ
+13566	ti
+u
+u
+13570	pa
+13572	ṭi
+u
+di
+13576	ma
+13578	ti
+ka
+13581	la
+13584	šu
+na
+13587	šal
+13589	li
+13591	la
+13593	ni
+13597	ul
+ia
+13600	ut
+13602	tu
+13604	d
+e
+13607	a
+u
+d
+asal
+13612	lu
+13614	hi
+13616	d
+da
+13619	mu
+u
+d
+gu
+13624	la
+13628	d
+13643	ana
+13646	bi
+13661	nu
+13663	ma
+13665	ina
+13669	ka
+13672	šu
+13674	ina
+13677	šu
+i
+13680	mah
+13682	har
+ba
+13685	lu
+pa
+13688	tan
+13691	ma
+ina
+13694	eš
+13700	bu
+13702	ma
+13705	bu
+qar
+13708	rad
+13711	ša
+13713	ze
+13715	ra
+13720	šu
+pur
+13723	sit
+da
+13726	a
+13728	me
+13733	bu
+13736	bu
+a
+13739	ia
+13741	ša
+ta
+13744	lak
+13747	bu
+a
+13750	ia
+13752	ša
+ta
+13755	ṣa
+13757	bur
+13760	bu
+13767	ad
+13793	pad
+su
+13802	ša
+13804	a
+13806	ru
+13817	i
+13819	pa
+13821	šar
+pi
+13824	šir
+13826	šu
+13832	lip
+13834	šur
+ki
+ši
+13842	mu
+ana
+13845	li
+13847	še
+13849	ṣi
+13860	ša
+13864	šu
+13877	šu
+13882	an
+13884	ni
+13886	ta
+13889	šu
+13892	nu
+13901	su
+13904	at
+na
+13908	u
+13910	u
+13912	šim
+13930	ina
+13937	ina
+13942	šu
+tu
+13945	na
+13947	tak
+13957	ma
+ina
+13962	aš
+tara
+13965	bak
+13969	u
+13972	lim
+u
+13978	u
+tar
+13981	muš
+13990	tuš
+13992	ta
+13994	na
+13996	as
+13999	sa
+14001	qam
+14006	ana
+14009	u
+14011	ṣi
+14013	bu
+14015	ra
+u
+14027	ana
+14031	u
+14034	lim
+14036	ina
+14042	ma
+14053	su
+14058	su
+ana
+14062	šu
+u
+im
+14066	hur
+14068	aš
+14070	na
+14081	ina
+14083	ina
+14092	ma
+14098	šu
+14122	su
+14124	a
+14126	lam
+14128	ana
+ki
+14131	is
+14136	šu
+14141	m
+14156	ki
+ša
+d
+14160	d
+taš
+14163	me
+14165	tu
+14171	tu
+iš
+14174	ru
+14176	ku
+14178	uš
+e
+14181	hu
+14183	uz
+14185	zu
+14189	na
+14191	mir
+14193	tu
+ni
+14196	siq
+ṭup
+14199	sar
+14201	ru
+14203	ti
+ša
+ina
+14210	ni
+a
+14213	lik
+mah
+14216	ri
+14218	ia
+mam
+14221	ma
+šip
+14224	ru
+šu
+14227	a
+14229	tu
+la
+e
+14233	hu
+14235	uz
+14237	zu
+bul
+14240	ṭi
+14242	muh
+14244	hi
+14247	liq
+14249	ti
+14253	ta
+14255	hi
+14257	zu
+nak
+14260	la
+a
+14263	zu
+14265	gal
+14267	lu
+14269	ut
+d
+nin
+14273	urta
+u
+d
+gu
+14278	la
+ma
+14281	la
+ba
+14284	aš
+14286	mu
+ina
+ṭup
+14290	pa
+14292	a
+14294	ni
+aš
+14297	ṭur
+as
+14300	niq
+14305	ma
+a
+14308	na
+ta
+14311	mar
+14313	ti
+ši
+14316	ta
+14318	si
+14320	ia
+qe
+14323	reb
+14328	ia
+u
+14331	kin
+14333	giš
+14371	šu
+14389	u
+14397	šim
+14424	šu
+ṣab
+14427	ta
+14429	šu
+14431	ma
+14437	šu
+14461	ša
+14463	bu
+14465	lu
+14467	te
+14491	šu
+14494	ma
+14499	šu
+14509	šim
+14511	šim
+14519	šu
+14521	u
+14523	kal
+14531	ma
+14536	šu
+i
+14544	šu
+bir
+14547	ra
+14549	ta
+i
+14552	pi
+14554	ta
+i
+14557	ši
+14559	ta
+mur
+14562	din
+14564	na
+qu
+14567	qa
+14569	na
+a
+14572	ša
+14574	a
+u
+14581	a
+14590	bu
+14592	ṭu
+14594	ta
+ina
+na
+14600	en
+14604	ka
+u
+14607	kal
+ina
+14615	qe
+ina
+14619	sar
+14622	aš
+14625	ab
+14628	ma
+14639	sah
+14641	le
+14643	e
+14653	ina
+14656	sar
+14659	aš
+14662	ab
+14665	ma
+14673	sah
+14675	le
+14677	e
+14680	ti
+šim
+14688	ina
+14692	aš
+14695	šim
+14698	eme
+14700	sal
+14702	li
+mal
+14705	ma
+14707	liš
+14711	ina
+14720	šu
+te
+14724	qi
+14747	hi
+14749	qa
+14751	ti
+14758	ina
+14761	sar
+14764	aš
+14767	ab
+14770	ma
+14781	na
+14783	aṣ
+14785	ma
+14787	da
+14789	ti
+an
+14792	na
+14794	ti
+14802	ša
+14804	ur
+14806	ṣi
+14826	ina
+14828	is
+14830	sip
+14832	ma
+14843	ina
+14849	aṣ
+14851	ma
+14854	šu
+14879	giš
+14900	ina
+14904	sar
+14907	aš
+14911	ab
+14914	ma
+14936	ina
+14958	u
+14976	ina
+14979	sar
+14983	aš
+14986	ab
+14989	ma
+15016	ina
+15020	sar
+15023	aš
+15056	su
+15062	su
+15066	ana
+15071	šu
+15074	ak
+ina
+15078	ša
+ta
+15081	ra
+15083	na
+15086	u
+15089	šu
+15096	mušen
+15110	sar
+15119	sar
+15131	giš
+15139	sah
+15142	le
+15144	e
+15159	aš
+15172	ina
+15178	te
+15180	qi
+15185	giš
+15188	ša
+ina
+iti
+15198	is
+15200	ina
+15203	sar
+15206	aš
+15209	ma
+15225	ab
+15228	ma
+15234	u
+15241	u
+15244	d
+15255	ma
+15262	ina
+15265	ina
+kip
+15268	kip
+15275	te
+15277	qi
+15285	ma
+15293	ma
+15306	te
+15309	qi
+15317	te
+15319	qi
+15327	aš
+15330	ab
+15333	ma
+15346	ina
+15349	sar
+15352	aš
+15355	ab
+15358	ma
+15378	ina
+15382	sa
+15385	a
+15387	qi
+15392	te
+15394	qi
+15400	aš
+15403	ab
+15406	ma
+15416	ina
+15422	aš
+15426	ab
+15429	ma
+15437	ina
+15442	i
+šu
+15445	hat
+15461	ina
+15464	sar
+15467	aš
+15470	ab
+15473	ma
+15489	ina
+šur
+15492	šum
+15494	mi
+15501	aš
+15504	ab
+15507	ma
+15522	du
+15524	muq
+15526	ši
+15528	na
+ta
+15531	tab
+15533	bal
+ina
+15537	te
+15539	qi
+15541	u
+15552	ina
+15555	sar
+15558	aš
+15561	ab
+15564	ma
+15573	giš
+15582	ina
+15585	sar
+15588	aš
+15591	ab
+15594	ma
+15606	mušen
+ina
+15610	te
+15612	qi
+15617	giš
+15623	iš
+15630	ina
+15633	sar
+15636	aš
+15639	ab
+15643	ma
+15655	ba
+15657	aš
+15659	la
+ina
+15662	sir
+15664	di
+15667	aš
+15670	ab
+15673	ma
+15682	ša
+kib
+15685	ša
+15688	u
+ina
+15695	te
+15697	qi
+u
+15704	sah
+15706	le
+15708	e
+15711	ina
+šur
+15714	šum
+15716	mi
+15723	aš
+15727	ab
+15730	ma
+15738	u
+hal
+15741	tap
+15743	pa
+15745	na
+giš
+15752	ina
+šur
+15755	šum
+15757	mi
+15766	aš
+15769	ab
+15772	ma
+15780	šim
+15782	šim
+15786	šim
+15800	si
+ina
+15805	aš
+15808	ab
+15811	ma
+15822	ina
+15827	te
+15829	qi
+15847	aš
+15850	ab
+15853	ma
+15874	aš
+15877	ab
+15880	ma
+15910	aš
+15913	ab
+15917	ma
+15928	sar
+15932	lu
+15935	ina
+šur
+15938	šum
+15940	mi
+15944	aš
+15947	ab
+15950	ma
+15960	u
+15968	su
+tu
+15971	has
+15973	sa
+15976	šu
+ana
+dug
+15984	at
+15991	an
+15996	ma
+i
+15999	tab
+16001	lu
+ina
+16013	mušen
+16017	šim
+16019	šim
+16024	u
+16028	ka
+16030	mun
+giš
+16034	u
+16045	giš
+16048	eme
+16050	sal
+16052	li
+u
+16057	u
+16061	ma
+16063	la
+ni
+16066	iš
+16071	ka
+16077	ta
+16079	pa
+16081	aṣ
+ina
+16089	šu
+ina
+16096	si
+16101	su
+te
+16104	qi
+16107	ma
+16110	šu
+te
+16113	qi
+16116	šu
+16126	šu
+16128	giš
+16136	šal
+ana
+dug
+16141	te
+16143	sip
+ina
+16146	tuš
+16148	bat
+ina
+še
+16152	ri
+16157	su
+16162	giš
+16171	ana
+16176	šu
+tu
+16179	qar
+16181	ra
+16183	ar
+16188	su
+kun
+16191	ša
+sig
+16208	ana
+16213	šu
+16215	ina
+16217	ša
+ta
+16220	ra
+16222	na
+16225	u
+16228	šu
+16234	an
+16236	na
+16241	uš
+16248	šu
+16253	im
+16263	kib
+16265	rit
+16277	u
+16283	niš
+16288	ina
+16290	giš
+16296	su
+tu
+16299	qat
+16301	tar
+16308	šu
+16312	ma
+16317	šu
+i
+16320	bar
+16322	ru
+16324	ra
+16326	u
+16328	kal
+16330	la
+16341	ina
+16346	sar
+16349	aš
+16354	su
+16357	ab
+16360	ma
+16382	ina
+16390	aš
+16395	su
+16398	ab
+16401	ma
+16413	giš
+16415	ina
+16419	aš
+16423	ab
+16430	u
+16432	ina
+16436	aš
+16439	ab
+16445	u
+u
+16449	ra
+16451	na
+16454	ina
+16458	aš
+16461	ab
+16467	u
+ṣa
+16470	da
+16472	na
+16476	ina
+16480	aš
+16483	ab
+16486	u
+sa
+16489	ma
+16491	na
+16494	ina
+16499	aš
+16502	ab
+16511	šu
+16522	šim
+16524	šim
+16530	šim
+16532	sah
+16534	le
+16536	e
+16549	ab
+16558	šu
+16564	ma
+16571	šu
+16573	i
+16575	bar
+16578	ru
+16580	ra
+u
+16585	a
+16591	šim
+16593	u
+16604	sah
+16606	le
+16608	e
+giš
+16619	niš
+16622	ina
+16632	su
+16636	id
+16651	giš
+16656	šim
+16669	giš
+si
+16672	hu
+16677	giš
+ar
+16680	ga
+16683	an
+16685	nu
+16720	ina
+16723	sar
+16726	aš
+16729	ab
+16739	šu
+16745	su
+16751	šu
+16756	za
+giš
+16761	giš
+16775	ina
+urudu
+16780	tu
+16782	ba
+16784	har
+16789	su
+16800	ṭi
+16803	ṭi
+16809	ina
+16813	šal
+16821	šim
+16826	šim
+16830	šim
+16832	šim
+16835	ṭi
+16837	ṭi
+16843	ina
+16848	šal
+16865	kib
+16867	rit
+16895	niš
+16901	ina
+16903	giš
+16909	su
+16911	tu
+16913	qat
+16915	tar
+16919	sag
+16921	ki
+16923	ni
+sag
+16926	ki
+16928	he
+16930	en
+16932	gi
+16935	gi
+i
+16938	bi
+16940	ni
+i
+16943	bi
+he
+16947	en
+16949	gi
+16951	gi
+16954	mu
+16956	ru
+16958	ub
+16960	bi
+16962	ni
+16964	mu
+16966	ru
+16969	ub
+16971	bi
+he
+16974	en
+16976	gi
+16979	gi
+16982	he
+16984	en
+16986	da
+16988	a
+16990	na
+16992	mul
+16995	la
+he
+16998	en
+17001	da
+17003	a
+17005	na
+17007	mul
+17009	la
+17026	šu
+u
+17029	zaq
+17031	qat
+17034	su
+17043	tur
+17045	ar
+17055	nu
+17059	šu
+17066	me
+kug
+17069	ga
+ba
+17072	da
+17074	ra
+17077	ah
+ba
+17080	da
+17083	ra
+17085	ah
+me
+kug
+17089	ga
+17091	iz
+17093	zi
+17096	me
+zi
+17099	zi
+me
+še
+17103	ra
+17105	še
+17108	ra
+17112	hu
+17114	luh
+17117	ha
+gi
+17120	gi
+17128	šu
+17131	la
+17143	šu
+ne
+17157	ana
+17163	šu
+17167	nu
+17180	u
+17191	ab
+17196	ma
+17206	ana
+17211	ina
+17215	sar
+17218	aš
+17221	su
+17223	ma
+17229	ana
+17232	u
+17238	su
+17240	pa
+17242	la
+ina
+17245	ta
+17247	la
+17249	aš
+17254	ana
+17257	sah
+17259	le
+17261	e
+17264	ni
+17267	kip
+17269	ta
+17278	niš
+17281	ina
+17288	ana
+17294	sah
+17297	le
+17299	e
+17304	aš
+17307	ab
+17312	ana
+17323	aš
+17326	ab
+17331	ana
+17342	ina
+17345	sar
+17348	aš
+17351	ab
+17356	ana
+17359	šim
+17363	ina
+17366	sar
+17369	aš
+17374	ana
+17380	ina
+17384	aš
+17387	ab
+17392	ana
+17398	ina
+17401	sar
+17404	aš
+17407	ab
+17412	ana
+17417	ina
+17420	sar
+17423	aš
+17426	ab
+17432	ana
+17437	ina
+17440	sar
+17443	aš
+17446	ab
+17452	ana
+17457	ina
+šur
+17460	šum
+17462	mi
+17466	aš
+17469	ab
+17474	ana
+17486	tu
+17488	šam
+17490	maṭ
+ina
+17494	sar
+17497	si
+17501	giš
+17519	ina
+17522	sar
+17525	aš
+17530	su
+u
+17534	su
+17536	ana
+17552	ina
+17555	sar
+17558	aš
+17560	ana
+17572	ina
+17575	sar
+ta
+17578	la
+17580	aš
+17583	ab
+17586	ma
+17594	ana
+17601	giš
+17617	ina
+17620	sar
+u
+17625	aš
+17628	ana
+17636	u
+su
+17639	pa
+17641	lu
+ina
+17644	sir
+17646	di
+u
+17650	sar
+17653	aš
+17664	su
+17669	im
+17672	ab
+17679	ina
+17682	sar
+17685	aš
+17700	ana
+17716	ina
+17719	sar
+17722	aš
+17731	ina
+qer
+17735	bit
+17740	šu
+17750	šu
+17752	u
+17754	ba
+17756	na
+17758	tu
+uṣ
+17761	ṣa
+rib
+17764	ki
+ina
+17768	sar
+17771	aš
+17777	ana
+17784	šu
+17786	ut
+17788	bi
+17790	i
+17804	ina
+17807	sar
+17810	aš
+17815	su
+17818	ana
+17821	sah
+17823	le
+17826	e
+bu
+17829	ṭu
+17831	ta
+17838	ina
+17841	sar
+17844	aš
+17847	ana
+17850	sah
+17852	le
+17854	e
+šim
+17857	ina
+17860	sar
+17863	aš
+17865	ana
+17878	ina
+17881	sar
+17884	aš
+17886	ana
+17892	ṣar
+17894	ba
+17896	te
+ina
+17900	sar
+17903	aš
+17906	ana
+17910	u
+hal
+17914	tap
+17916	pa
+17918	na
+17920	giš
+17924	ina
+17927	sar
+17930	aš
+17933	ana
+17936	u
+17946	ina
+17949	sar
+17952	aš
+17955	ana
+17960	u
+17968	ina
+17971	sar
+17974	aš
+17977	ana
+17984	u
+17992	ina
+17995	sar
+17998	aš
+18001	ana
+18008	ṣar
+18010	ba
+18012	te
+ina
+18016	sar
+18019	aš
+18021	ana
+18027	šim
+18031	ina
+18034	sar
+18037	aš
+18039	ana
+18051	ina
+18054	sar
+18057	aš
+18059	ana
+18071	ina
+18074	sar
+18077	aš
+18079	ana
+18084	ina
+18088	sar
+18091	aš
+18094	ana
+18097	qi
+18099	lip
+še
+18102	el
+18104	le
+18106	be
+18108	nu
+ina
+18112	sar
+18115	aš
+18117	ana
+18124	ṣar
+18126	ba
+18128	te
+ina
+18132	sar
+18135	aš
+18137	ana
+18143	ina
+18146	sar
+18149	aš
+18159	šu
+i
+18162	šah
+18164	hu
+18166	uh
+18183	su
+18186	ab
+tu
+18189	kaṣ
+18191	ṣa
+18194	ma
+18202	ana
+18209	giš
+18216	giš
+18223	šim
+18228	šim
+18237	sar
+18276	niš
+18280	ina
+18284	aš
+18287	ma
+18295	ka
+u
+18298	kal
+ina
+18306	qe
+ina
+18310	sar
+18313	aš
+18316	ab
+18319	ma
+18323	ana
+18334	ti
+šim
+18344	niš
+18346	ina
+18350	aš
+18353	ab
+18357	ana
+18361	šim
+18365	šim
+18367	šim
+18369	d
+18374	u
+18384	šim
+18388	niš
+18390	ina
+18394	aš
+18397	ab
+18401	ana
+18405	šim
+18409	šim
+18412	šim
+18426	niš
+18428	ina
+18432	ri
+18435	ab
+18446	su
+18452	ma
+u
+18456	šu
+18459	šu
+18464	su
+nu
+18467	pu
+18469	uh
+18471	giš
+18494	še
+18502	niš
+ina
+šur
+18506	šum
+18508	mi
+18512	aš
+18515	ab
+18518	ana
+18534	ti
+šim
+18539	šim
+18544	ina
+šur
+18547	šum
+18549	mi
+18553	aš
+18556	ab
+18561	ana
+18568	giš
+18572	šim
+18576	šim
+18581	ina
+18585	aš
+18588	ab
+18593	ana
+18596	u
+18602	ina
+18607	aš
+18610	ab
+18621	su
+18624	ma
+18630	šu
+i
+18633	šah
+18635	hu
+18637	uh
+ana
+18644	šu
+18648	hi
+18650	u
+18654	ta
+18657	zi
+u
+18660	ak
+18663	tam
+u
+ši
+18667	ma
+18669	ha
+18674	niš
+18676	ina
+18685	su
+te
+18688	sir
+18694	ina
+18699	šu
+i
+18702	mit
+18704	ti
+18714	su
+18717	si
+18719	giš
+bi
+18722	ni
+u
+kam
+18726	ka
+18728	da
+u
+18735	u
+18746	mušen
+18749	niš
+18751	ina
+18760	su
+18763	aš
+18766	munšub
+al
+18769	dub
+18771	ba
+18774	munšub
+al
+18777	kalag
+18779	ga
+18781	munšub
+al
+18784	keš
+18786	da
+18788	keš
+18790	da
+munšub
+nig
+18794	gub
+18796	ba
+18825	na
+18831	na
+18833	na
+18837	na
+18841	na
+18845	na
+18848	na
+18850	na
+18857	na
+18865	na
+18868	nu
+18871	na
+18875	na
+18881	na
+18890	ni
+18892	bi
+an
+18895	nu
+18897	ti
+ina
+sig
+18907	ak
+18909	ina
+18912	šu
+18918	ma
+18922	tu
+ik
+18925	kal
+18927	la
+18929	at
+18931	ta
+ba
+18934	ra
+18936	an
+18938	gi
+zi
+18941	ba
+18943	an
+18946	gi
+ba
+18949	te
+18951	gi
+18953	ra
+18955	zi
+18957	im
+18959	ba
+18961	ra
+uz
+18964	mi
+18966	ia
+18968	aš
+pa
+18971	at
+18973	ri
+un
+18976	da
+18978	kur
+18980	ra
+he
+18983	en
+18987	na
+he
+18991	min
+18993	na
+pa
+18996	ri
+18999	ša
+19008	ha
+19010	ru
+19012	be
+19014	e
+ša
+im
+19022	qe
+ina
+19025	ur
+19027	ba
+19029	te
+tur
+19032	ar
+ina
+19041	šu
+19044	nu
+19047	šu
+19050	su
+19053	šu
+ta
+19056	hal
+19058	la
+19062	su
+e
+19065	nu
+19067	ma
+ta
+19070	hal
+19072	la
+19074	ṣu
+19076	šu
+19080	šu
+ana
+19087	šu
+19090	nu
+19093	i
+19095	bi
+gi
+i
+19099	bi
+gi
+he
+19103	en
+19105	zalag
+19109	ge
+sag
+19112	ki
+zi
+sag
+19116	ki
+zi
+he
+19120	en
+19122	zalag
+19124	ge
+sag
+19127	ki
+iz
+sag
+19131	ki
+iz
+19134	he
+19136	en
+19138	zalag
+19140	ge
+19143	še
+19145	er
+zi
+he
+19149	en
+19152	zalag
+19155	ge
+ma
+19158	al
+19160	la
+i
+19163	di
+mu
+19166	ra
+19168	an
+19170	gub
+hul
+19173	bi
+hul
+19176	hul
+19198	mušen
+19208	giš
+19214	giš
+19228	šu
+ana
+19233	nu
+19238	su
+19240	ma
+19244	tu
+ik
+19247	kal
+19249	la
+lu
+ša
+19253	lu
+19255	ša
+19267	šu
+19269	gi
+lil
+šu
+19273	gi
+e
+19276	ne
+šu
+19279	gi
+19287	ha
+19289	ru
+19292	be
+19294	e
+ša
+im
+19301	ina
+19303	tur
+19305	ar
+ina
+19308	giš
+19313	giš
+19322	su
+19324	ma
+19329	im
+19343	ša
+19346	ma
+19348	ṣi
+19350	ir
+19352	ta
+19354	ma
+19356	ni
+19358	ir
+19360	ra
+19362	an
+19365	ni
+ha
+19368	ba
+19370	re
+19372	eš
+ma
+19375	ni
+19377	ir
+19379	ra
+19381	an
+19383	ni
+hal
+19386	hal
+19388	la
+19390	ta
+la
+19393	gu
+19396	ma
+19405	ma
+u
+19408	ba
+19411	na
+19413	aš
+du
+19416	ru
+19418	na
+19420	aš
+hu
+19423	ri
+19425	na
+19427	ah
+mu
+19430	un
+19432	di
+19434	hu
+19436	na
+ha
+19439	at
+19441	tu
+19443	uk
+19466	šu
+ma
+19469	gal
+i
+19472	šah
+19474	hu
+19476	uh
+19481	šu
+d
+iš
+19485	tar
+19487	šu
+19490	šu
+ze
+19493	nu
+19495	u
+19501	ana
+19504	mah
+19506	re
+19508	e
+19516	zi
+19520	aq
+19536	an
+udu
+19541	uš
+uzu
+19544	uzu
+19550	uzu
+19554	tu
+19556	ṭah
+19558	ha
+19562	qi
+19566	giš
+19570	eš
+19574	le
+19576	e
+19579	mušen
+u
+19584	u
+19588	lim
+19599	ina
+19604	an
+19606	an
+19608	ni
+19610	ta
+19613	šu
+19616	nu
+at
+19619	ta
+19621	mu
+19623	nam
+19625	mir
+19634	qe
+19636	reb
+19639	e
+ha
+19642	iṭ
+19646	ana
+19648	ku
+19652	ina
+19654	an
+19656	ne
+19658	e
+19661	ka
+kam
+19664	sa
+19666	ku
+di
+19669	ni
+di
+19672	in
+19677	a
+19679	a
+19682	us
+19691	lip
+19693	si
+19695	su
+lum
+19698	ni
+19708	ma
+19713	šu
+ta
+19716	kar
+ana
+19723	giš
+19726	a
+19728	nu
+u
+eli
+19732	kul
+19734	la
+u
+kur
+19738	ka
+19740	na
+19742	a
+ša
+19745	ni
+19747	kip
+19749	ta
+ina
+19752	munus
+19761	ina
+19764	šu
+19767	an
+19784	šu
+19786	u
+19789	kal
+19791	ina
+19796	ka
+19799	ti
+a
+19802	šar
+19806	u
+19808	kal
+19810	lu
+19815	at
+šum
+19818	ma
+19823	šu
+be
+19826	eʾ
+19828	šat
+19831	ša
+gul
+19835	gul
+19837	li
+19839	šu
+it
+19842	tar
+19844	du
+19847	ma
+gul
+19850	gul
+19852	la
+19854	šu
+te
+19857	ser
+19859	rim
+19861	ša
+gul
+19864	gul
+19866	li
+19868	šu
+tu
+19872	še
+19874	lam
+19881	si
+19886	ana
+19891	an
+19901	ana
+19915	ma
+19921	si
+19926	ana
+19931	an
+tug
+na
+19935	al
+19937	ti
+19939	ip
+19941	ti
+19957	ma
+19963	si
+19968	ana
+19973	an
+19983	sar
+19986	ti
+19997	ana
+20009	ma
+20016	šim
+20026	ina
+20029	sar
+20032	aš
+20036	tu
+20038	gal
+20040	lab
+20051	šum
+20053	ma
+20056	ma
+20061	šu
+la
+be
+20065	eʾ
+20067	šat
+ana
+li
+20071	mit
+20076	šu
+20083	an
+20085	ur
+20087	ba
+20089	tu
+ur
+20092	ba
+20094	tu
+ur
+20097	ba
+20099	tu
+sa
+20102	am
+20104	tu
+20107	am
+20109	ma
+ur
+20112	pa
+20114	ta
+20116	ik
+20118	tum
+20125	ma
+20128	tu
+20131	tu
+ir
+20134	hu
+20143	ma
+20147	tu
+im
+20150	la
+lu
+20154	giš
+20157	giš
+20162	ši
+20164	ma
+20171	li
+20173	is
+20175	kir
+giš
+20179	ma
+20181	giš
+20186	mi
+20192	šu
+20194	nu
+ed
+20197	la
+man
+20200	nu
+20202	um
+20204	ma
+ša
+i
+20208	pe
+20210	et
+20212	ta
+20214	ku
+20216	nu
+20218	ši
+i
+20221	ri
+20223	iš
+ma
+20226	ra
+i
+20229	ri
+20231	iš
+ma
+20234	ra
+20251	la
+ik
+20254	kal
+20256	lu
+20258	u
+20264	hal
+20266	lu
+20268	ta
+20270	na
+20272	a
+ša
+20284	mi
+ana
+20287	he
+20289	pe
+20291	e
+20293	ti
+20296	an
+20300	šu
+20303	nu
+ina
+20306	ta
+20308	pa
+20310	ti
+20312	iq
+20327	e
+20329	ma
+20334	nu
+ina
+20340	šu
+tara
+20344	kas
+20346	ma
+20348	ina
+20350	eš
+20357	su
+20359	u
+20361	kal
+e
+20364	le
+20366	nu
+da
+20369	da
+20372	ni
+20374	šu
+20379	giš
+20382	hum
+20384	ṭam
+20387	an
+20389	ma
+20392	šu
+ub
+20395	bal
+20398	ab
+20400	bu
+20402	ut
+20404	ta
+20406	šu
+20408	u
+20410	kal
+kal
+20419	ina
+20426	ina
+20432	ab
+20434	bu
+20436	ut
+20438	ta
+20440	šu
+20443	šu
+te
+20447	ser
+20449	rim
+ka
+20452	a
+20455	a
+20457	na
+20459	am
+20467	su
+še
+20470	ha
+u
+20473	kal
+20475	giš
+20478	hum
+20480	ṭam
+20483	an
+20490	su
+it
+20493	te
+20495	ne
+20497	ba
+20499	aš
+20501	šum
+na
+20504	mu
+20506	ši
+20508	tu
+na
+20514	na
+20518	na
+20520	mar
+20522	ha
+20524	ši
+na
+20528	na
+20530	na
+20540	na
+20550	an
+20552	nu
+20554	ti
+ina
+sig
+20569	ina
+20577	šu
+tara
+20580	kas
+20582	ma
+ina
+20585	eš
+20592	su
+20594	ik
+20596	ta
+20599	na
+20601	aṣ
+20603	ṣa
+šim
+20608	šim
+20612	šim
+20619	šim
+20629	giš
+20633	giš
+si
+20636	hu
+giš
+ar
+20641	gan
+20644	nu
+u
+ba
+20648	ri
+20650	ra
+20652	ta
+20656	ana
+20663	ina
+20671	ša
+20676	u
+ina
+20679	giš
+20684	ina
+20688	ri
+20693	su
+20696	ana
+20699	bu
+20701	ṭu
+20704	ut
+20706	tu
+šim
+20709	u
+kur
+20712	ka
+20714	nu
+20716	u
+qu
+20719	ta
+20721	ru
+ša
+20727	nap
+20729	šal
+20731	ti
+20738	d
+20741	u
+20743	ni
+20745	kip
+20747	ta
+20749	u
+20751	na
+mu
+20754	ṣa
+20770	giš
+bi
+20774	ni
+20779	gul
+20781	gul
+20794	an
+20796	nu
+20798	ti
+20822	šu
+20829	qu
+20831	tar
+20836	u
+20842	d
+20844	u
+kur
+20847	ka
+20849	na
+ni
+20854	kip
+20856	ta
+20859	u
+20865	niš
+tu
+20869	dak
+20871	kak
+ina
+20874	giš
+20879	ina
+20881	tu
+20883	qat
+20885	tar
+20887	šu
+20896	su
+20898	u
+ṣa
+20901	ṣu
+20903	um
+20905	ta
+u
+20912	u
+pi
+20916	mu
+20918	un
+20921	zer
+20929	su
+20932	niš
+20934	ina
+20937	sar
+20940	aš
+20945	su
+20948	ab
+20951	ma
+20967	su
+20969	šim
+20973	šim
+20975	u
+20979	šim
+20985	šim
+20997	ina
+21001	ri
+21005	ab
+21014	ana
+21023	u
+21030	te
+21032	ser
+21035	rim
+21039	ina
+21043	sar
+21046	aš
+21053	ana
+21059	šu
+21064	ma
+ina
+21068	šu
+21073	su
+21076	na
+21093	šu
+i
+21096	tel
+21098	li
+21100	ana
+21112	su
+21121	im
+21133	su
+21135	ma
+21150	su
+21155	šu
+21160	su
+21165	šu
+u
+21171	šu
+21174	šim
+21177	ma
+21179	ta
+21184	ana
+21187	šu
+21189	šim
+21193	šim
+21195	u
+21202	giš
+21205	sar
+21219	ina
+21222	sar
+21227	aš
+21232	su
+21238	ma
+21246	ana
+21249	u
+21258	ma
+ina
+21261	eš
+21270	šu
+21273	i
+21275	ta
+21277	na
+21279	ah
+21286	ši
+21290	šu
+21293	ik
+21295	ta
+21297	ner
+21299	ru
+ana
+21305	hi
+21311	sar
+21323	id
+21344	ina
+21348	sar
+21351	aš
+21354	ana
+21361	giš
+21364	u
+21378	lu
+ina
+21400	u
+21414	šu
+21416	u
+21418	kal
+21422	m
+21437	ki
+ša
+d
+21441	u
+d
+taš
+21445	me
+21447	tu
+21451	ra
+21453	pa
+21455	aš
+21457	tu
+iš
+21460	ru
+21462	ku
+21464	šu
+e
+21467	hu
+21469	uz
+21471	zu
+21475	na
+21477	mir
+21479	tu
+ni
+21482	siq
+ṭup
+21485	šar
+21487	ru
+21489	ti
+ša
+ina
+21496	ni
+a
+21499	lik
+mah
+21502	ri
+21504	ia
+21507	mam
+21509	ma
+šip
+21512	ru
+šu
+21515	a
+21517	tu
+la
+i
+21521	hu
+21523	uz
+21525	zu
+bul
+21528	ṭi
+21530	muh
+21532	hi
+21535	liq
+21537	ti
+21542	ta
+21545	hi
+21547	zu
+nak
+21550	la
+a
+21553	zu
+21555	gal
+21557	lu
+21559	ti
+d
+nin
+21563	urta
+u
+d
+gu
+21568	la
+ma
+21571	la
+ba
+21574	aš
+21576	mu
+ina
+ṭup
+21580	pa
+21582	a
+21584	ni
+aš
+21587	ṭur
+as
+21590	niq
+21595	ma
+a
+21598	na
+ta
+21601	mar
+21603	ti
+ši
+21606	ta
+21608	si
+21610	ia
+qe
+21613	reb
+21618	ia
+u
+21621	kin
+21629	u
+21631	tan
+21633	ne
+21635	eh
+21637	šu
+21643	u
+21647	lim
+u
+21660	u
+21664	u
+ur
+21667	ne
+21669	e
+šim
+21679	u
+21697	šu
+u
+21700	ṣar
+21702	rap
+21704	šu
+na
+21707	piš
+21710	šu
+21722	šu
+i
+21725	ha
+21727	maṭ
+21729	su
+i
+21732	dak
+21734	ka
+21736	su
+21739	su
+21756	ina
+21759	pa
+21761	tan
+21766	šu
+21770	šim
+21772	šim
+21777	šim
+21780	giš
+bi
+21783	ni
+21785	u
+21801	šu
+u
+21804	ha
+21806	maṭ
+21808	su
+21812	šu
+21817	ana
+21824	šim
+21826	šim
+21856	ina
+21860	aš
+21872	ma
+21876	šu
+i
+21879	kaṣ
+21881	ṣa
+21883	su
+21886	šu
+21901	u
+ak
+21904	tam
+u
+21908	lim
+u
+tar
+21912	muš
+21929	šu
+21932	bat
+21939	it
+21941	ta
+21944	na
+21946	ša
+21948	aš
+a
+21951	šu
+21953	uš
+21955	tu
+21961	su
+21984	giš
+21990	ina
+21998	šim
+22002	šim
+22004	ina
+22007	ina
+22011	šal
+ana
+22016	šu
+22029	ina
+22048	giš
+22051	ha
+22053	ah
+22066	gu
+22068	ur
+22083	ta
+22085	sak
+ina
+22088	ta
+22090	la
+22092	aš
+ina
+22095	te
+22097	ṭer
+22099	ri
+22108	u
+ak
+22111	tam
+22113	ina
+22122	it
+22124	ta
+22126	na
+22128	ša
+22130	aš
+a
+22133	šu
+22135	uš
+22137	tu
+22142	su
+di
+22145	ik
+22147	ša
+22152	su
+22155	šu
+ma
+22158	a
+22160	da
+22172	u
+22175	lim
+u
+šiz
+22179	ba
+22181	na
+šim
+22188	ina
+22202	ma
+22205	šu
+in
+22208	nin
+22210	me
+22212	er
+nap
+22215	hu
+22217	ma
+22219	gal
+22227	u
+22231	lim
+22234	u
+22239	u
+tar
+22242	muš
+šim
+22247	u
+ti
+22250	ia
+22252	ta
+u
+22258	ina
+22261	pa
+22263	tan
+22284	šim
+22286	šim
+22296	giš
+22310	gu
+22312	ur
+giš
+22329	ina
+22333	aš
+ina
+22340	ri
+22344	su
+22346	ma
+22350	u
+22352	ak
+22354	tam
+22356	ina
+22366	šu
+i
+22369	ar
+22372	ru
+22378	ina
+22381	u
+22384	lim
+22387	ina
+22404	ina
+22408	u
+ti
+22412	ia
+22414	ta
+22416	ina
+22428	ma
+22431	šu
+in
+22434	nim
+22436	me
+22438	ru
+nap
+22441	hu
+22444	ma
+22446	gal
+22460	la
+uk
+22463	tap
+22465	pi
+22467	tu
+22472	ta
+22475	sak
+ina
+22479	u
+22484	ina
+22487	u
+22498	ina
+22510	ma
+22515	šu
+in
+22518	nim
+22520	me
+22522	ru
+22527	šu
+22532	at
+22546	la
+uk
+22549	tap
+22551	pi
+22553	tu
+22557	ta
+22559	sak
+ina
+22572	ma
+22575	šu
+in
+22578	nim
+22580	me
+22582	ru
+in
+22585	ne
+22587	bi
+22589	ṭu
+ri
+22592	du
+22594	ut
+ir
+22597	ri
+22606	ina
+22624	šu
+i
+22634	mur
+ti
+22647	u
+ak
+22650	tam
+ina
+hi
+22654	iq
+22661	nu
+hi
+22664	iq
+22673	a
+22675	šu
+22677	uš
+22679	tu
+22684	su
+22688	ru
+22690	pu
+22692	uš
+22694	tu
+22700	ši
+22708	u
+ap
+22711	ru
+22713	ša
+22720	niš
+22736	ma
+22738	gal
+22767	ši
+22769	u
+22774	u
+22785	u
+22791	u
+22798	u
+22801	kiš
+22803	ša
+22805	ni
+22810	mal
+22812	ma
+22814	liš
+22818	ina
+22824	tara
+22826	bak
+22839	a
+22841	na
+22843	ta
+22847	šap
+22849	pah
+ina
+22857	su
+tu
+22860	gal
+22862	lab
+22865	ma
+ina
+22868	eš
+22872	sar
+u
+22877	šim
+22881	šim
+22890	ša
+22899	mal
+22901	ma
+22903	liš
+22912	ana
+22923	an
+22925	nu
+22928	ti
+22933	tara
+22935	bak
+22940	giš
+22943	giš
+22947	šim
+22953	šim
+22957	šim
+22960	giš
+22965	šim
+22972	šim
+22976	šim
+22978	šim
+22981	šim
+22989	ina
+22995	tara
+22997	bak
+23011	ana
+23014	ta
+23016	šap
+23018	pah
+ina
+23023	ri
+23029	su
+tu
+23032	gal
+23035	lab
+23038	ma
+23043	giš
+23047	u
+ak
+23050	tam
+23062	sar
+23064	giš
+23066	u
+23073	niš
+23096	a
+23098	na
+23100	ta
+23102	šap
+23104	pah
+23115	su
+23118	ab
+23121	ma
+23125	u
+23129	u
+23138	u
+23140	ka
+23142	man
+23144	ti
+23155	šim
+23162	ina
+23164	tara
+23166	bak
+23169	ma
+23173	šim
+23177	šim
+23185	u
+ka
+23188	man
+23190	ti
+23198	šim
+23205	niš
+23215	ina
+23217	tara
+23219	bak
+23222	ma
+23228	šim
+23232	šim
+23242	niš
+23251	ina
+23253	ta
+23255	la
+23257	aš
+23267	su
+23270	ab
+23273	ma
+23277	šim
+23281	šim
+23284	šim
+23286	d
+23292	u
+23302	šim
+23306	niš
+23311	ina
+23313	tara
+23315	bak
+23322	su
+23325	ab
+23328	ma
+23333	giš
+23335	ša
+ina
+23341	i
+23343	nam
+23345	zu
+23347	zu
+23350	qi
+ina
+23362	ina
+23365	sar
+23368	aš
+23372	u
+ap
+23375	ru
+23377	ša
+23379	ina
+23385	giš
+a
+23388	bu
+23390	ka
+23392	tu
+ana
+23397	di
+23420	šu
+u
+23424	šu
+ana
+23432	šu
+23436	u
+23440	ni
+23442	kip
+23444	ta
+ina
+23447	tu
+23449	qat
+23451	tar
+23453	šu
+23455	šim
+23460	ni
+23462	kip
+23464	ta
+šim
+23468	u
+23485	ina
+23487	tu
+23489	ša
+23491	ha
+23493	an
+23496	id
+23517	d
+23521	niš
+23523	sig
+23542	šu
+23545	as
+23548	ni
+23550	kip
+23553	ta
+23560	šu
+23577	šu
+23658	ina
+a
+23661	ṣi
+23663	ka
+ina
+23667	ka
+23670	zu
+23682	ina
+sig
+23691	as
+23715	su
+23732	ina
+23736	aš
+23769	ina
+23774	šu
+23827	ina
+23832	šu
+23867	sah
+23869	le
+23871	e
+23874	ti
+23899	giš
+šu
+23902	nim
+23908	ina
+23929	giš
+23934	u
+su
+23937	ba
+23939	lam
+23956	ina
+23960	sar
+23973	ši
+u
+šim
+23977	ma
+23979	ta
+23982	giš
+23993	sah
+23995	le
+23997	e
+u
+24002	ina
+24004	lu
+24008	tara
+24010	bak
+24018	u
+24024	giš
+24026	d
+24034	u
+24038	u
+24046	gu
+24048	ur
+24050	gu
+24052	ur
+24067	giš
+24070	giš
+24080	u
+24082	paṭ
+giš
+24085	ša
+ina
+24093	zu
+24098	ina
+24102	u
+24105	d
+24111	ina
+na
+24121	ina
+24123	lu
+24127	tara
+24129	bak
+24139	ma
+24144	šu
+24149	šu
+i
+24152	šam
+24154	ma
+24156	ma
+24158	šu
+24160	giš
+24166	šim
+24172	u
+24184	u
+24188	giš
+24195	niš
+24198	ina
+šur
+24201	šum
+24203	mi
+24205	tara
+24207	bak
+24210	ma
+24218	šim
+24220	u
+24226	u
+ak
+24229	tam
+u
+24240	niš
+24243	ina
+šur
+24246	šum
+24248	mi
+24252	tara
+24254	bak
+24257	ma
+24260	uṭ
+24267	šu
+24272	šu
+ina
+si
+24276	pa
+24278	ri
+24281	šu
+24284	šu
+24287	šu
+ta
+24290	tak
+24293	kip
+24299	ak
+ni
+24302	kip
+24304	ta
+ina
+24309	su
+24311	tug
+24319	na
+mu
+24322	ṣa
+24326	giš
+24329	bi
+24331	ni
+ina
+24335	šu
+24338	an
+24342	na
+24349	na
+24351	ina
+24355	su
+ana
+24361	nu
+24363	uh
+24365	hi
+24376	šim
+24380	šim
+24382	šim
+24385	sar
+ta
+24388	pa
+24390	aṣ
+24396	ina
+24401	tara
+24403	bak
+24405	ana
+24410	nu
+24412	uh
+24414	hi
+24422	šim
+24426	šim
+24430	niš
+24440	ina
+24444	niš
+24447	šal
+ina
+24452	ri
+24455	su
+24457	ma
+24466	šu
+24468	šim
+24470	šim
+24486	niš
+ina
+24489	tara
+24491	bak
+24494	ma
+24497	uṭ
+24499	sar
+tur
+24502	ar
+24505	it
+24507	ti
+24509	šu
+24513	ina
+24515	u
+24519	tara
+24521	bak
+24524	ma
+24527	uṭ
+24535	šu
+24538	su
+24540	ma
+24545	šu
+24557	šim
+24564	sar
+24584	ina
+24586	ta
+24588	la
+24590	aš
+24595	šu
+24597	a
+24599	na
+nu
+24602	uh
+24604	hi
+ša
+24624	mal
+24626	ma
+24628	liš
+24632	ina
+24636	tara
+24638	bak
+24648	šu
+24652	su
+24654	ma
+24657	šu
+u
+i
+24661	ar
+24663	ru
+24667	ina
+24673	i
+24675	ar
+24677	ru
+24692	u
+24694	la
+i
+24697	mah
+24699	har
+24704	šu
+iš
+24707	kun
+24709	šu
+24714	la
+24716	bi
+24718	ri
+te
+24721	qeb
+24723	bir
+24725	šu
+24727	ina
+24737	id
+24739	munus
+24748	sig
+24756	mi
+24770	pa
+24772	ri
+24774	iš
+24776	tu
+24786	šu
+24788	nu
+ta
+24791	pat
+24793	til
+24803	na
+24807	na
+24811	ina
+24818	šu
+24833	ni
+24835	kip
+24837	ta
+24839	ina
+24848	su
+24858	šu
+24861	su
+24863	ma
+24867	šu
+24869	u
+24871	kal
+sah
+24874	le
+24876	e
+24891	niš
+24895	ina
+24898	sar
+tara
+24901	bak
+24906	šu
+24909	ma
+24912	uṭ
+24920	šu
+24923	su
+24925	ma
+24929	šu
+24931	u
+24933	kal
+sah
+24936	le
+24938	e
+u
+24945	ina
+24952	tara
+24954	bak
+24959	šu
+24962	ma
+24965	uṭ
+24974	šu
+ṣab
+24977	ta
+24979	šu
+24981	ma
+24986	šu
+24988	u
+24990	kal
+24992	la
+sah
+24995	le
+24997	e
+u
+25003	sar
+25018	niš
+ina
+dug
+25022	ina
+25025	sar
+tara
+25028	bak
+25035	šu
+25038	ma
+25041	uṭ
+25049	šu
+25052	su
+25054	ma
+25058	šu
+25060	u
+25062	kal
+sah
+25065	le
+25067	e
+u
+25075	giš
+25093	niš
+25096	ina
+25102	tara
+25104	bak
+25121	šu
+25124	su
+25126	ma
+25130	šu
+25132	u
+25134	kal
+25136	u
+25148	u
+25155	šim
+25159	niš
+25162	ina
+25170	tara
+25172	bak
+25182	ṣab
+25184	ta
+25186	šu
+25189	ma
+25232	giš
+25236	giš
+25247	giš
+ar
+25250	gan
+25252	nu
+giš
+ba
+25256	ri
+25258	ra
+25260	ta
+25280	niš
+25285	ina
+25289	tara
+25291	bak
+25297	ana
+25299	ta
+25301	šap
+25303	pah
+25308	su
+25311	ab
+25314	ma
+u
+25318	lim
+u
+25323	ina
+25332	ah
+na
+25337	ina
+25340	šu
+25343	su
+u
+ar
+25347	zal
+25349	la
+25351	gul
+25353	gul
+25364	ni
+25366	kip
+25368	ta
+25370	giš
+25374	u
+25377	giš
+bi
+25380	ni
+u
+25389	niš
+te
+25392	pe
+25394	eṣ
+ina
+25399	giš
+25405	ma
+25410	su
+bal
+25413	ṭu
+25415	su
+25417	nu
+ina
+25420	giš
+25422	tu
+25424	qat
+25426	tar
+25428	šu
+25439	šu
+25442	aš
+25450	šu
+25453	šu
+25455	ma
+25459	šu
+nap
+25462	hat
+u
+25467	qi
+25473	ša
+25475	ni
+d
+iš
+25479	tar
+ana
+25483	šu
+giš
+si
+25487	hu
+giš
+ar
+25491	ga
+25493	nu
+giš
+ba
+25497	ri
+25499	ra
+25501	ta
+25506	d
+25508	u
+25517	ina
+25524	ina
+25526	tara
+25528	bak
+25533	šur
+25535	šum
+25537	mi
+ši
+25540	iq
+25542	qi
+šur
+25545	šum
+25547	me
+25556	šur
+25558	šum
+25560	mi
+25571	ki
+25577	šim
+25579	ina
+25584	te
+25586	qi
+25596	šu
+25599	šu
+25601	ma
+25605	šu
+nap
+25608	hat
+u
+25613	qi
+25621	ki
+25623	a
+25625	ši
+25627	i
+25629	giš
+25631	ina
+25633	šim
+25636	ina
+25638	tuš
+25640	bat
+ina
+še
+25644	ri
+25646	pa
+25648	tan
+25655	pu
+25657	rat
+25659	ta
+25672	sar
+25675	ina
+25678	sar
+tara
+25681	bak
+25686	šu
+25689	šu
+25698	su
+25700	ma
+i
+25703	mim
+i
+25706	kaṣ
+25708	ṣa
+25713	šu
+nu
+25716	up
+25718	pu
+25720	ha
+25738	tur
+25740	ar
+25742	ina
+25744	giš
+25750	su
+25752	ma
+25761	su
+25763	ma
+25765	d
+25770	d
+25778	šu
+25784	a
+25786	ši
+25788	pu
+ki
+ša
+i
+25793	du
+25795	u
+li
+25798	te
+25800	ep
+25802	pu
+25804	uš
+25808	ma
+25810	hir
+25812	te
+25824	niš
+25827	su
+u
+25837	ina
+25840	sar
+tara
+25843	bak
+25851	ana
+25853	ta
+25855	ša
+25857	pah
+25861	ab
+25864	su
+25879	ah
+sig
+25894	mi
+ina
+25900	šu
+u
+25904	šu
+25926	šu
+25931	šu
+na
+mu
+25935	ṣa
+na
+25941	na
+25949	na
+25963	u
+25974	niš
+25977	ina
+25979	giš
+25986	ma
+25993	šu
+25998	šu
+u
+26002	su
+26007	ma
+ina
+26010	eš
+26014	ina
+26027	ana
+26030	šu
+26033	giš
+26037	giš
+26043	šim
+26049	šim
+26055	giš
+dup
+26058	ra
+26060	nu
+26068	šim
+26074	šim
+26080	šim
+26084	šim
+26099	sar
+26102	šim
+26129	sah
+26131	le
+26133	e
+26136	qi
+26138	lip
+26156	niš
+26159	lu
+ina
+26168	tara
+26171	bak
+ina
+26181	ana
+26183	ta
+26185	šap
+26188	pah
+26195	ab
+26202	šu
+26205	ma
+26207	ina
+26210	eš
+26213	šim
+26217	šim
+26219	d
+26222	šim
+26224	qi
+26226	lip
+26243	niš
+26245	ina
+26249	ri
+26252	id
+26254	ma
+ina
+26258	eš
+26272	šim
+26277	ina
+šur
+26280	šum
+26282	me
+26286	aš
+26308	u
+26311	u
+26318	u
+26326	u
+26334	u
+ap
+26338	ru
+26340	šu
+26342	u
+26347	u
+26351	ša
+ana
+26362	mušen
+26364	ša
+giš
+26371	mušen
+ša
+giš
+bi
+26376	ni
+26379	u
+si
+26382	in
+26384	bu
+26386	ra
+26389	ti
+26391	šim
+26395	sah
+26398	le
+26400	e
+26403	u
+qu
+26406	ud
+26408	ri
+26410	sar
+giš
+26413	ta
+26415	pa
+26417	aṣ
+26420	niš
+26433	ina
+26435	urudu
+26439	ta
+26441	qal
+26443	lu
+26447	ša
+26449	šu
+26451	nu
+ma
+26454	la
+26456	a
+qa
+26459	lu
+26461	u
+26465	niš
+26469	ina
+26472	šur
+26474	šum
+26476	mi
+26478	ta
+26480	la
+26482	aš
+tu
+26485	gal
+26487	lab
+26493	aš
+26496	šu
+26499	su
+26501	ma
+ina
+26512	šu
+ta
+26515	ma
+26517	haṣ
+26519	ma
+26522	uṭ
+26526	u
+26531	u
+26537	ina
+26539	ta
+26541	la
+26543	aš
+26549	mušen
+26551	ina
+26553	ta
+26555	la
+26557	aš
+26577	šu
+i
+26580	bar
+26582	ru
+26584	ra
+26589	šu
+i
+26592	šam
+26594	ma
+26596	mu
+26598	šu
+26603	šu
+26609	šu
+26618	šu
+u
+26624	šu
+u
+26627	šam
+26629	ma
+26631	ma
+26633	šu
+u
+26636	zaq
+26638	qa
+26640	ta
+26642	šu
+bir
+26645	ka
+26647	šu
+an
+26651	ha
+tab
+26655	ka
+e
+26658	ta
+26660	ta
+26662	na
+26664	ah
+26672	su
+i
+26675	dan
+26677	nin
+26679	šu
+26681	ana
+26685	šu
+26690	hi
+26692	qa
+ša
+26695	urudu
+26700	giš
+bi
+26703	nu
+u
+26711	giš
+26717	u
+26722	giš
+26728	ana
+26733	šal
+26743	ib
+26746	šu
+26748	ma
+26762	te
+26764	se
+26766	er
+26769	šu
+26772	u
+26775	lim
+u
+26781	ina
+26783	giš
+26791	su
+26794	ma
+26808	u
+26811	lim
+u
+26816	u
+tar
+26820	muš
+26822	u
+an
+26825	ki
+26827	nu
+26829	te
+giš
+26836	u
+26847	ti
+26850	niš
+ta
+26853	pa
+26855	aṣ
+26857	ina
+urudu
+26864	tu
+26866	šab
+26868	šal
+ta
+26871	ša
+26873	hal
+26881	hal
+26883	ṣa
+ana
+26887	ana
+26890	šu
+26893	ma
+26897	u
+26900	lim
+u
+26906	giš
+26909	u
+tu
+26912	lal
+26917	ina
+26920	ba
+26922	lu
+pa
+26925	tan
+26928	ma
+26931	uṭ
+26945	šu
+26947	nu
+ina
+26951	u
+26955	tu
+26957	la
+26959	bak
+26962	šal
+ta
+26965	ša
+26967	hal
+26975	hal
+26977	ṣa
+ana
+26982	di
+26988	ta
+26990	hi
+26992	ṭa
+26994	šu
+26996	ma
+26999	uṭ
+27002	u
+27006	u
+27025	pa
+27027	tan
+27032	ma
+27035	uṭ
+27038	u
+27041	lim
+u
+27047	u
+27058	ina
+27062	šal
+ta
+27065	ša
+27067	hal
+27090	u
+27093	lim
+27095	giš
+27109	ina
+27116	giš
+27119	a
+27122	pi
+27140	na
+27151	ni
+27154	kip
+27156	ta
+27167	na
+27170	mu
+27172	ṣa
+na
+27182	an
+27184	nu
+27187	ti
+27194	d
+27202	šu
+27214	su
+27216	ma
+27222	šu
+27227	niš
+27229	ina
+27240	šu
+lu
+ša
+27244	lu
+27246	ša
+27250	u
+27255	šu
+a
+27258	pa
+27260	a
+na
+mu
+27264	ṣa
+27276	šu
+27284	sah
+27287	le
+27289	e
+27318	su
+27320	ma
+pa
+27323	nu
+27325	šu
+27327	iṣ
+27329	ṣa
+27331	nun
+27333	du
+27349	u
+27352	lim
+27367	ma
+27391	su
+27422	ina
+27424	giš
+27433	ma
+27450	šu
+27455	šu
+27461	giš
+si
+27464	hu
+giš
+ar
+27468	ga
+27470	nu
+u
+27473	ba
+27475	ri
+27477	ra
+27479	ta
+27488	ina
+27491	sar
+tara
+27494	bak
+27497	su
+27508	d
+27524	šu
+ur
+27527	rak
+27544	si
+27550	ša
+27552	ne
+27554	e
+d
+iš
+27558	tar
+27571	ma
+27573	ma
+27575	gal
+27580	la
+i
+27583	na
+27585	aš
+27587	ši
+27600	ma
+ma
+27604	gal
+27609	si
+27615	šu
+ma
+27618	gal
+te
+27621	bu
+27623	u
+27630	an
+27632	nu
+27634	tu
+27659	šum
+27661	ma
+27676	ina
+27679	il
+27681	ta
+27683	za
+27685	az
+27687	ma
+27700	šu
+27702	u
+27704	kal
+27708	m
+27725	ki
+ša
+d
+27729	u
+d
+taš
+27733	me
+27735	tu
+27739	ra
+27741	pa
+27743	aš
+27745	tu
+iš
+27748	ru
+27750	ku
+27752	šu
+e
+27755	hu
+27757	uz
+27760	zu
+27764	na
+27767	mir
+27769	tu
+ni
+27772	siq
+ṭup
+27775	šar
+27777	ru
+27779	ti
+ša
+27782	ina
+27787	ni
+a
+27790	lik
+mah
+27793	ri
+27795	ia
+mam
+27798	ma
+27800	šip
+27802	ru
+šu
+27805	a
+27807	tu
+la
+i
+27811	hu
+27813	uz
+27815	zu
+27817	bul
+27819	ṭi
+27822	muh
+27824	hi
+27827	liq
+27830	ti
+27834	ta
+27836	hi
+27839	zu
+nak
+27842	la
+a
+27845	zu
+27847	gal
+27849	lu
+27851	ut
+d
+nin
+27855	urta
+u
+d
+gu
+27860	la
+ma
+27863	la
+ba
+27866	aš
+27868	mu
+27870	ina
+ṭup
+27873	pa
+27875	a
+27877	ni
+aš
+27881	ṭur
+as
+27884	niq
+27889	ma
+a
+27892	na
+ta
+27895	mar
+27897	ti
+ši
+27900	ta
+27902	si
+27904	ia
+qe
+27907	reb
+27914	ia
+u
+27917	kin
+27928	šu
+27931	su
+27934	šim
+27940	šim
+27944	u
+tara
+27947	muš
+giš
+si
+27951	ha
+27955	ina
+27964	šu
+27966	nu
+27970	ta
+27972	lal
+27983	šim
+27985	ana
+27991	šu
+27994	di
+27997	ana
+27999	giš
+28001	giš
+28023	ina
+28032	d
+28034	ku
+28036	up
+28038	ri
+d
+28044	tu
+28046	qat
+28048	tar
+28050	šu
+hi
+28053	ib
+28055	ṣa
+ša
+28063	ina
+28066	it
+28077	šu
+i
+28080	šag
+28082	gu
+28084	ma
+28087	šim
+d
+28090	zap
+28092	pi
+28104	u
+28120	šu
+ina
+28126	šu
+i
+28129	ret
+28131	ti
+28133	ma
+28137	a
+28139	šar
+28141	ba
+28143	ši
+28145	i
+d
+e
+28149	a
+ib
+28153	ni
+28158	šu
+28160	sa
+28162	par
+28164	ti
+28175	su
+28177	ma
+28182	šu
+i
+28185	šag
+28188	gu
+28190	ma
+šim
+28198	šim
+28204	sar
+zap
+28207	pi
+28219	qu
+28221	taru
+ša
+28226	lat
+28228	ku
+28236	ina
+28255	su
+28257	ma
+28262	šu
+i
+28265	šag
+28267	gu
+28269	ma
+šim
+28272	na
+28279	na
+28290	ina
+sig
+28295	mi
+ina
+28298	giš
+28302	piš
+28304	irtu
+ib
+28307	ni
+28311	nu
+28315	piš
+28317	irtu
+ib
+28320	ni
+d
+e
+28324	a
+28338	li
+28340	iz
+28342	zur
+28344	šu
+28346	li
+28348	is
+28350	kip
+28352	šu
+28354	liš
+28356	pi
+28359	šu
+28362	li
+28364	pa
+28366	sis
+28368	su
+28374	an
+28376	ni
+28378	tu
+28381	šu
+ana
+28384	lip
+28386	pi
+28389	nu
+ana
+28396	šu
+28399	an
+ana
+28402	šim
+28406	u
+28410	u
+28414	u
+ak
+28417	tam
+u
+28421	lim
+u
+28426	u
+tara
+28429	muš
+28436	ina
+28438	giš
+28443	ina
+sig
+28448	mi
+28454	šu
+28457	ma
+ina
+28460	eš
+28462	ana
+28467	ina
+28472	ana
+28478	šu
+28481	an
+ana
+28484	šim
+28486	na
+28492	na
+28496	na
+28502	niš
+28504	ina
+28506	giš
+28511	ana
+28517	šu
+28523	šu
+28527	ina
+28530	it
+28540	šu
+i
+28543	šag
+28545	gu
+28547	ma
+28549	u
+28551	ra
+28553	a
+28555	nu
+28557	giš
+28561	ni
+28563	kip
+28565	tu
+28567	u
+28569	zap
+28571	pi
+28577	tug
+28585	ina
+28591	šu
+tu
+28594	qat
+28596	tar
+28599	ina
+28602	it
+28612	šu
+i
+28615	šag
+28617	gu
+28619	ma
+28621	giš
+28625	ni
+28627	kip
+28629	tu
+tug
+28638	ina
+28645	šu
+28647	šim
+28651	šim
+28653	šim
+28655	giš
+28662	šim
+28665	sar
+im
+28676	qu
+28679	ša
+28683	ina
+28690	šu
+28692	na
+mu
+28695	ṣu
+28713	tam
+28715	ti
+28726	u
+28730	ina
+28737	šu
+tu
+28740	qat
+28742	tar
+kib
+28745	ri
+28747	tu
+u
+28751	giš
+28755	a
+28757	za
+28759	pi
+28765	tug
+28773	ina
+28775	giš
+28782	šu
+tu
+28785	qat
+28787	tar
+28793	na
+ga
+28796	bi
+28798	i
+u
+28803	sah
+28805	le
+28807	e
+28809	tam
+28811	ti
+kib
+28814	ri
+28816	tu
+28831	ina
+28833	giš
+28840	šu
+28848	šu
+i
+28851	šag
+28853	gu
+28855	ma
+28858	giš
+28861	a
+28863	ra
+28865	an
+28867	di
+šim
+28872	ina
+sig
+28877	mi
+ana
+28885	di
+ina
+28892	šal
+ana
+28899	šu
+28902	ma
+28910	šu
+i
+28913	šag
+28915	gu
+28917	ma
+28919	giš
+28923	giš
+28933	ma
+ana
+28940	šu
+28943	ma
+28946	en
+in
+28949	da
+28951	ra
+28953	ah
+ta
+28956	ra
+28958	ah
+28962	ti
+šu
+28965	maš
+in
+28968	da
+28970	ra
+28972	ah
+ta
+28975	ra
+28977	ah
+28979	ti
+28982	tir
+28984	ki
+28986	bi
+in
+28989	da
+28991	ra
+28993	ah
+28995	ta
+28998	ra
+29000	ah
+29002	ti
+tir
+29005	ki
+ba
+29008	su
+29010	tu
+29015	en
+šu
+29018	bi
+29020	in
+29023	du
+gir
+29026	bi
+in
+29029	du
+bur
+29032	še
+bur
+29035	na
+bur
+29038	na
+29040	an
+29042	na
+su
+29045	ri
+29047	ih
+su
+29050	ri
+29052	ih
+29054	e
+29056	ne
+su
+29059	ri
+29061	ih
+gaba
+ni
+29065	ik
+29067	ra
+29069	ah
+su
+29072	ri
+29074	ih
+ta
+29077	ah
+29079	ta
+29081	ah
+29097	šu
+29100	i
+29102	šag
+29104	gu
+29106	ma
+29112	šim
+29114	na
+29120	na
+29133	ina
+29135	giš
+29143	šu
+ana
+29148	nu
+sig
+29154	mi
+ana
+29162	šu
+29165	an
+29167	si
+29169	in
+29171	du
+ib
+29175	ni
+29177	d
+e
+29180	a
+29191	ib
+29194	ni
+du
+29197	up
+29199	ni
+gu
+29202	us
+29205	sa
+29223	šu
+i
+29226	šag
+29228	gu
+29230	ma
+29238	šim
+29241	na
+29248	na
+29254	ni
+29256	kip
+29258	tu
+ina
+29264	ina
+29266	tuš
+29268	bat
+29272	šu
+29274	ana
+29279	nu
+sig
+29284	ana
+29291	šu
+29294	an
+29296	en
+ša
+29299	ra
+29301	zu
+ša
+29304	ra
+29306	šag
+29308	ga
+he
+29311	a
+29313	ur
+29316	sag
+d
+nin
+29320	urta
+ša
+29323	ra
+29325	šag
+29327	ga
+he
+29330	a
+29332	en
+29334	d
+nin
+29337	urta
+ša
+29340	ra
+29342	šag
+29344	ga
+he
+29347	a
+d
+nin
+29351	urta
+nam
+29354	ba
+29356	te
+29358	ga
+29360	e
+29362	de
+tu
+29365	en
+29380	šu
+i
+29383	šag
+29385	gu
+29387	ma
+29395	na
+29407	šim
+29409	u
+ur
+29412	nu
+29414	u
+29419	ina
+29421	giš
+29430	šu
+29432	ana
+29436	nu
+29438	ina
+29440	sig
+29444	mi
+ana
+29451	šu
+29454	an
+29457	na
+29460	pi
+29462	ir
+še
+29465	ri
+29467	iš
+29469	pa
+29471	ta
+29473	ar
+29476	ri
+zu
+29479	ga
+29483	li
+29485	ir
+29487	ri
+pa
+29490	ta
+29492	hal
+29494	li
+pa
+29497	tar
+29499	ri
+29501	su
+29503	ma
+29505	aš
+29507	pa
+29509	at
+29511	ri
+29513	pa
+29515	ku
+29517	un
+29520	di
+ra
+29523	ta
+29526	aš
+29528	ik
+29530	ki
+29532	ri
+29534	ri
+ša
+29537	ra
+29539	aš
+tu
+29542	en
+29556	šu
+i
+29559	šag
+29562	gu
+29564	ma
+29567	šu
+29569	ana
+29575	šu
+29578	šu
+ana
+29584	šu
+29606	en
+nig
+29609	e
+nig
+29612	e
+nig
+29615	nam
+29617	ma
+us
+29620	su
+29623	ki
+29625	a
+dim
+29628	ma
+29630	bi
+a
+29633	ri
+29635	a
+an
+29638	na
+29640	ke
+29643	sa
+29645	alan
+29647	bi
+nig
+an
+29651	gin
+šu
+nu
+29655	te
+29657	ga
+29660	hur
+29662	sag
+29664	gin
+gul
+29667	gul
+sa
+29670	alan
+29672	bi
+zi
+29675	ir
+29677	zi
+29679	ir
+29681	e
+29683	de
+29686	nig
+udug
+har
+29690	ra
+29692	an
+nig
+udug
+kaskal
+29697	am
+29700	nig
+29702	ni
+29704	zu
+mu
+29707	un
+29709	ši
+29711	in
+29713	gin
+29715	na
+29717	nig
+29719	ni
+29721	zu
+mu
+29724	un
+29726	ši
+29728	in
+29731	gin
+29733	na
+29736	d
+nin
+29739	urta
+lugal
+giš
+tukul
+29744	ke
+29746	gaba
+29748	zu
+he
+29751	en
+29753	ga
+29755	ga
+29759	hul
+29761	dub
+zi
+29764	an
+29766	na
+he
+29769	pa
+29771	zi
+29773	ki
+29775	a
+he
+29778	pa
+29792	šu
+i
+29795	šag
+29797	gu
+29799	ma
+29802	šu
+ana
+29809	šu
+29812	šu
+ana
+29818	šu
+29821	en
+hu
+29824	hu
+29826	un
+29828	ti
+ib
+29831	ni
+29833	a
+29835	ti
+ib
+29838	ni
+29840	ir
+29843	ra
+ša
+29846	na
+29848	an
+29850	ak
+29852	ka
+29854	li
+29856	ir
+29858	ri
+su
+29861	gar
+29863	ri
+ša
+29866	at
+29868	ri
+ku
+29871	uk
+29874	ti
+hu
+29877	ma
+29879	at
+29881	ri
+su
+29884	ma
+29886	aš
+tu
+29889	en
+29903	šu
+i
+29906	šag
+29908	gu
+29910	ma
+29913	šu
+ana
+29920	šu
+li
+29923	ih
+29925	šu
+29927	en
+a
+29930	me
+29932	am
+29934	ma
+29936	an
+ku
+29939	um
+29941	ma
+29943	am
+su
+29946	um
+29948	ma
+29951	at
+29953	ri
+ki
+29956	ri
+29958	ri
+ku
+29961	uk
+29963	ti
+29965	ra
+29967	ša
+29969	na
+ku
+29972	uk
+29974	ti
+hu
+29977	un
+29979	di
+hu
+29983	ma
+29985	an
+tu
+29988	en
+30001	šu
+i
+30004	šag
+30006	gu
+30008	ma
+30011	šu
+ana
+30018	šu
+li
+30021	ih
+30023	šu
+30027	u
+kur
+30030	ka
+30032	na
+30034	a
+30049	šu
+30054	šu
+neš
+30057	ma
+30059	a
+he
+30062	e
+30064	si
+30068	giš
+30070	dup
+30072	ra
+30074	an
+sig
+30080	tum
+30083	šu
+30086	šu
+ana
+30093	šu
+30096	an
+30102	ma
+30105	su
+30107	ana
+30113	šu
+ip
+30116	pu
+30118	uš
+30120	ma
+neš
+30123	ma
+30125	a
+30130	giš
+30141	šim
+30148	šim
+30165	sig
+30170	ana
+30178	šu
+30182	an
+30190	an
+30192	nam
+30196	uš
+30198	ina
+30207	ša
+30214	šu
+30218	ma
+ta
+30221	kap
+30223	par
+30228	it
+30230	tag
+30232	ma
+30235	ru
+30247	ina
+30255	ana
+30261	šu
+30264	ah
+30270	ana
+30276	šu
+i
+30279	pu
+30281	uš
+30283	ma
+neš
+30286	mu
+30288	šu
+30290	u
+lu
+30293	u
+30295	kal
+30299	giš
+dup
+30302	ra
+30305	na
+30315	ana
+30320	šu
+30323	di
+sig
+30329	šu
+30332	šu
+30335	šu
+ana
+30342	šu
+30346	an
+30348	neš
+30350	mu
+30352	šu
+30355	te
+sah
+30358	le
+30360	e
+ša
+mim
+30364	ma
+ana
+30369	ina
+30380	ina
+si
+30383	li
+30385	ʾ
+30387	ti
+30389	šu
+30391	ana
+30397	šu
+ip
+30400	pu
+30402	uš
+30404	ma
+30409	šu
+30415	mušen
+30418	ana
+30424	šu
+30427	ma
+neš
+30430	mu
+30432	šu
+i
+30435	qal
+30437	lil
+30439	giš
+30446	tu
+30448	pa
+30450	aṣ
+ana
+30457	šu
+30460	ma
+ina
+30464	eš
+30472	šu
+30474	ša
+30483	u
+30488	šu
+30492	šim
+30507	šim
+30509	a
+30511	he
+30513	e
+tu
+30516	raq
+30518	qa
+30521	niš
+30525	ana
+30531	šu
+30534	mun
+eme
+30537	sal
+30539	li
+sig
+30543	ana
+30549	šu
+30567	sar
+30569	giš
+ere
+30572	ni
+ina
+30575	tara
+30577	bak
+30583	uṭ
+30590	šu
+30594	ma
+30601	šu
+bi
+30604	ʾ
+30606	iš
+30611	su
+30616	su
+30624	u
+ra
+30629	šu
+30631	ma
+la
+30636	lal
+30638	šim
+30640	šim
+30644	šim
+30646	šim
+30651	sar
+30667	niš
+30671	ina
+30673	giš
+30675	u
+30682	šu
+30685	ar
+30700	an
+30702	nam
+30705	uš
+30707	ma
+ina
+30719	šu
+ta
+30722	kap
+30724	par
+30726	ma
+30731	it
+30733	tag
+30735	ma
+30737	ru
+30748	ina
+gi
+30753	ana
+30761	šu
+30764	ah
+30768	ina
+30774	šu
+30780	ak
+30784	u
+30786	giš
+30790	niš
+30794	ana
+30800	šu
+30807	ana
+30813	šu
+30818	giš
+30825	ana
+30832	šu
+30838	giš
+30845	ina
+30848	giš
+30855	ana
+30861	šu
+30866	kam
+30868	ka
+30870	ma
+ša
+kim
+30874	ṣi
+30881	ša
+30886	ina
+30888	giš
+30894	sig
+30899	mi
+ana
+30906	šu
+30909	an
+30911	šim
+30913	šim
+30921	ana
+30927	šu
+30936	an
+30938	ni
+30940	šu
+ina
+30946	mušen
+30950	ana
+30955	šu
+30963	ina
+30970	ana
+30975	šu
+30984	tu
+30986	daq
+30988	qaq
+ina
+30997	ana
+31003	šu
+31006	ah
+31008	sar
+ki
+31011	ma
+31017	ta
+31019	qal
+31021	lu
+31023	ina
+31029	ana
+31036	šu
+31039	ah
+31047	giš
+31051	tur
+31053	ar
+31055	ana
+31061	šu
+31064	ah
+tu
+31067	ru
+31069	ʾ
+31071	a
+31076	as
+31078	si
+lu
+bu
+31086	tu
+31088	pa
+31090	ṣa
+31093	šu
+ana
+31100	šu
+31104	kam
+31106	ka
+31108	ma
+ša
+kin
+31112	ṣi
+31118	ša
+kal
+lap
+31122	bi
+31125	niš
+31130	ana
+31137	šu
+31140	an
+31142	ma
+31150	u
+31152	sig
+31156	ana
+31163	šu
+31166	an
+31174	tu
+31176	ha
+31178	sa
+ana
+31185	šu
+tu
+31188	na
+31190	tak
+31199	šu
+31203	i
+31205	ṣar
+31207	ru
+31209	ur
+31212	giš
+31219	ana
+31225	šu
+31234	ina
+31246	šu
+31249	ah
+31253	giš
+31256	šim
+31261	sar
+31264	ina
+31272	sig
+31276	mi
+ana
+31284	šu
+31293	šim
+31307	niš
+31311	ana
+31317	šu
+31320	an
+31324	ina
+31333	sig
+31338	mi
+ana
+31345	šu
+31348	an
+31351	giš
+31362	ana
+31368	šu
+31371	ah
+31377	giš
+31380	šim
+31392	tur
+31394	ar
+31397	ana
+31404	šu
+31407	giš
+31411	sig
+31415	ana
+31421	šu
+31433	ana
+31440	šu
+31443	an
+31447	ša
+lu
+31453	ta
+31455	bi
+31457	lam
+ana
+31465	šu
+31468	an
+31481	ana
+31488	šu
+31491	ah
+31494	giš
+31496	bi
+31498	ni
+31500	giš
+31504	ina
+31518	mušen
+31541	šu
+31544	an
+31547	giš
+31559	an
+31577	kam
+31582	u
+31599	šim
+31607	giš
+31620	ar
+ina
+31623	giš
+31625	ta
+31627	sa
+31629	raq
+31632	ma
+31642	ana
+31648	šu
+ta
+31651	sa
+31654	raq
+31656	ma
+31659	ana
+31662	sar
+31669	ta
+31671	qal
+31673	lu
+31675	ina
+31681	šu
+ta
+31684	sa
+31687	raq
+31689	ma
+31697	ina
+31703	šu
+31706	ak
+31708	giš
+31721	giš
+31730	šim
+31732	šim
+31743	ana
+31749	šu
+31762	niš
+31766	ana
+31773	šu
+31783	ina
+31787	šu
+lu
+31792	lu
+31794	lu
+31800	ak
+31806	šu
+ta
+31809	kap
+31811	par
+31815	ina
+31827	šu
+31830	si
+31833	ma
+31842	ana
+31849	šu
+31858	ina
+31863	ana
+31869	šu
+31871	sig
+31887	ana
+31890	u
+31896	sig
+31901	mi
+ana
+31909	šu
+31912	an
+ana
+31916	šim
+31921	sig
+31926	mi
+31928	ana
+31934	šu
+31937	an
+ana
+31941	sar
+qa
+31944	lu
+31946	te
+31949	sig
+31953	mi
+31955	ana
+31961	šu
+31964	an
+31970	šu
+ina
+31979	aš
+31982	rat
+d
+31986	d
+31990	ma
+31994	u
+32001	mun
+32003	eme
+32005	sal
+32007	li
+ina
+32018	šim
+32020	u
+32028	el
+32030	lam
+32035	šu
+32038	di
+32051	šum
+32053	ma
+32061	šu
+ina
+32069	aš
+32071	rat
+d
+nin
+32075	urta
+32078	ma
+32083	u
+32090	mun
+eme
+32093	sal
+32095	li
+32103	šim
+32107	sig
+32111	mi
+ana
+32118	šu
+32121	an
+32126	el
+32128	lam
+ana
+32135	šu
+32139	di
+32143	šim
+32161	šum
+32163	ma
+32171	šu
+32174	aš
+32176	rat
+d
+32181	ma
+32186	u
+32192	ina
+32196	šim
+32200	sig
+32204	mi
+ana
+32211	šu
+32214	an
+32219	el
+32221	lam
+ana
+32227	šu
+32230	di
+sah
+32233	le
+32235	e
+32237	ina
+32256	šu
+32258	ma
+32265	aš
+32267	rat
+d
+32273	ma
+32281	mar
+32285	sig
+32289	mi
+ana
+32297	šu
+32302	el
+32304	lam
+ana
+32310	šu
+32313	di
+32326	šum
+32328	ma
+32331	uṭ
+32353	mar
+ana
+32357	šu
+32367	ana
+32372	šu
+32375	di
+32388	šum
+32390	ma
+32393	uṭ
+32403	šu
+32405	ana
+32407	qer
+32409	bi
+32411	nu
+32413	ip
+32415	hur
+32417	ma
+32434	šu
+32436	šum
+32447	šim
+32449	sig
+32454	mi
+ana
+32461	šu
+32464	an
+32469	ana
+32474	šu
+32478	di
+bu
+32481	uh
+32483	ra
+32501	šum
+32503	ma
+32513	šu
+32515	ana
+qer
+32518	bi
+32520	nu
+ip
+32523	hur
+32525	ma
+32538	šu
+32542	aš
+32544	rat
+d
+32550	ma
+32554	mar
+ana
+32558	šu
+32560	ta
+32562	ṣap
+32564	pir
+32576	ana
+32582	šu
+32585	an
+32589	ana
+32594	šu
+32596	an
+32598	nu
+32600	u
+32604	u
+32608	ina
+32621	šum
+32623	ma
+32626	uṭ
+32634	šu
+32636	ana
+qer
+32639	bi
+32641	nu
+ip
+32644	hur
+32646	ma
+32652	ni
+32656	aš
+32658	rat
+d
+32665	ma
+32669	mar
+32676	ša
+32678	šu
+hal
+32681	qam
+32684	mar
+ana
+32688	šu
+32692	giš
+32700	giš
+32707	šim
+32723	šim
+32725	sig
+32732	ana
+32736	šu
+32741	šim
+32743	ana
+32749	šu
+32754	bu
+32756	uh
+32758	ra
+32775	šum
+32777	ma
+32785	šu
+32790	si
+32792	ha
+32794	sat
+lu
+32801	ni
+aš
+32804	rat
+d
+32808	nin
+32810	urta
+32813	ma
+32818	giš
+32829	su
+32840	ana
+32847	šu
+32853	mar
+32855	ana
+32859	sig
+32869	ana
+32875	šu
+32878	an
+32885	ana
+32893	šu
+32896	bah
+32898	ra
+32900	u
+32907	an
+32909	nam
+32912	uš
+32914	ma
+32919	mar
+32921	ana
+32923	šim
+32926	sig
+32929	ana
+32935	šu
+32938	an
+32941	šim
+32943	ana
+32951	šu
+32954	sah
+32956	le
+32958	e
+32969	u
+32971	mi
+an
+32974	nam
+32979	ma
+32984	mar
+32987	ana
+32991	giš
+33005	ana
+33012	šu
+33015	an
+33023	ana
+33030	šu
+33035	ma
+33041	ana
+33045	giš
+33064	ana
+33070	šu
+33073	an
+33079	ana
+33087	šu
+33091	u
+33097	u
+33104	an
+33106	nam
+33109	uš
+33111	ma
+33115	mar
+33124	šu
+33132	sar
+tu
+33135	pa
+33137	ṣa
+ana
+33142	šu
+33145	an
+33149	giš
+33154	su
+33156	ina
+33164	ana
+33168	šu
+33171	an
+33174	giš
+33177	šim
+33184	sar
+33186	ina
+33193	sig
+33199	ana
+33203	šu
+33206	an
+33214	sig
+33217	ana
+33221	šu
+33224	an
+33226	šim
+33231	giš
+33236	munus
+33245	ta
+33247	sak
+sig
+33252	mi
+ana
+33257	šu
+33260	an
+33265	dup
+33267	ra
+33269	na
+sig
+33274	ana
+33278	šu
+33281	an
+33284	d
+33295	giš
+33298	giš
+33305	ana
+33309	šu
+33312	an
+33315	giš
+33326	tu
+33329	daq
+33331	qaq
+33333	ana
+33337	šu
+33340	an
+33352	su
+33356	is
+33361	ana
+33365	šu
+tu
+33368	na
+33370	tak
+33377	šu
+33379	šim
+33382	šim
+33392	ina
+33404	šu
+33409	ina
+33432	si
+33434	ik
+33436	ti
+giš
+šu
+33440	šum
+33451	ha
+33453	si
+33455	sa
+33457	šu
+33460	at
+33468	šu
+aš
+gir
+33477	bu
+33479	ṭu
+33481	tu
+33489	ana
+33494	šu
+33499	ina
+33502	ka
+ana
+33508	šu
+33511	sar
+tum
+33519	ak
+kam
+33522	ma
+ša
+33534	ana
+33538	šu
+33542	ah
+33549	šu
+33554	giš
+33566	šim
+33568	ina
+sig
+33572	ana
+33577	šu
+33580	u
+33582	me
+an
+33585	na
+33587	a
+33592	uš
+33594	ina
+33604	me
+33612	šu
+ta
+33615	kap
+33617	par
+33628	ina
+33630	gi
+33634	ana
+33641	šu
+33644	ah
+giš
+šu
+33648	ru
+33650	uš
+giš
+33666	šu
+33672	su
+33676	šu
+33680	neš
+33683	mu
+33685	šu
+33688	te
+šim
+33702	munus
+33711	tur
+33713	ar
+33717	ana
+33724	šu
+33730	giš
+33735	ki
+33737	ma
+an
+33740	nam
+i
+33743	te
+33745	ep
+33747	šu
+33762	ina
+33766	ma
+tug
+33775	tug
+33778	šu
+33793	ma
+33797	ana
+33804	šu
+33807	di
+33811	ana
+33817	šu
+33820	di
+33823	ana
+33830	šu
+33833	di
+33840	ana
+33846	šu
+tu
+33849	na
+33851	tak
+33856	ana
+33862	šu
+33865	an
+33868	ana
+33875	šu
+tu
+33878	na
+33880	tak
+33884	ana
+33890	šu
+33903	šu
+33913	ša
+33923	ša
+33926	šu
+sig
+33931	mi
+33938	giš
+33944	u
+33955	šim
+33965	u
+33967	pu
+33969	un
+33971	tu
+ina
+33976	šu
+33994	giš
+34002	šim
+34013	u
+34019	u
+34021	hi
+34023	nu
+34080	šu
+34086	šu
+34088	ru
+34090	uš
+giš
+34100	ik
+34102	kaṣ
+34105	ṣi
+34108	ana
+34110	tu
+34112	maš
+34115	šad
+ša
+34118	ʾ
+34121	ana
+34131	raq
+34139	šu
+34144	ana
+34155	su
+34158	ana
+34169	su
+34172	ana
+34174	šim
+34194	an
+34200	an
+34206	an
+34211	ina
+34213	eš
+34219	raq
+34228	ina
+34230	ah
+34233	ina
+34236	ah
+34266	an
+34272	raq
+34278	an
+34284	raq
+34301	šu
+34313	ana
+34316	tur
+34318	ar
+34322	ana
+34328	ana
+34334	ina
+34339	ana
+34344	ana
+34349	ina
+34352	šu
+34362	ana
+34364	sum
+34369	i
+34371	di
+34373	ka
+34377	iš
+34379	tu
+na
+ah
+34385	ba
+34387	lit
+34389	ta
+34395	sig
+34397	šu
+34402	ana
+34412	ša
+34419	šu
+34423	na
+34432	ina
+34435	šu
+34440	ana
+34442	tam
+34444	šil
+34446	si
+34453	di
+34455	im
+a
+34458	šar
+na
+34466	pu
+34468	ṣa
+bur
+34471	ru
+34473	mat
+ba
+34476	lit
+34479	ti
+ana
+34485	šu
+34488	an
+34494	ša
+ana
+34499	šu
+34505	ta
+34507	tab
+34509	bal
+34513	ma
+tam
+34516	ši
+34518	i
+34524	šu
+34526	ana
+34528	šu
+34530	ru
+34532	uš
+giš
+34541	na
+ad
+da
+34546	ša
+ana
+34551	šu
+34556	ana
+34558	hu
+34560	um
+34562	bi
+34564	bi
+34566	tu
+tu
+34569	pa
+34571	ṣa
+34574	sig
+34577	ina
+34580	ana
+34584	šu
+ša
+34588	šu
+34593	ana
+34595	u
+34599	ta
+34603	sak
+ana
+34608	šu
+34611	an
+34614	ana
+34616	u
+34620	ta
+34624	sak
+ana
+34629	šu
+34634	d
+a
+34637	nu
+34639	ma
+d
+a
+34643	nu
+d
+a
+34647	nu
+pu
+34650	hur
+34653	e
+d
+a
+34657	nu
+pu
+34660	hur
+34663	ti
+34666	tu
+ib
+34669	ta
+34671	ni
+tul
+34674	ta
+34679	tu
+ib
+34682	ta
+34684	ni
+34687	bu
+34689	ʾ
+34691	ša
+34693	nu
+ša
+bu
+34697	ʾ
+34699	ša
+34701	ni
+34704	an
+34707	su
+34712	nap
+34714	ša
+34716	ta
+i
+34719	ṣa
+34722	bat
+34724	ki
+34726	ma
+34732	i
+34734	ṣa
+34736	bat
+lu
+34739	ʾ
+34741	a
+iṣ
+34744	bat
+ap
+34747	pu
+nu
+34750	ru
+34752	ub
+ap
+34755	pi
+34760	ina
+bi
+34763	rit
+34767	na
+34769	da
+34771	at
+giš
+34777	šu
+sak
+34780	la
+im
+34783	ti
+34785	ši
+a
+34788	lak
+34791	ta
+34793	šu
+up
+34797	pu
+34799	tu
+im
+34802	ti
+34804	ši
+re
+34807	bit
+34810	šu
+me
+34813	tu
+la
+i
+34817	sa
+34819	ha
+34821	ra
+iš
+34825	tu
+34828	ti
+d
+ku
+34832	bu
+la
+e
+34837	ni
+34839	qu
+34841	ša
+34844	šu
+bu
+34847	ša
+34849	a
+34851	nu
+a
+34854	a
+34858	ma
+a
+34861	na
+ṣib
+34865	ti
+34867	šu
+34876	ki
+34878	ma
+mu
+34886	ul
+34891	d
+34896	i
+34899	na
+ma
+34902	har
+d
+34913	an
+34915	ni
+34917	ta
+34920	šu
+34924	nu
+34927	e
+34929	ma
+34932	u
+34937	šu
+34940	ma
+ana
+34943	gul
+34945	gul
+34948	li
+34951	gul
+34953	gul
+34955	lu
+34960	tab
+34962	li
+34965	šu
+34971	ma
+34975	ši
+it
+34978	ta
+34980	ak
+34982	ru
+34984	ma
+giš
+34988	giš
+34997	iš
+34999	tu
+a
+35002	a
+35004	nu
+35020	it
+35022	ta
+35024	bak
+35031	it
+35033	ta
+35035	bak
+mur
+35039	ṣa
+35041	man
+35043	na
+lu
+35046	uš
+35048	pur
+ana
+35051	ša
+35055	d
+35059	li
+35061	lap
+35063	pi
+35065	tu
+tul
+35069	ta
+35071	tul
+35073	tu
+ki
+35076	ma
+šik
+35079	ke
+35081	e
+lit
+35084	ta
+35086	ṣi
+ṣer
+35089	ra
+35091	niš
+35102	la
+35104	aš
+35106	ha
+ša
+35113	ana
+35121	šu
+aš
+35124	na
+35126	an
+tu
+35129	rat
+35131	ta
+35135	šu
+35140	ti
+35147	ti
+35149	ret
+35151	ti
+35157	šu
+35159	ana
+35161	la
+35163	aš
+35165	hi
+35168	ah
+35172	šu
+35177	nu
+ana
+35180	ša
+d
+35189	an
+ina
+35197	hi
+35199	ina
+35201	na
+35203	na
+35205	u
+na
+35214	šu
+ta
+35217	bar
+35219	ram
+35234	u
+ša
+d
+35238	at
+35240	ta
+35242	ma
+35251	tu
+35253	ri
+35255	dam
+35257	ma
+ina
+35262	e
+35264	mul
+35272	az
+35275	ma
+35281	ka
+35283	li
+35285	ik
+35287	kal
+35289	an
+35291	ni
+li
+35294	is
+35296	ku
+35298	ta
+at
+35301	ta
+35303	ma
+35308	ina
+35313	ma
+uzu
+35319	uzu
+35334	la
+35336	aš
+35338	ha
+35342	uš
+ana
+35351	šu
+35357	tu
+35359	rat
+35361	ta
+35368	šu
+35371	ti
+aš
+35374	na
+35377	an
+35379	te
+35381	ret
+35383	ti
+35385	u
+35392	šu
+35395	ana
+35399	la
+35401	aš
+35403	hi
+35406	ah
+35410	šu
+35412	ana
+35415	d
+35423	an
+35436	ru
+35440	tak
+35442	ku
+35447	mi
+35449	na
+35465	a
+35467	na
+35472	šu
+35475	lup
+35477	pu
+35479	ut
+35483	šu
+35486	pa
+35488	šu
+an
+35491	na
+35497	na
+35499	ah
+35501	pi
+35503	i
+35512	kuš
+35518	ka
+35520	inim
+35522	ma
+35549	ka
+35551	inim
+35554	ma
+35557	ša
+na
+35572	giš
+35577	ha
+35582	i
+35586	iš
+hu
+kal
+35592	i
+35594	iš
+la
+35597	aš
+35599	la
+35603	ka
+35606	inim
+35609	ma
+35623	šu
+ana
+35627	šu
+35630	nu
+35635	d
+35637	aš
+35639	šum
+35643	ša
+ik
+35646	kal
+35649	an
+35651	ni
+35654	ša
+ki
+35657	is
+35659	pa
+35661	at
+la
+ak
+35665	si
+35667	pu
+35669	šu
+u
+me
+35673	e
+35675	la
+aq
+35678	qu
+35680	šu
+35684	sa
+35686	hu
+35690	ka
+35692	a
+35694	ša
+am
+35697	hur
+35699	ka
+ak
+35702	ta
+35705	la
+35707	šu
+u
+ak
+35711	ta
+35713	ab
+35715	ba
+35721	a
+35723	ša
+35725	šu
+35729	šu
+la
+35733	šu
+35735	a
+35737	a
+35739	ši
+35742	la
+ik
+35745	kal
+35747	an
+35749	ni
+35754	ka
+35756	inim
+35758	ma
+35769	ina
+še
+35772	rim
+35776	šu
+35779	nu
+35784	d
+35787	nim
+ib
+35791	nu
+35793	u
+35796	e
+35799	eri
+35801	du
+ib
+35804	nu
+35806	u
+gi
+35812	ki
+35814	ma
+mul
+ni
+35818	bu
+35820	u
+35825	ni
+35827	zi
+35829	iq
+35833	ka
+35835	inim
+35837	ma
+35846	ku
+35848	pa
+35850	tin
+35852	ni
+tu
+35855	kap
+35857	pat
+35859	e
+35861	ma
+ku
+35864	pa
+35866	tin
+35868	ni
+35873	nu
+35876	ana
+35881	ma
+35885	ina
+35887	eš
+35890	d
+35893	nu
+35898	iš
+35900	tu
+d
+a
+35904	nim
+ib
+35908	nu
+35912	ul
+35914	tu
+d
+a
+35918	nu
+ib
+35921	nu
+35923	u
+an
+35926	e
+an
+35929	u
+ib
+35932	nu
+35934	u
+35937	tu
+35940	er
+35942	ṣe
+35944	tu
+ib
+35947	nu
+35949	u
+35953	ib
+35955	na
+35957	a
+a
+35960	tap
+35962	pa
+35964	ti
+35968	a
+35970	tap
+35972	pa
+35975	ti
+ib
+35978	na
+35980	a
+35982	ru
+35984	šum
+35986	ta
+35989	ru
+35991	šum
+35993	ta
+ib
+35996	na
+35998	a
+tul
+36001	ta
+il
+36004	lik
+tul
+36007	ta
+ana
+36010	d
+36012	i
+36015	bak
+36017	ki
+ana
+36020	d
+36023	a
+il
+36026	la
+36028	ka
+di
+36031	ma
+36033	ša
+36035	mi
+36037	na
+ta
+36040	da
+36042	na
+ana
+a
+36046	ka
+36048	li
+36050	ya
+mi
+36053	na
+36056	a
+ta
+36059	da
+36061	na
+ana
+mun
+36065	zu
+36067	qi
+36069	ya
+36071	at
+36073	tan
+36075	na
+36077	ki
+giš
+36080	ba
+36082	ši
+36084	il
+36086	ta
+ar
+36089	ma
+36091	na
+36094	a
+giš
+36098	ana
+36100	ku
+am
+36103	mi
+36105	na
+an
+36108	na
+36110	a
+giš
+36113	ba
+36115	ši
+36117	il
+36119	ta
+u
+ar
+36123	ma
+36126	na
+36128	a
+giš
+36132	šu
+36134	uq
+36136	qa
+36138	an
+36140	ni
+36142	ma
+in
+bi
+36146	rit
+36148	u
+36150	la
+36152	aš
+36154	hi
+šu
+36157	ši
+36159	ban
+36161	ni
+36163	ša
+ši
+36166	in
+36168	ni
+36170	ma
+lu
+36173	un
+36175	zu
+36177	qa
+da
+36180	mi
+36182	šu
+u
+ša
+la
+36187	aš
+36189	hi
+36191	ma
+36193	lu
+36195	uk
+36197	su
+36199	sa
+ku
+36202	sa
+36204	si
+36206	šu
+36208	ka
+36210	inim
+36212	ma
+36233	niš
+36242	šu
+ana
+36247	nu
+ana
+36253	šu
+36256	an
+36258	a
+36260	ri
+36262	ki
+36266	ni
+36268	ba
+36270	ri
+36272	qi
+giš
+36276	giš
+36286	ana
+36289	e
+36291	ru
+36293	ba
+36299	iš
+36301	ši
+iš
+36304	šu
+36306	uk
+36309	ih
+36311	pi
+36318	a
+36320	na
+36324	it
+36326	ta
+36328	di
+36331	ta
+ana
+36337	it
+36339	ta
+36342	di
+36344	man
+36346	nu
+lu
+36349	uš
+36351	pur
+a
+36354	na
+d
+asal
+36358	lu
+36360	hi
+36363	reš
+36365	ti
+36367	i
+ša
+d
+36372	a
+36374	lu
+36376	še
+36378	bi
+36380	lam
+36382	ma
+šam
+36385	me
+36393	la
+na
+36396	a
+36398	di
+36403	ul
+ya
+36406	at
+36408	tu
+36410	d
+36413	u
+d
+asal
+36417	lu
+36419	hi
+36421	ši
+36423	pat
+d
+da
+36427	mu
+u
+d
+nin
+36432	kar
+36434	ra
+36436	ak
+d
+gu
+36440	la
+36445	ma
+36450	ki
+li
+36453	qi
+36455	i
+36459	ka
+36461	inim
+36463	ma
+36480	gi
+36482	mer
+36487	šu
+i
+36490	na
+36492	aš
+36505	šu
+36510	diš
+36525	ki
+ša
+d
+36530	u
+36532	d
+taš
+36535	me
+36537	tu
+36541	ra
+36543	pa
+36545	aš
+36547	tu
+iš
+36550	ru
+36552	ku
+36554	uš
+e
+36557	hu
+36559	uz
+36561	zu
+36565	na
+36567	mir
+36569	tu
+ni
+36572	siq
+tup
+36575	šar
+36577	ru
+36579	ti
+ša
+ina
+36586	ni
+a
+36589	lik
+mah
+36592	ri
+36594	ya
+mam
+36597	ma
+šip
+36600	ru
+šu
+36603	a
+36605	tu
+la
+e
+36609	hu
+36611	uz
+36613	zu
+bul
+36616	ṭi
+36618	muh
+36620	hi
+36623	liq
+36625	ti
+36629	ta
+36631	hi
+36633	zu
+nak
+36636	la
+a
+36639	zu
+36641	gal
+36643	lu
+36645	ut
+d
+nin
+36649	urta
+u
+d
+gu
+36654	la
+ma
+36657	la
+ba
+36660	aš
+36662	mu
+ina
+tup
+36666	pa
+36668	a
+36670	ni
+aš
+36673	ṭur
+as
+36676	niq
+36681	ma
+a
+36684	na
+ta
+36687	mar
+36689	ti
+ši
+36692	ta
+36694	as
+36696	si
+36698	ya
+qe
+36703	reb
+36708	ya
+u
+36711	kin
+36723	u
+36727	u
+36731	su
+36733	nu
+tu
+36736	has
+36738	sa
+ina
+36747	šim
+36754	ana
+dug
+36762	a
+36764	šar
+tar
+36767	ku
+36769	su
+36772	ar
+36776	ru
+36783	la
+36785	ta
+36787	ki
+36790	ma
+36795	su
+gu
+36799	raš
+36801	ta
+36806	tu
+36808	bal
+36811	šu
+u
+kul
+36815	ba
+36817	na
+36827	u
+36830	lim
+36832	ina
+36838	u
+36843	ina
+36850	u
+36868	su
+36890	u
+36894	sar
+kuš
+36902	niš
+36906	tur
+36908	ar
+36923	niš
+36929	šu
+36932	šu
+36936	šu
+36950	u
+36955	ina
+36957	giš
+36968	ina
+36971	šu
+36976	su
+še
+36979	bi
+36981	te
+36983	ana
+36996	mušen
+37000	mušen
+37002	laq
+37004	laq
+37006	qa
+lu
+37009	u
+37020	ina
+37024	šal
+gul
+37027	gul
+37029	la
+37031	šu
+37033	nu
+37036	qe
+ina
+37044	sag
+37046	ki
+en
+37049	na
+37053	šu
+37056	an
+37066	sag
+37068	ki
+en
+37071	na
+37075	nu
+37092	qe
+37104	ina
+37106	u
+37108	šar
+37110	rap
+37121	mi
+37126	su
+37129	ma
+37135	u
+37142	le
+37144	e
+37149	mušen
+37157	mušen
+37167	mušen
+37176	niš
+tur
+37179	ar
+37181	ina
+37195	su
+37198	ab
+37200	ma
+37207	a
+37209	a
+37211	ar
+37215	bat
+37218	šu
+37221	ti
+37224	šu
+37226	šu
+u
+37235	na
+37238	šu
+tu
+37241	tar
+te
+37244	te
+37246	kip
+ina
+37249	ṣar
+37251	hi
+37258	mi
+37263	ša
+37266	šu
+37269	qe
+37273	tur
+37275	ar
+37277	ina
+37291	su
+37294	ab
+37298	me
+37314	uš
+37316	ki
+37318	a
+37320	am
+37323	nu
+37333	šu
+37339	ina
+37346	niš
+37352	e
+37354	nu
+37356	ma
+37361	šu
+bu
+37364	ur
+37366	ṣa
+id
+37369	da
+37371	nag
+37373	ga
+37375	la
+37384	ana
+37387	šu
+na
+37398	na
+37402	na
+37411	na
+mu
+37414	ṣa
+na
+37417	na
+37421	na
+37423	na
+37434	giš
+37438	giš
+37443	aš
+37445	li
+37447	na
+as
+37450	har
+37455	ta
+37458	ša
+37460	pah
+ina
+37469	kam
+37471	ma
+ina
+37477	ma
+37486	giš
+37489	giš
+37494	aš
+37496	li
+37503	šim
+37507	qu
+37509	ta
+37511	ri
+37516	šu
+u
+37535	su
+37537	ma
+i
+37540	na
+37546	šu
+37548	nu
+37550	ri
+37556	lu
+37558	u
+37566	lu
+37568	u
+37575	an
+37586	su
+37592	šim
+37594	šim
+37607	niš
+37625	d
+37680	giš
+37686	ki
+sa
+di
+37693	a
+37695	da
+37697	pa
+37699	tu
+in
+37714	a
+37716	pa
+37718	ti
+37722	a
+37725	ša
+37727	ti
+37744	ina
+37746	ina
+37748	ana
+37759	ina
+še
+37762	ri
+la
+37765	am
+d
+37775	an
+37777	nu
+37780	ti
+37785	ana
+37789	di
+37794	šu
+37799	šu
+37804	ul
+37807	ar
+37813	šu
+tu
+37816	šam
+37818	har
+ina
+37822	sar
+37827	šu
+tu
+37830	ha
+37832	pap
+37836	te
+37838	qi
+37840	it
+37844	ša
+37850	na
+mu
+37853	ṣa
+37858	na
+37864	na
+37874	giš
+37888	u
+37895	ana
+37899	di
+ina
+37902	tuš
+37904	bat
+37908	ana
+37914	di
+37919	šu
+37922	aš
+ana
+37927	di
+37929	ma
+37931	ina
+37935	šu
+ina
+37941	an
+37943	ma
+37946	im
+an
+37949	na
+37951	nam
+ina
+37966	ma
+37968	i
+37970	šal
+37972	lim
+37977	ki
+37979	ma
+bu
+37982	la
+37984	li
+37989	šu
+37992	aš
+37997	na
+37999	mu
+38001	ṣa
+38003	am
+38007	na
+kut
+38010	pa
+38012	a
+ina
+38022	na
+38030	ina
+38039	na
+38047	šim
+38049	bi
+38051	zi
+38053	da
+ina
+38057	munus
+38067	šu
+38070	aš
+38073	na
+38076	ina
+38085	šim
+38089	mi
+38091	riq
+38093	a
+38095	ši
+38097	i
+u
+38105	sar
+38112	na
+38122	na
+mu
+38125	ṣa
+38145	rib
+38147	ku
+ša
+38158	šu
+38163	ma
+38169	ina
+38182	ma
+38185	šu
+38187	nu
+38192	ša
+38210	giš
+38216	giš
+38223	niš
+38227	ina
+38250	šu
+la
+ina
+38254	ṭa
+38256	la
+38270	mušen
+38284	mun
+eme
+38287	sal
+38289	li
+ina
+38294	u
+38305	šu
+38309	di
+38311	gi
+38313	il
+38318	šu
+ma
+38321	a
+38323	ṭi
+38330	u
+38343	giš
+38352	u
+ti
+38355	ia
+38357	tu
+38362	šim
+38372	mun
+eme
+38375	sal
+38377	li
+u
+38383	mal
+38386	ma
+38388	liš
+ina
+38392	ana
+38406	te
+38409	pu
+38411	uš
+u
+38421	šu
+38424	si
+38428	šu
+38434	šu
+38437	ma
+38452	šu
+38456	šu
+38461	ul
+38464	ar
+38468	šim
+38478	sah
+38480	le
+38482	e
+38485	ina
+38490	aš
+38497	ma
+38500	šu
+38506	mun
+eme
+38509	sal
+38511	li
+38519	ka
+38521	la
+38524	me
+38527	šu
+38530	u
+38532	kal
+38540	šu
+38545	ma
+38551	d
+šul
+38554	pa
+38556	e
+38558	a
+38560	d
+38562	ra
+38564	hi
+38566	iṣ
+38572	d
+38577	ina
+38581	an
+38590	ma
+38596	mi
+šum
+38599	ma
+la
+i
+38603	na
+38605	aṭ
+38607	ṭa
+38609	la
+38611	d
+iš
+38614	tar
+38617	ina
+38620	u
+38629	šu
+38634	ma
+38638	ši
+38641	li
+38646	šu
+38657	mi
+38659	na
+38661	te
+38663	ši
+38665	na
+38673	ina
+38680	e
+38684	te
+38686	qi
+38689	ši
+38691	li
+38696	šu
+šad
+38699	du
+38701	ma
+38708	giš
+38715	giš
+38718	giš
+38730	ina
+38732	ina
+38736	ker
+ana
+38743	šu
+38756	niš
+38769	ina
+38772	sar
+38775	aš
+38777	u
+ak
+38780	tam
+ina
+38785	ma
+38808	d
+38811	lu
+38813	ur
+38815	ma
+38817	a
+38839	d
+38842	lu
+38844	ur
+38846	ma
+38848	a
+38855	šu
+si
+38858	lu
+38860	ur
+38862	ma
+38864	a
+ma
+38867	ku
+38869	ut
+ga
+38872	bi
+38874	di
+ša
+38878	la
+38880	ba
+38882	ni
+38884	šu
+ina
+38889	ta
+38891	šak
+38893	kak
+ina
+38897	šu
+38900	an
+38910	an
+ina
+še
+38914	ri
+tug
+38919	ana
+38921	d
+38925	aṣ
+38929	šim
+38933	an
+38935	šu
+38937	a
+38939	tu
+ina
+ku
+38943	tal
+tug
+38948	ana
+38950	d
+38952	tuš
+38954	za
+38956	as
+38958	su
+38966	ši
+ša
+38972	šu
+38978	ši
+38980	ma
+38986	ana
+lu
+38991	mu
+38993	uh
+38995	ra
+nam
+38998	ra
+i
+39001	ni
+i
+39004	qab
+39006	bi
+39008	lu
+39013	ana
+39017	mu
+39019	uh
+39021	ra
+bal
+39024	ṣa
+i
+39027	ni
+i
+39030	qab
+39032	bi
+39040	šu
+si
+39043	lu
+39045	ur
+39047	ma
+39049	a
+39051	ma
+39053	ku
+39055	ut
+ga
+39058	bi
+39060	di
+ta
+39063	har
+39065	ra
+39067	aṣ
+39072	lu
+39076	tu
+39078	pa
+39080	har
+39082	ma
+ki
+39085	a
+39087	am
+i
+39090	qab
+39092	bu
+39094	u
+39098	i
+39100	qab
+39102	bu
+39104	u
+39108	u
+39116	niš
+39124	šu
+39138	šu
+39140	a
+39142	tu
+39153	še
+39155	me
+39157	ma
+mu
+39161	uh
+39163	ra
+d
+39167	a
+liš
+39170	ma
+39172	a
+d
+39176	a
+lim
+39179	hu
+39181	ra
+39184	a
+39187	mur
+nam
+39190	ra
+i
+39193	ni
+a
+39196	mur
+bal
+39199	ṣa
+i
+39202	ni
+39217	ha
+39219	še
+39221	e
+39224	ma
+39226	an
+39228	ni
+39230	tu
+39234	nu
+39236	ina
+39238	giš
+39240	ina
+39243	šu
+39246	ma
+39253	ma
+39255	ku
+39257	ut
+ga
+39260	bi
+39262	di
+e
+39265	ma
+her
+39268	ṣi
+39270	ta
+39272	har
+39274	ra
+39276	aṣ
+39281	šu
+u
+39287	ma
+ina
+39290	eš
+39296	mi
+39298	na
+39300	ta
+39335	nu
+šim
+39338	šim
+39347	sar
+39359	a
+39361	ši
+39363	i
+39366	d
+39370	d
+39383	niš
+ta
+39386	sak
+ana
+39394	ma
+39401	te
+39403	qi
+39405	tu
+ša
+39408	lim
+39410	tu
+ša
+39418	la
+39420	te
+39422	ek
+ba
+39425	ri
+39429	sar
+39435	u
+39439	u
+39445	šim
+39460	šim
+39463	šim
+39471	rib
+39473	ku
+ša
+39478	u
+39482	sah
+39484	le
+39486	e
+39488	sar
+u
+39495	u
+39499	u
+39505	kam
+39507	mu
+šim
+39512	u
+39516	ina
+39520	šal
+ina
+39525	u
+39537	ša
+nap
+39540	šal
+39542	ti
+lu
+39545	ub
+39547	ki
+u
+39552	u
+39557	sar
+u
+39564	šim
+39567	šim
+39569	kam
+39571	mu
+ša
+39580	rib
+39582	ku
+ša
+39587	ina
+39589	ta
+39591	qal
+39593	lu
+ina
+39601	u
+39610	šu
+39612	na
+39618	tuš
+39620	ku
+na
+as
+39624	har
+na
+mu
+39628	ṣa
+39632	šim
+39643	kam
+39645	mu
+39648	d
+39662	lu
+39673	d
+39675	ku
+39677	up
+39679	ra
+39683	u
+39688	sar
+39712	it
+39714	qur
+39716	ti
+39721	šim
+39742	ma
+39745	šu
+39749	u
+ak
+39752	tam
+39754	ina
+39764	sar
+ta
+39767	sak
+39769	giš
+si
+39772	ha
+giš
+ar
+39777	ga
+39779	nu
+39787	ina
+39792	i
+39794	na
+39805	šu
+39814	šu
+39817	ma
+u
+39820	šim
+39826	su
+39828	pa
+39830	la
+39833	su
+39835	ina
+39841	si
+39844	id
+39846	u
+39860	šu
+te
+39863	qi
+39871	šu
+39874	ma
+39878	ma
+39880	ʾ
+39882	du
+39884	ti
+39888	ina
+39894	su
+39898	ab
+ina
+39902	me
+39905	šu
+39911	tu
+39913	kaṣ
+39915	ṣa
+39917	ina
+39926	ta
+39928	sak
+39933	šu
+39935	te
+39937	qi
+39939	ma
+ina
+39942	eš
+39950	šu
+ta
+39953	bi
+39955	la
+39961	la
+u
+39964	haš
+39966	ša
+ina
+39973	ana
+39980	šu
+39983	ru
+39985	ma
+39995	tur
+39997	ar
+39999	ina
+40002	sar
+ta
+40005	la
+40007	aš
+tu
+40010	kap
+40012	pat
+la
+40016	a
+40018	am
+pa
+40021	tan
+u
+40024	al
+40026	lat
+40035	ta
+40037	ṣa
+40039	lip
+40043	su
+ina
+40056	šu
+te
+40059	qi
+40072	sar
+40081	ina
+40086	sar
+40090	aš
+40095	šu
+40100	šu
+40109	i
+40111	ru
+40113	pu
+40115	e
+40117	gu
+40119	ma
+40123	e
+40126	li
+40150	šu
+40154	ma
+ur
+40157	ra
+u
+40160	la
+i
+40163	ṣal
+40165	lal
+40167	ma
+40169	šum
+40171	ma
+40178	šu
+40187	šu
+40190	ma
+40192	sar
+tur
+40195	ar
+40200	ina
+40202	munus
+40209	aš
+40212	id
+40215	ina
+še
+40218	ri
+40221	šu
+40223	ma
+na
+as
+40227	har
+ina
+40237	šu
+40245	ra
+40247	pa
+40249	di
+ina
+40256	iṣ
+40260	sig
+40264	u
+40270	mi
+40273	tara
+40275	kas
+40282	šu
+ki
+40285	lal
+40287	tan
+40296	ma
+40301	šu
+te
+40306	eq
+40309	qi
+40318	šu
+40320	šu
+40323	un
+40325	nu
+40327	ʾa
+40329	giš
+40358	mušen
+40371	mun
+eme
+40374	sal
+40376	li
+ina
+40387	šu
+40394	ta
+40397	bi
+40399	la
+ana
+40406	šu
+40409	ru
+40417	ina
+40430	ina
+40445	la
+pa
+40448	tan
+40458	ina
+40469	šu
+40477	mušen
+ina
+40488	šu
+40498	šu
+40509	ina
+40516	u
+40522	u
+tar
+40525	muš
+mal
+40528	ma
+40530	liš
+40534	ina
+40539	ni
+40541	kip
+40543	tu
+40545	u
+40552	šu
+40561	šu
+40566	ana
+40572	šu
+40574	ta
+40576	zar
+40578	ri
+40587	sar
+40589	a
+40591	ši
+40593	i
+40598	ina
+um
+40601	ma
+40603	tu
+ina
+40607	sar
+40611	ta
+40613	bi
+40616	la
+ta
+40619	ṭe
+40621	ep
+40623	pi
+40630	u
+40635	te
+40637	te
+40639	ne
+40641	eq
+40643	qi
+40664	ta
+40667	bi
+40669	la
+ana
+40676	šu
+40679	ah
+40687	šu
+40690	u
+40697	u
+40701	ina
+40708	ina
+40716	na
+40718	as
+40720	har
+ina
+40726	te
+40728	qi
+40736	šu
+40742	šu
+pa
+40745	na
+pa
+40748	ni
+40751	an
+tara
+40754	kas
+40758	na
+as
+40761	har
+ina
+40775	šu
+šik
+40778	na
+ša
+40781	šak
+40783	na
+40791	mušen
+mun
+eme
+40795	sal
+40797	li
+u
+40803	u
+40807	šim
+40814	šim
+40823	an
+40825	nu
+40827	ti
+40830	niš
+ta
+40833	mar
+40835	raq
+ina
+40843	ina
+40847	sar
+ta
+40850	sa
+40852	pan
+40857	šu
+40865	mušen
+40872	ina
+40883	šu
+40885	an
+40887	nu
+40889	u
+šam
+40892	mi
+40901	ib
+40903	da
+40905	du
+numun
+40909	ina
+40911	ki
+40913	i
+40915	ri
+ba
+40918	la
+40920	ṭi
+40922	ba
+40924	la
+40926	ṭi
+na
+40929	ap
+40931	ši
+40933	ir
+ba
+40936	la
+40939	ṭi
+na
+40942	ap
+40944	ši
+40946	ir
+40948	ba
+40950	ʾ
+40952	la
+40954	at
+ina
+it
+40958	ti
+a
+40961	ma
+40963	lik
+40971	ak
+40973	la
+me
+40976	ṣa
+ma
+40979	a
+40981	du
+40995	šu
+41008	u
+41012	u
+41018	tara
+41020	kas
+41027	e
+41029	ma
+41034	nu
+ina
+41040	šu
+tara
+41043	kas
+41046	hu
+41048	ha
+41050	hi
+la
+ba
+41054	ma
+hu
+41057	ha
+41059	hi
+la
+ba
+41063	ma
+u
+41102	šu
+41113	na
+as
+41116	har
+ina
+41123	ana
+41129	šu
+41134	igi
+ti
+41137	la
+a
+41140	ga
+ti
+41143	la
+geštu
+kun
+41147	na
+a
+41150	ga
+kun
+41154	na
+u
+41157	hu
+41159	ur
+41161	sag
+41163	gi
+41165	na
+41167	ta
+41169	ša
+41171	hi
+šur
+41174	ra
+41176	ta
+kuš
+41179	ri
+41181	in
+kuš
+41184	ri
+41186	in
+41188	ni
+še
+41192	e
+41194	ru
+še
+41197	e
+41199	ra
+e
+41202	kal
+da
+41205	mu
+41207	da
+41209	ma
+i
+41212	na
+41214	ṣab
+41217	a
+41219	nu
+41222	a
+41224	nu
+u
+41227	qa
+41229	an
+41232	na
+41234	an
+41237	di
+d
+gu
+41241	la
+41246	en
+41248	qu
+41250	ti
+41252	ṣi
+41254	im
+41256	de
+41258	ti
+li
+41261	qer
+41263	ri
+41265	bu
+at
+41268	ti
+taš
+41272	kun
+ba
+41275	laṭ
+bu
+41278	ul
+41280	ṭi
+41303	šu
+41333	niš
+41337	ina
+41341	tara
+41343	bak
+41348	šu
+41357	šu
+41360	ma
+41363	šim
+41370	ul
+41372	ta
+41374	ta
+41376	ni
+41378	ʾa
+41381	ina
+41388	šu
+41391	a
+41394	d
+41400	šu
+u
+41403	na
+41405	kap
+a
+41408	ši
+41410	tu
+ana
+41414	di
+41416	gal
+41419	šu
+giš
+41425	su
+tu
+41428	ha
+41430	sa
+41432	ina
+41441	tara
+41443	muk
+ina
+41446	tuš
+41448	bat
+ina
+41458	ana
+41460	hu
+41462	li
+41464	ia
+41466	am
+41469	at
+41483	mun
+eme
+41486	sal
+41488	li
+41492	tuš
+41494	ka
+41496	a
+u
+41499	zi
+41501	ba
+41503	a
+41506	a
+41508	he
+41510	nu
+41512	u
+41515	mal
+41517	ma
+41519	liš
+41522	qe
+41525	niš
+tuš
+41528	te
+41530	mid
+ana
+41533	hu
+41536	li
+41538	ia
+41540	am
+ša
+ta
+41544	aš
+41546	hu
+41548	tu
+41551	ak
+41553	ina
+41557	u
+na
+41564	aš
+41566	ma
+41573	šu
+ina
+41580	te
+ana
+41587	šu
+41590	an
+41596	šu
+41599	ma
+u
+41602	kal
+41608	šu
+ta
+41611	kar
+41613	ma
+41619	an
+41621	na
+41623	a
+41630	šim
+41636	mun
+eme
+41639	sal
+41641	li
+ina
+41646	ana
+41654	šu
+41669	ina
+41672	ana
+41678	šu
+41685	u
+ur
+41688	ne
+41690	e
+41696	ina
+41700	ana
+41706	šu
+41712	igi
+bar
+igi
+bar
+41717	bar
+igi
+41720	bar
+41722	ra
+bar
+41725	bar
+igi
+huš
+igi
+huš
+41731	huš
+igi
+bar
+41735	ra
+huš
+41739	huš
+41743	igi
+bar
+na
+41747	a
+igi
+bar
+41751	da
+41753	a
+igi
+bar
+hul
+41758	a
+41763	a
+41765	ba
+41767	tu
+41771	a
+41773	ša
+41776	tu
+41780	šu
+41783	har
+41785	ra
+41787	te
+41792	nik
+41794	si
+41799	še
+41801	en
+41803	a
+41809	ša
+a
+41812	gala
+41814	pe
+41816	e
+a
+41819	la
+41822	pa
+41824	a
+41827	a
+ki
+41830	ma
+41839	a
+ṣil
+41842	la
+41844	ina
+be
+41847	ri
+41849	ši
+41851	na
+pi
+41854	ti
+41857	iq
+41859	tu
+pat
+41862	qat
+41865	ub
+d
+41868	ina
+be
+41871	ru
+41873	ši
+41875	na
+it
+41878	ta
+41880	di
+giš
+41886	šu
+41888	aš
+41890	šum
+an
+41893	ni
+41895	tu
+ina
+41898	an
+41900	ni
+41902	te
+41904	la
+na
+41907	pa
+41909	še
+41911	ul
+ia
+41914	at
+41916	tu
+41918	un
+41920	d
+e
+41923	a
+u
+d
+asal
+41928	lu
+41930	hi
+41933	d
+da
+41936	mu
+u
+d
+gu
+41942	la
+41944	d
+nin
+41947	girima
+be
+41950	let
+šip
+41953	te
+d
+gu
+41957	la
+41960	ma
+41965	ki
+41991	an
+41993	nu
+41996	u
+ša
+42009	e
+42011	ma
+42016	nu
+ina
+42020	šu
+42025	ti
+42028	su
+42032	igi
+bar
+igi
+42036	bar
+42038	bar
+igi
+bar
+42042	ra
+bar
+42045	bar
+igi
+huš
+igi
+huš
+igi
+bar
+42053	ra
+huš
+42056	huš
+42059	igi
+bar
+na
+42063	a
+igi
+42066	bar
+da
+42069	a
+igi
+bar
+hul
+42074	a
+42079	a
+42081	ba
+42083	a
+42085	tu
+42089	a
+42091	ša
+42093	tu
+42097	ša
+42101	a
+42103	ana
+42105	ku
+42112	sa
+42114	niq
+qa
+42117	bu
+42119	u
+ša
+d
+gu
+42124	la
+42127	ma
+ši
+42130	na
+42132	ma
+42134	ah
+42137	ha
+42139	a
+42141	tu
+ina
+be
+42145	ru
+42147	ši
+42149	na
+pa
+42152	rik
+42155	u
+man
+42158	na
+lu
+42161	uš
+42163	pur
+ana
+42168	d
+a
+42171	nim
+ša
+42175	e
+liš
+42178	ša
+42180	ni
+tal
+42183	li
+42187	ši
+42189	na
+na
+42196	ši
+42198	na
+na
+42203	eb
+42205	bu
+li
+42208	sa
+42210	pa
+42212	a
+42214	ni
+42223	ta
+42225	ma
+42227	ti
+42230	ti
+ša
+ha
+42234	riš
+42236	tu
+42239	la
+u
+42242	ri
+42244	du
+a
+42247	na
+lib
+42250	bi
+mu
+42253	suk
+42255	ka
+42257	tu
+la
+42261	u
+qa
+42264	te
+42266	ša
+lim
+42269	la
+42271	ni
+42273	im
+42275	ma
+42278	li
+42280	ke
+42282	eṣ
+42284	ṣa
+42286	a
+42288	ṣi
+42290	ri
+42292	ih
+42294	tu
+ša
+42301	šu
+42303	ul
+ia
+42306	at
+42309	tu
+42311	un
+42314	d
+42316	u
+d
+asal
+42320	lu
+42322	hi
+42324	d
+da
+42327	mu
+u
+d
+gu
+42332	la
+42334	d
+nin
+42337	girima
+42339	be
+42341	let
+šip
+42345	te
+d
+gu
+42349	la
+42355	ma
+42361	ki
+42366	i
+42390	an
+42392	nu
+42394	u
+ša
+42408	e
+42410	ma
+42415	nu
+ina
+42419	šu
+42422	ti
+42427	igi
+bar
+igi
+bar
+42432	bar
+igi
+42435	bar
+42437	ra
+bar
+42440	bar
+igi
+huš
+igi
+huš
+42446	huš
+igi
+bar
+42450	ra
+huš
+42453	huš
+42456	igi
+42458	bar
+na
+42461	a
+igi
+42464	bar
+42466	da
+42468	a
+igi
+42471	bar
+hul
+42474	a
+42479	a
+42481	pa
+42483	tu
+42487	a
+42489	ša
+42491	tu
+42496	pur
+42498	sit
+42501	šu
+42503	te
+42505	eṣ
+42507	li
+42509	pa
+42511	a
+42513	tu
+am
+42516	min
+tab
+42520	ba
+42522	a
+am
+42525	min
+taš
+42528	ša
+42530	a
+42532	am
+42534	mi
+42536	ni
+ik
+42539	kal
+42541	ki
+42543	na
+42545	ši
+ba
+42548	a
+42550	ṣu
+ša
+na
+42554	a
+42556	ri
+42558	tal
+42560	tal
+42562	lu
+42564	u
+ša
+giš
+42569	ša
+ti
+42572	it
+42574	tu
+ni
+42577	iq
+42579	qa
+42581	ša
+ša
+a
+42585	ri
+42587	i
+42593	šu
+al
+42596	si
+42598	ki
+42600	na
+al
+42603	ka
+42605	ni
+42608	ul
+al
+42611	si
+42614	ki
+42616	na
+42618	ši
+ul
+ta
+42622	la
+42624	ka
+42626	ni
+la
+42629	am
+it
+42633	ba
+42635	ki
+42637	na
+42639	ši
+42678	a
+42680	he
+42682	en
+42684	na
+42686	a
+42692	u
+42698	e
+42700	ma
+42706	nu
+42711	ina
+42714	šu
+42718	ti
+42724	ina
+42727	šu
+42733	ma
+ina
+42737	eš
+42741	igi
+bar
+igi
+bar
+42746	bar
+igi
+bar
+42750	ra
+42752	bar
+42754	bar
+igi
+42757	hul
+igi
+hul
+42761	hul
+igi
+bar
+42765	ra
+hul
+42768	hul
+42771	ši
+42773	it
+42775	ta
+42777	ši
+42779	na
+42783	d
+42785	a
+42787	ni
+42789	ina
+be
+42792	ru
+42794	ši
+42796	na
+pi
+42799	tiq
+42801	tu
+pat
+42804	qat
+42807	ul
+il
+42810	lak
+a
+42813	ha
+42815	tu
+a
+42818	na
+42820	le
+42823	et
+a
+42826	ha
+42828	ti
+42830	ša
+man
+42833	na
+lu
+42836	uš
+42838	pur
+a
+42841	na
+42845	d
+a
+42848	ni
+ša
+42852	e
+liš
+42855	ša
+42857	ni
+kan
+42860	ni
+42862	ši
+42864	na
+na
+42873	ši
+42875	na
+na
+42882	eb
+42884	bu
+li
+42887	is
+42889	sa
+42891	pa
+42893	ni
+42895	im
+42897	ma
+42900	li
+42902	be
+42904	la
+42906	a
+42910	a
+42912	ba
+42914	ti
+42918	a
+42920	ša
+42922	ti
+u
+dal
+42926	ha
+42928	a
+42930	ti
+42962	igi
+bar
+igi
+bar
+42967	bar
+igi
+bar
+42971	ra
+bar
+42974	bar
+igi
+suh
+igi
+suh
+42980	suh
+igi
+bar
+42984	ra
+suh
+42987	suh
+42990	ši
+42992	it
+42994	ta
+i
+42997	nu
+a
+43000	ha
+43002	tu
+ši
+43006	na
+43009	ma
+ina
+be
+43013	ru
+43015	ši
+43017	na
+43020	u
+pa
+43023	rik
+43026	ma
+43030	nu
+43032	ši
+43034	na
+ki
+43037	ṣir
+43039	tu
+kaṣ
+43042	rat
+43047	nu
+43049	ši
+43051	na
+pi
+43054	tiq
+43056	tu
+pat
+43060	qat
+43062	a
+43064	a
+43066	u
+43069	ši
+43071	na
+43073	a
+43075	ma
+a
+43078	a
+43080	u
+43084	ši
+43086	na
+43089	ma
+43091	a
+43093	a
+43095	u
+43097	ti
+43099	bi
+43101	ši
+43103	na
+a
+43106	a
+43108	u
+la
+43111	a
+43113	ti
+43115	bi
+43118	ši
+43120	na
+43122	ma
+43124	ša
+43126	ar
+pa
+43129	ni
+i
+43132	kil
+pa
+43135	ni
+ṣu
+43138	lu
+43140	um
+43143	pa
+43145	ni
+43148	at
+43151	ta
+43153	pu
+43155	ṭur
+43157	d
+43198	igi
+bar
+43201	igi
+bar
+43204	bar
+43221	a
+43223	he
+43225	en
+43227	na
+43229	a
+43238	ina
+43243	šu
+43246	su
+43256	a
+43267	ina
+43272	šu
+43274	ša
+43280	ta
+43282	ma
+43284	ad
+43287	ra
+43289	aš
+ta
+43292	ma
+43294	ad
+43296	ra
+43298	aš
+tu
+43301	en
+43309	ina
+43314	šu
+43316	ša
+43350	gub
+43352	ba
+43354	a
+gub
+43357	ba
+43360	a
+43363	d
+43367	ip
+43369	pa
+43371	lis
+43373	su
+43375	ma
+ana
+d
+e
+43380	a
+43384	šu
+i
+43387	ša
+43389	as
+43392	si
+43395	mi
+43397	na
+43399	a
+e
+43402	pu
+43404	uš
+ul
+i
+43408	di
+ša
+ana
+43412	ku
+i
+43415	du
+43417	u
+at
+43420	ta
+43422	ti
+43424	di
+43444	niš
+43449	u
+43457	e
+43459	ma
+43465	nu
+ina
+43474	šu
+43477	ma
+ina
+43480	eš
+43485	i
+43487	gi
+43489	ti
+43491	la
+a
+43494	ga
+ti
+43497	la
+i
+43500	gi
+kun
+43503	na
+a
+43507	ga
+43509	kun
+43511	na
+43514	ur
+43516	sag
+gi
+43519	na
+43521	zu
+gi
+ban
+43525	da
+43527	zu
+tu
+43530	en
+43567	pa
+43570	la
+huš
+pa
+43574	la
+huš
+pa
+43578	la
+huš
+43581	bi
+nig
+43585	gi
+43588	na
+43590	bi
+i
+43593	gi
+pa
+43596	la
+huš
+43599	bi
+43601	tu
+43603	en
+43636	i
+43639	ni
+eṭ
+43642	li
+43645	at
+i
+43648	ni
+43650	munus
+43657	at
+i
+43660	ni
+43662	u
+munus
+43667	man
+43669	nu
+u
+43673	bal
+43675	liṭ
+43678	ta
+43681	šap
+43683	par
+i
+43686	le
+43688	qu
+43690	ni
+43692	ku
+43696	ti
+giš
+43699	ina
+pi
+43702	i
+43704	ka
+te
+43707	he
+43709	pi
+ina
+43713	ka
+te
+43716	pe
+43718	til
+43723	u
+43728	ina
+43735	šu
+43737	nu
+tu
+43740	ka
+43742	ṣar
+43745	u
+43749	i
+43751	bal
+43753	lu
+43755	uṭ
+43791	en
+an
+43794	na
+im
+ri
+43798	a
+igi
+lu
+43802	ka
+gig
+43805	ga
+ba
+43808	an
+43810	gar
+ina
+ša
+43814	me
+43816	e
+ša
+43819	a
+43821	ru
+i
+43824	zi
+43826	qam
+43828	ma
+ina
+i
+43832	in
+43834	si
+43836	im
+43838	me
+iš
+43841	ta
+43843	kan
+43845	an
+43847	ta
+su
+43850	da
+43852	ta
+im
+ri
+43856	a
+igi
+lu
+43860	ka
+gig
+43863	ga
+ba
+43866	an
+43868	gar
+43871	iš
+43873	tu
+43876	e
+ru
+43879	qu
+43881	ti
+43883	igi
+gig
+43886	ga
+gig
+43889	ga
+ba
+43892	an
+43894	gar
+43898	i
+43900	ni
+mar
+43903	ṣa
+43905	a
+43907	ti
+si
+43910	im
+43912	ma
+iš
+43915	ta
+43917	kan
+43920	lu
+43923	bi
+igi
+43926	bi
+lu
+43929	lu
+43931	a
+igi
+43934	bi
+ba
+43937	an
+43939	suh
+43941	suh
+43943	ša
+43945	šu
+43948	a
+43950	tu
+i
+43953	da
+43955	šu
+da
+43958	al
+43960	ha
+43962	ša
+i
+43966	na
+43968	šu
+43971	a
+43973	ša
+43975	a
+43977	lu
+43979	u
+43981	lu
+43983	bi
+ni
+43986	te
+43988	a
+43990	ni
+43992	še
+er
+gig
+i
+43997	šeš
+43999	šeš
+44001	šu
+44003	u
+ina
+ra
+44007	ma
+44009	ni
+44011	šu
+mar
+44014	ṣi
+44016	iš
+i
+44019	bak
+44022	ki
+44025	lu
+44027	bi
+tu
+44030	ra
+44032	a
+44034	ni
+d
+engur
+44038	ke
+igi
+im
+44042	ma
+44044	an
+44047	si
+44049	ša
+44051	šu
+44053	a
+44055	tu
+mu
+44058	ru
+44060	us
+44062	su
+d
+44065	i
+44067	mur
+44069	ma
+44071	gazi
+sar
+kum
+44075	ma
+šu
+u
+44079	me
+44081	ti
+ka
+44084	si
+44086	i
+haš
+44089	lu
+44091	ti
+le
+44094	qe
+44096	ma
+44098	tu
+44100	tu
+abzu
+44103	ta
+u
+44106	me
+44108	ni
+44110	si
+ši
+44113	pat
+ap
+44116	si
+44118	i
+i
+44121	di
+44123	ma
+44125	igi
+lu
+44128	ka
+u
+44131	me
+44133	ni
+44135	kešda
+i
+44138	ni
+a
+44141	me
+44143	li
+ru
+44146	kus
+44148	ma
+44150	d
+engur
+lu
+šu
+ku
+44156	ga
+44158	na
+igi
+lu
+44163	ba
+44165	ka
+šu
+tag
+44170	ga
+44172	ni
+44174	ta
+d
+44177	ina
+44180	ša
+44184	ti
+i
+44187	in
+a
+44190	me
+44192	li
+ina
+44195	la
+44197	ba
+44199	ti
+44201	ša
+44203	im
+igi
+lu
+44207	ka
+44209	su
+44211	su
+igi
+44214	bi
+44216	ta
+ba
+44219	ra
+44222	an
+44224	e
+ša
+44227	a
+44229	ru
+ša
+i
+44234	in
+a
+44237	me
+44239	li
+ud
+44242	du
+44244	pu
+ina
+i
+44248	ni
+44250	šu
+lit
+44254	ta
+44256	ṣi
+44274	i
+44276	nu
+a
+44279	pa
+44281	tu
+i
+44284	nu
+a
+44287	ša
+44289	tu
+i
+44292	nu
+pur
+44295	si
+44297	in
+44299	di
+da
+44302	a
+44304	mi
+šu
+44307	har
+44309	ri
+44311	a
+44314	tu
+44323	mušen
+44335	ša
+44352	ina
+gi
+44358	ana
+44364	šu
+44367	kun
+44369	ša
+44374	su
+44386	ana
+44391	šu
+44394	ak
+44406	uš
+44412	tur
+44414	ar
+44426	šu
+44434	su
+44439	ina
+44442	sar
+44445	aš
+44451	šu
+44454	id
+44456	na
+as
+44459	har
+na
+tu
+44463	uš
+44465	ka
+44467	a
+44469	ina
+44473	tu
+44475	tah
+44477	ha
+44479	ah
+mal
+44482	ma
+44484	liš
+44486	ina
+44498	šu
+44507	šu
+44516	ana
+44523	šu
+44527	šu
+44529	uh
+44531	ta
+ša
+44534	ina
+44539	te
+44541	ser
+44544	ina
+44552	šu
+44556	id
+44560	na
+aš
+44563	har
+44572	ina
+44583	šu
+44588	ma
+44599	šu
+44602	ma
+u
+ha
+44606	an
+44608	ṭa
+44613	ša
+44617	ina
+44626	šu
+44632	ina
+44636	si
+44638	sar
+ta
+44641	sak
+44645	šu
+44648	šu
+44651	šu
+44656	šu
+44663	ina
+šur
+44666	šum
+44668	me
+44672	aš
+44680	ša
+44684	tur
+44686	ar
+44688	ina
+44694	te
+ta
+44697	sak
+44701	ma
+44704	šu
+44711	šu
+te
+44714	qi
+44718	ana
+44724	šu
+tu
+44727	na
+44729	tak
+u
+44738	ba
+44741	ri
+44743	ra
+44745	ta
+ina
+44748	ta
+44750	la
+44752	aš
+44757	ina
+44767	šu
+44772	šim
+44779	su
+44781	pa
+44783	la
+44786	su
+44788	ina
+44804	te
+44806	qi
+44814	šu
+44818	ma
+44820	ʾ
+44823	du
+44825	ti
+44828	ina
+44839	su
+44842	ab
+44851	tu
+44853	kaṣ
+44855	ṣa
+44860	ina
+44869	ta
+44873	sak
+44878	šu
+te
+44882	qi
+44884	ma
+ina
+44887	eš
+44896	šu
+ta
+44899	bi
+44901	la
+44909	la
+u
+44912	haš
+44914	ša
+ina
+44921	ana
+44927	šu
+44931	ru
+44933	ma
+44945	tur
+44947	ar
+44949	ina
+44952	sar
+ta
+44955	la
+44957	aš
+tu
+44960	kap
+44962	pat
+la
+44965	a
+44967	am
+pa
+44970	tan
+u
+44973	al
+44976	lat
+44986	ta
+44988	ṣa
+44990	lip
+44993	su
+ina
+45005	šu
+te
+45008	qi
+45019	sar
+45028	ina
+45032	sar
+45035	aš
+45040	šu
+45045	šu
+45057	lal
+a
+sar
+45067	e
+45069	ru
+45071	pu
+e
+45074	gu
+45076	ma
+45082	e
+45086	li
+45090	šu
+45100	sar
+sah
+45103	le
+45105	e
+u
+45113	šim
+45116	šim
+45118	kam
+45120	mu
+45123	ta
+45125	qal
+45128	lu
+ina
+45143	tuš
+45145	tab
+45147	bal
+45152	šu
+45161	šu
+45169	šu
+45174	mušen
+ina
+45187	šu
+45199	šu
+45201	sah
+45203	le
+45205	e
+ina
+45210	šal
+45218	šu
+45224	ri
+šum
+45227	ma
+45233	šu
+45239	šu
+45242	ma
+45245	munus
+45252	aš
+45255	id
+ina
+še
+45259	ri
+45262	šu
+45264	ma
+45267	ina
+45274	iṣ
+45277	sig
+45290	šu
+45292	šu
+45294	un
+45297	nu
+45299	ʾa
+45307	mušen
+45315	ta
+45317	bi
+45319	la
+ana
+45327	šu
+45334	ina
+45354	ina
+45363	šu
+45374	šu
+45380	u
+45384	u
+tar
+45387	muš
+mal
+45390	ma
+45392	liš
+45398	ina
+45403	šim
+45406	bi
+45408	zi
+45410	da
+45414	ša
+45417	ana
+45423	šu
+45425	tu
+45427	na
+45429	tak
+45438	mušen
+45443	ib
+45445	da
+45447	gub
+45451	ina
+ki
+45454	i
+45456	ri
+ba
+45459	la
+45461	ṭi
+45463	ba
+45465	la
+45467	ṭi
+na
+45471	ap
+45473	ši
+45475	ir
+ba
+45479	la
+45481	ṭi
+na
+45485	ap
+45487	ši
+45489	ir
+45491	ba
+45493	ʾ
+45495	la
+45497	at
+ina
+it
+45501	ti
+45510	ak
+45512	la
+me
+45515	ṣa
+ma
+45518	a
+45521	du
+45537	šu
+45558	e
+45560	ma
+45565	nu
+ina
+45572	šu
+45576	hu
+45579	ha
+45581	hi
+la
+ba
+45585	ma
+hu
+45588	ha
+45590	hi
+la
+ba
+45594	ma
+u
+45634	šu
+45648	na
+as
+45651	har
+ina
+45658	ana
+45664	šu
+45671	igi
+ti
+45674	la
+a
+45677	ga
+ti
+45680	la
+geštu
+kun
+45684	na
+a
+45687	ga
+kun
+45691	na
+u
+45694	hu
+45696	ur
+45698	sag
+45700	gi
+45703	na
+45705	ta
+45708	ša
+45710	hi
+šur
+45713	ra
+45715	ta
+kuš
+45718	ri
+45720	in
+kuš
+45723	ri
+45725	in
+45727	ni
+45729	še
+45731	e
+45733	ru
+še
+45736	e
+45738	ra
+e
+45741	kal
+45743	da
+45745	mu
+45748	da
+45750	ma
+i
+45753	na
+45755	ṣab
+45758	a
+45760	nu
+45763	a
+45765	nu
+u
+45768	qa
+45770	an
+45772	na
+45774	an
+45778	di
+d
+gu
+45782	la
+45788	en
+45790	qu
+45792	ti
+45795	ṣi
+45797	im
+45799	de
+45801	ti
+li
+45804	qer
+45806	ri
+45808	bu
+at
+45811	ti
+taš
+45814	ku
+45816	ni
+45818	ba
+45820	laṭ
+bu
+45823	ul
+45825	ṭi
+45850	šu
+45883	niš
+45885	ina
+45889	tara
+45891	bak
+45896	šu
+45905	šu
+45909	ma
+45912	šim
+45919	ul
+45921	ta
+45924	ta
+45926	ni
+45928	ʾa
+45931	ina
+45937	šu
+45941	a
+45944	d
+45951	šu
+u
+45954	na
+45956	kap
+a
+45959	ši
+45961	tu
+ana
+45966	di
+45968	gal
+45971	šu
+giš
+45976	su
+tu
+45980	ha
+45982	sa
+45984	ina
+45993	tara
+45996	muk
+ina
+45999	tuš
+46001	bat
+ina
+46011	ana
+46013	hu
+46015	li
+46017	ia
+46019	am
+46023	at
+46037	mun
+46039	eme
+46041	sal
+46043	li
+46048	tuš
+46050	ka
+46052	a
+u
+zi
+46056	ba
+46058	a
+46061	a
+46063	he
+46066	nu
+46068	u
+46071	mal
+46073	ma
+46075	liš
+46078	qe
+46081	niš
+tuš
+46084	te
+46086	mid
+ana
+46090	hu
+46092	li
+46094	ia
+46097	am
+ša
+ta
+46101	aš
+46103	hu
+46105	tu
+46109	ak
+46111	ina
+46115	u
+na
+46122	aš
+46124	ma
+46131	šu
+46133	ina
+46139	te
+ana
+46146	šu
+46150	an
+46156	šu
+46159	ma
+u
+46162	kal
+46167	šu
+ta
+46170	kar
+46172	ma
+46178	an
+46180	na
+46182	a
+46190	šim
+46195	mun
+eme
+46198	sal
+46200	li
+46202	ina
+46206	ana
+46212	šu
+46226	ina
+46230	ana
+46236	šu
+46243	u
+ur
+46246	ne
+46248	e
+46253	ina
+46256	ana
+46262	šu
+46268	igi
+bar
+igi
+bar
+46273	bar
+igi
+bar
+46277	ra
+bar
+46280	bar
+igi
+huš
+igi
+huš
+46286	huš
+igi
+bar
+46290	ra
+huš
+46294	huš
+46298	igi
+46300	bar
+na
+46303	a
+igi
+bar
+da
+46308	a
+igi
+bar
+hul
+46313	a
+46318	a
+46320	ba
+46322	tu
+46326	a
+46329	ša
+46331	tu
+46335	šu
+46338	har
+46340	ra
+46342	tu
+46349	nik
+46351	si
+46360	še
+46362	en
+46364	a
+46372	ša
+a
+46375	gala
+46377	pe
+46379	e
+46381	a
+46383	la
+46385	pa
+46387	a
+46390	a
+ki
+46393	ma
+46402	a
+46404	ṣil
+46406	la
+46409	ina
+be
+46412	ri
+46414	ši
+46416	na
+pi
+46419	ti
+46421	iq
+46423	tu
+pat
+46427	qat
+46430	ub
+d
+46433	ina
+be
+46436	ru
+46438	ši
+46440	na
+it
+46443	ta
+46446	di
+giš
+46452	šu
+46455	aš
+46457	šum
+an
+46460	ni
+46462	tu
+ina
+46465	an
+46467	ni
+46469	te
+la
+na
+46473	pa
+46475	še
+46478	ul
+ia
+46481	at
+46483	tu
+46485	un
+46487	d
+e
+46490	a
+u
+46493	d
+asal
+46496	lu
+46498	hi
+46502	d
+da
+46505	mu
+u
+d
+gu
+46510	la
+46512	d
+nin
+46515	girima
+46517	be
+46519	let
+46521	d
+gu
+46524	la
+46529	ma
+46534	ki
+46564	an
+46566	nu
+46568	u
+ša
+46582	e
+46584	ma
+46589	nu
+ina
+46593	šu
+46599	ti
+46602	su
+46608	igi
+46610	huš
+46612	huš
+igi
+bar
+46616	ra
+46625	a
+46628	pa
+46630	tu
+46634	a
+46636	ša
+46638	tu
+46642	ša
+46647	a
+46650	ana
+46652	ku
+46654	sa
+46656	niq
+qa
+46660	bu
+46662	u
+ša
+d
+gu
+46667	la
+46671	ma
+ši
+46674	na
+46676	ma
+ah
+46679	ha
+46681	a
+46683	tu
+ina
+be
+46687	ru
+46689	ši
+46691	na
+46693	pa
+46695	rik
+46698	u
+46700	man
+46702	na
+lu
+46705	uš
+46707	pur
+ana
+46712	d
+a
+46716	nim
+ša
+46720	e
+liš
+46723	ša
+46725	a
+46727	ni
+tal
+46730	li
+46733	ši
+46736	na
+na
+46743	ši
+46745	na
+na
+46750	eb
+46752	bu
+li
+46755	sa
+46757	pa
+46759	a
+46761	ni
+46770	tam
+46772	ti
+46775	te
+ša
+ha
+46779	riš
+46781	tu
+la
+u
+46785	ri
+46787	du
+ana
+lib
+46791	bi
+mu
+46794	suk
+46796	ka
+46798	tu
+la
+46802	u
+qa
+46805	ti
+46807	ša
+lis
+46810	la
+46812	ni
+46814	im
+46816	ma
+li
+46819	ke
+46821	eṣ
+46823	ṣa
+46825	a
+46827	ṣi
+46829	ri
+46831	ih
+46833	tu
+ša
+46840	šu
+46842	ul
+ia
+46845	at
+46847	tu
+46849	un
+46851	d
+46853	u
+d
+asal
+46857	lu
+46859	hi
+46861	d
+da
+46864	mu
+u
+d
+gu
+46869	la
+46871	d
+nin
+46874	girima
+be
+46877	let
+šip
+46880	te
+d
+gu
+46884	la
+46889	ma
+46894	ki
+46897	i
+46919	an
+46921	nu
+46923	u
+ša
+46938	e
+46940	ma
+46945	nu
+ina
+46949	šu
+46952	ti
+46956	igi
+bar
+igi
+46961	bar
+46964	ra
+bar
+46967	bar
+igi
+huš
+igi
+huš
+46973	huš
+igi
+bar
+46977	ra
+huš
+46980	huš
+46982	igi
+bar
+na
+46987	a
+46990	igi
+bar
+hul
+46994	a
+46999	a
+47001	pa
+47003	tu
+47007	a
+47009	ša
+47011	tu
+47015	pur
+47018	sit
+47020	šu
+47022	te
+47024	eṣ
+47026	li
+47029	pa
+47031	a
+47033	tu
+am
+47036	min
+tab
+47039	ba
+47041	a
+am
+47044	min
+taš
+47047	ša
+47049	a
+am
+47052	mi
+47054	ni
+47056	ik
+47058	kal
+47060	ki
+47062	na
+47064	ši
+ba
+47067	a
+47070	ṣu
+ša
+na
+47075	a
+47077	ri
+tal
+47080	tal
+47082	lu
+47084	u
+ša
+giš
+47089	ša
+ti
+47093	it
+47095	tu
+ni
+47098	iq
+47100	qa
+47103	ša
+47105	ša
+a
+47108	ri
+47110	i
+47115	šu
+al
+47118	si
+47120	ki
+47122	na
+47124	ši
+al
+47127	ka
+47129	ni
+47131	ul
+al
+47135	si
+47137	ki
+47139	na
+47141	ši
+ul
+ta
+47145	la
+47148	ka
+47151	ni
+la
+47154	am
+it
+47157	ba
+47159	ki
+47161	na
+47163	ši
+47204	a
+47206	he
+47208	en
+47210	na
+47216	u
+47222	e
+47224	ma
+47229	nu
+47236	ina
+47239	šu
+47242	ti
+47248	ina
+47251	šu
+47257	ma
+ina
+47260	eš
+47264	igi
+47266	bar
+47268	igi
+bar
+47271	bar
+igi
+bar
+47275	ra
+bar
+47278	bar
+47282	hul
+47284	hul
+igi
+bar
+47289	ra
+47292	ši
+47295	it
+47298	ta
+47300	ši
+47302	na
+47306	d
+47308	a
+47310	ni
+ina
+be
+47314	ru
+47316	ši
+47318	na
+pi
+47321	tiq
+47323	tu
+pat
+47326	qat
+47328	ul
+47330	il
+47332	lak
+a
+47335	ha
+47337	tu
+a
+47340	na
+le
+47343	et
+a
+47346	ha
+47348	ti
+47351	ša
+man
+47354	na
+lu
+47357	uš
+47359	pur
+a
+47363	na
+47367	d
+a
+47370	ni
+ša
+47374	e
+47377	liš
+47379	ša
+47381	a
+47383	ni
+kan
+47386	ni
+47388	ši
+47390	na
+na
+47398	ši
+47400	na
+na
+47408	eb
+47410	bu
+47413	li
+47415	is
+47417	sa
+47419	pa
+47421	ni
+47423	im
+47425	ma
+li
+47428	be
+47430	la
+47432	a
+47436	a
+47439	ba
+47441	tu
+47445	a
+47447	ša
+47449	ti
+u
+47452	dal
+47454	ha
+47456	a
+47458	ti
+47499	igi
+bar
+igi
+bar
+47504	bar
+igi
+bar
+47508	ra
+bar
+47511	bar
+igi
+47514	suh
+igi
+suh
+47518	suh
+igi
+bar
+47523	ra
+suh
+47526	suh
+47529	ši
+47531	it
+47533	ta
+i
+47536	nu
+a
+47539	ha
+47541	tu
+ši
+47544	na
+47546	ma
+47548	ina
+be
+47551	ru
+47553	ši
+47555	na
+47558	u
+47560	pa
+47562	rik
+47564	ma
+47569	nu
+47571	ši
+47573	na
+ki
+47576	ṣir
+47578	tu
+kaṣ
+47581	rat
+47587	nu
+47589	ši
+47591	na
+pi
+47594	tiq
+47597	tu
+pat
+47600	qat
+47603	a
+47605	a
+47607	u
+47610	ši
+47612	na
+47614	a
+47616	ma
+a
+47619	a
+47622	u
+47627	ši
+47629	na
+47631	ma
+47634	a
+47636	a
+47638	u
+47640	ti
+47642	bi
+47644	ši
+47646	na
+a
+47649	a
+47651	u
+la
+47655	a
+47658	ti
+47660	bi
+47662	ši
+47664	na
+47667	ma
+47700	gin
+a
+a
+47704	lal
+47706	la
+er
+gub
+47710	ba
+47713	a
+gub
+47716	ba
+47718	a
+47721	d
+47725	ip
+47727	pa
+47729	lis
+47731	su
+47733	ma
+ana
+47736	d
+e
+47739	a
+47742	šu
+i
+47745	ša
+47747	as
+47750	si
+47753	mi
+47755	na
+47757	a
+e
+47760	pu
+47762	uš
+ul
+i
+47766	di
+ša
+ana
+47770	ku
+i
+47773	du
+47776	u
+at
+47779	ta
+ti
+47782	di
+47815	niš
+47820	u
+47826	e
+47829	ma
+47834	nu
+ina
+47843	šu
+47846	ma
+ina
+47849	eš
+47854	i
+47856	gi
+ti
+47859	la
+a
+47862	ga
+ti
+47865	la
+i
+47868	gi
+kun
+47872	na
+a
+47875	ga
+kun
+47879	na
+47883	ur
+47885	sag
+gi
+47888	na
+47890	zu
+gi
+ban
+47894	da
+47896	zu
+tu
+47899	en
+47932	i
+47934	ni
+47938	at
+i
+47941	ni
+munus
+47948	at
+i
+47951	ni
+47953	u
+munus
+47958	man
+47960	nu
+u
+47963	bal
+47965	liṭ
+ta
+47968	šap
+47970	par
+i
+47973	le
+47975	qu
+47977	ni
+47979	ku
+47983	ti
+giš
+47986	ina
+pi
+47989	i
+47991	ka
+te
+47994	he
+47996	pi
+ina
+48000	ka
+te
+48003	pe
+48005	til
+48007	u
+48011	ina
+48018	šu
+48020	nu
+tu
+48023	ka
+48025	ṣar
+48028	u
+48032	i
+48034	bal
+48036	lu
+48038	uṭ
+48070	en
+an
+48073	na
+im
+ri
+48077	a
+igi
+lu
+48081	ka
+gig
+48084	ga
+ba
+48087	an
+48089	gar
+ina
+ša
+48093	me
+48095	e
+ša
+48098	a
+48100	ru
+i
+48103	zi
+48105	qam
+48107	ma
+ina
+i
+48111	in
+48113	si
+48115	im
+48117	me
+iš
+48120	ta
+48122	kan
+48124	an
+48126	ta
+su
+48129	da
+48131	ta
+im
+ri
+48135	a
+igi
+lu
+48139	ka
+gig
+48142	ga
+ba
+48145	an
+48147	gar
+iš
+48150	tu
+48153	e
+ru
+48156	qu
+48158	ti
+48160	igi
+gig
+48163	ga
+gig
+48166	ga
+ba
+48169	an
+48171	gar
+48174	ana
+i
+48177	ni
+mar
+48180	ṣa
+48182	a
+48184	ti
+si
+48187	im
+48189	me
+iš
+48192	ta
+48194	kan
+48196	lu
+48198	bi
+igi
+48201	bi
+lu
+48204	lu
+48206	a
+48209	ša
+48211	šu
+48213	a
+48215	tu
+i
+48218	na
+48220	šu
+da
+48223	al
+48225	ha
+48227	igi
+48229	bi
+ba
+48232	an
+48234	suh
+48236	suh
+48239	i
+48241	na
+48243	šu
+a
+48246	ša
+48248	a
+48250	lu
+48252	u
+48254	lu
+48256	bi
+ni
+48259	te
+48261	a
+48263	ni
+48265	še
+er
+gig
+i
+48270	šeš
+48272	šeš
+48274	šu
+48276	u
+ina
+ra
+48280	ma
+48282	ni
+48284	šu
+mar
+48287	ṣi
+48289	iš
+i
+48292	bak
+48294	ki
+48296	lu
+48298	bi
+tu
+48301	ra
+48303	a
+48305	ni
+d
+engur
+48309	ke
+igi
+im
+48313	ma
+48315	an
+48317	si
+48320	ša
+48322	šu
+48324	a
+48326	tu
+mu
+48329	ru
+48331	us
+48333	su
+d
+48336	i
+48338	mur
+48340	ma
+48342	gazi
+sar
+gaz
+48346	ga
+šu
+u
+48350	me
+48352	ti
+48355	ka
+48357	si
+48359	i
+haš
+48362	lu
+48364	ti
+le
+48367	qe
+48369	ma
+48371	tu
+48373	tu
+abzu
+48376	ta
+u
+48379	me
+48381	ni
+48383	si
+48386	ši
+48388	pat
+ap
+48391	si
+48393	i
+i
+48396	di
+48398	ma
+48400	igi
+48403	lu
+48405	ka
+u
+48408	me
+48410	ni
+48412	kešda
+48415	i
+48417	ni
+a
+48420	me
+48422	li
+ru
+48425	kus
+48427	ma
+48430	d
+48432	engur
+lu
+šu
+ku
+48437	ga
+48439	na
+igi
+lu
+48443	ba
+48445	ka
+šu
+tag
+48449	ga
+48451	ni
+48453	ta
+48455	d
+48458	ina
+48461	ša
+48464	ti
+i
+48467	in
+a
+48470	me
+48472	li
+ina
+la
+48476	ba
+48478	ti
+48480	ša
+48483	im
+48485	igi
+lu
+48488	ka
+su
+48491	su
+igi
+48494	bi
+48496	ta
+ba
+48499	ra
+48501	an
+48503	e
+48505	ša
+48507	a
+48510	ru
+ša
+i
+48514	in
+a
+48517	me
+48519	li
+ud
+48522	du
+48524	pu
+ina
+i
+48528	ni
+48530	šu
+lit
+48533	ta
+48535	ṣi
+48553	i
+48556	nu
+a
+48559	pa
+48561	tu
+i
+48564	nu
+a
+48567	ša
+48569	tu
+i
+48572	nu
+pur
+48575	si
+48577	in
+48579	di
+da
+48582	a
+48584	mi
+šu
+48587	har
+48589	ri
+48591	a
+48593	tu
+48595	ši
+48598	na
+i
+48601	bak
+48603	ka
+48605	a
+ana
+48610	ši
+48612	na
+d
+ma
+48616	mi
+48618	a
+48621	mi
+48623	in
+na
+48626	ši
+48628	ma
+it
+48631	ti
+48633	ni
+tar
+48636	ku
+48638	si
+a
+48641	ša
+48643	a
+da
+48647	a
+48649	ma
+u
+ša
+48653	a
+48655	ra
+48690	a
+48692	he
+48694	en
+48696	na
+48698	a
+48703	ina
+48706	šu
+48708	nu
+lip
+48711	pa
+tal
+48714	pap
+48719	ina
+48723	šu
+48727	ina
+48730	šu
+48735	ma
+ina
+48738	eš
+48743	še
+48745	la
+še
+la
+hu
+48750	tu
+48752	ul
+hu
+48755	tu
+48757	ul
+igi
+lal
+hu
+48762	tu
+48765	ul
+min
+igi
+lal
+48770	bi
+hu
+48773	tu
+48775	ul
+min
+48779	ša
+48781	at
+48783	ti
+48785	pa
+48787	na
+48791	ša
+48793	at
+48795	ti
+pa
+48798	na
+48803	i
+48805	ṭab
+48828	šu
+48842	bir
+48844	ki
+48848	qe
+48853	u
+48858	ana
+48861	šu
+te
+48864	eṣ
+48866	ṣi
+48868	ip
+48876	u
+48882	e
+48884	ma
+48890	nu
+ina
+48896	šu
+48899	ma
+48901	ina
+48903	eš
+48906	at
+48909	ti
+48911	na
+48914	pur
+48916	si
+48918	mi
+48920	it
+48922	šu
+48924	har
+48926	ra
+48928	tu
+am
+48931	mi
+48933	ni
+ta
+48936	aš
+48938	ša
+48940	ni
+ha
+48943	ma
+ha
+48946	an
+48948	da
+48951	bi
+48954	lu
+šu
+48957	ur
+48959	šu
+48961	ra
+e
+48964	lap
+48966	pa
+48968	a
+ša
+48971	ina
+48975	kir
+48977	ba
+48979	ni
+ina
+tub
+48983	kin
+48986	na
+48989	a
+48991	te
+hu
+48994	ṣa
+48996	a
+48998	ba
+am
+49001	mi
+49003	ni
+taš
+49006	ša
+49008	ni
+zu
+49011	un
+49013	na
+49015	ni
+49018	mi
+49020	ta
+49022	qu
+49025	ta
+49028	ni
+49030	nab
+49032	li
+la
+49035	am
+ik
+49038	šu
+49040	du
+49042	ki
+49044	na
+49046	ši
+ṣur
+49049	ru
+nag
+49052	la
+49054	bu
+ša
+d
+gu
+49059	la
+49066	d
+asal
+49069	lu
+49071	hi
+d
+49077	d
+nin
+49080	gi
+49082	rim
+49084	ma
+49087	u
+d
+gu
+49091	la
+49099	ti
+i
+49102	di
+49104	ma
+ana
+49107	ku
+aš
+49110	ši
+49119	ha
+49121	a
+49123	mu
+hu
+49126	ṣa
+49128	ba
+u
+mim
+49132	ma
+ša
+49137	šu
+49139	li
+49141	i
+49143	ina
+šur
+49146	ri
+49148	i
+la
+49151	am
+ba
+49154	ša
+49156	mu
+a
+49159	la
+49161	lu
+ur
+49164	da
+ana
+ma
+49168	ti
+49171	it
+49173	tu
+49175	u
+še
+49178	er
+49180	a
+49184	še
+49186	er
+49188	hu
+hab
+49191	bur
+49193	ra
+hab
+49196	bur
+49198	ra
+ka
+49201	an
+49203	na
+ka
+49206	an
+49208	nu
+ki
+49211	iṣ
+49213	ra
+ki
+49216	iṣ
+49218	ru
+šu
+49221	bu
+49223	ul
+49225	ta
+šu
+49228	bul
+49232	tu
+me
+49235	er
+49237	a
+d
+49240	e
+49242	ṣi
+49244	id
+d
+49247	u
+49249	pa
+49251	har
+d
+49254	ina
+e
+49257	ṣe
+49259	di
+49261	šu
+d
+49264	ina
+pu
+49267	hu
+49269	ri
+49271	šu
+ana
+49275	me
+49277	er
+49279	hu
+49282	ub
+d
+49285	u
+d
+49288	i
+49290	ši
+49292	za
+49294	nim
+49296	ma
+me
+49299	er
+49301	hu
+li
+49304	la
+49306	a
+ša
+49310	šu
+49312	un
+49318	me
+49320	er
+49322	hu
+ša
+49328	šu
+49330	li
+49332	i
+49339	šu
+mur
+49342	din
+49344	ni
+49348	sah
+49350	le
+49352	e
+49360	ina
+49364	tara
+49367	bak
+49370	id
+49380	ana
+49429	u
+49450	u
+49457	mi
+49459	ki
+49461	i
+49486	d
+49488	na
+mu
+49491	ṣa
+49501	na
+49507	na
+49513	na
+49531	di
+49535	šu
+49538	nu
+49540	ma
+49547	šu
+49551	hu
+49554	up
+49556	pat
+49561	šu
+49566	ma
+49569	im
+ina
+49572	ah
+49580	su
+49582	ma
+49594	ši
+49603	na
+49610	na
+49614	na
+49618	na
+49620	na
+49624	na
+49626	na
+mu
+49629	ṣa
+49631	na
+49636	na
+49638	na
+49641	na
+49646	u
+49648	na
+49655	na
+49664	na
+49666	ša
+49672	ša
+na
+ia
+49676	ni
+49678	bu
+na
+ka
+49682	pa
+49684	ṣu
+49693	an
+49695	nu
+49697	ti
+ina
+49700	munus
+49713	u
+49723	ak
+u
+tar
+49727	muš
+u
+49731	lim
+u
+49737	giš
+49742	u
+49744	u
+ap
+49747	ru
+49749	ša
+u
+ak
+49753	tam
+u
+el
+49757	kul
+49759	la
+u
+49769	lu
+u
+49773	u
+49781	u
+49786	giš
+49796	an
+49798	nu
+49800	ti
+e
+49803	ma
+49805	ina
+sig
+49814	mi
+49828	nu
+49830	ma
+ina
+49836	šu
+49839	su
+49841	na
+aš
+49845	pu
+49847	u
+ša
+49852	kul
+49854	lu
+49856	mu
+na
+49861	na
+49875	na
+49879	na
+49883	na
+49891	na
+lu
+49894	lu
+49896	da
+49898	ni
+49901	tu
+49904	na
+49908	na
+49912	na
+49927	na
+ar
+49930	zal
+49932	la
+49936	na
+49942	na
+49956	na
+49967	giš
+49969	na
+49971	d
+49973	na
+49982	na
+49986	na
+49998	it
+50000	ti
+nap
+50003	šal
+50005	ti
+u
+ṣi
+50009	in
+50011	di
+ša
+50027	šu
+50033	id
+50040	an
+50042	nu
+50044	ti
+50048	tu
+50050	haz
+ina
+50056	šu
+50059	su
+50061	giš
+50063	ša
+50069	giš
+50071	ša
+50078	ša
+50082	ša
+50085	giš
+50088	giš
+50092	u
+50104	ṣi
+50106	in
+50108	di
+ša
+50121	šu
+50124	id
+šim
+50127	šim
+50139	d
+50144	d
+50166	šu
+50172	giš
+50269	ina
+50273	šu
+ina
+50286	da
+50288	gan
+imin
+50291	bi
+d
+utu
+nam
+50296	tar
+nam
+50299	tar
+50301	ra
+50307	nam
+50309	ba
+50312	luh
+u
+50315	me
+50317	luh
+nam
+50320	mu
+50322	un
+50324	da
+50328	bur
+50330	ra
+50333	nam
+50335	mu
+50337	un
+50340	da
+50344	la
+50346	e
+50348	al
+50350	li
+ma
+50353	da
+ma
+50356	da
+50358	bi
+50361	d
+50363	en
+50365	ki
+lugal
+abzu
+50369	ke
+50371	d
+asal
+50374	lu
+50376	hi
+dumu
+eridu
+ki
+50381	ga
+50383	ke
+50385	nam
+50387	mu
+50389	un
+50391	da
+50393	bur
+50395	bur
+50397	re
+50399	zi
+an
+50402	na
+he
+50405	pad
+zi
+ki
+50409	a
+he
+50412	pad
+50432	sig
+50444	u
+50449	niš
+50454	u
+50458	u
+50466	ni
+50468	kip
+50470	ta
+50473	d
+50477	d
+50480	giš
+50486	giš
+50492	gul
+50494	gul
+50507	an
+50509	nu
+50511	ti
+e
+50514	ma
+50516	ina
+50521	mi
+50525	šu
+50528	nu
+50530	giš
+50534	at
+ina
+50540	šu
+tara
+50543	kas
+gul
+50546	gul
+50552	tur
+50554	ar
+50556	ina
+50560	su
+50577	gul
+50579	gul
+50592	u
+50596	u
+50600	sah
+50602	le
+50604	e
+50607	niš
+50609	ina
+50620	ina
+50624	šu
+u
+an
+50628	ki
+50630	nu
+50632	ti
+u
+eli
+50636	kul
+50638	la
+50640	tam
+50642	ti
+ni
+50645	kip
+50647	ta
+50649	u
+50655	d
+50657	na
+mu
+50660	ṣa
+50663	niš
+50665	ina
+50676	šu
+50682	šu
+u
+50687	šu
+50690	ma
+50695	uṭ
+50698	sag
+50700	ki
+mu
+50703	un
+50705	ta
+50707	gig
+dab
+50710	ba
+sag
+50713	ki
+mu
+50716	un
+50718	ta
+50720	bi
+50722	gig
+dab
+50725	ba
+50727	sag
+50729	ki
+hul
+gig
+sa
+gig
+dab
+50736	ba
+zi
+d
+asal
+50741	lu
+50743	hi
+dumu
+eridu
+ki
+50748	ga
+50750	ke
+zi
+pad
+50754	da
+hun
+50757	ga
+50767	giš
+50769	ša
+im
+50774	ša
+ina
+50778	i
+50780	nam
+50782	zu
+50784	zu
+50787	qe
+50790	šu
+ana
+50795	šu
+ana
+50798	ta
+50800	pat
+50802	til
+50804	u
+50811	šu
+50814	nu
+ina
+50820	šu
+50826	sag
+50828	ki
+mu
+50831	un
+50833	dab
+sag
+si
+50837	sa
+mu
+50840	un
+50842	dab
+sag
+sahar
+50846	ra
+mu
+50849	un
+50851	dab
+50853	mu
+50855	un
+50858	dab
+50860	mu
+50862	un
+50864	dab
+50866	dab
+a
+50869	da
+50871	pa
+abgal
+eridu
+ki
+50876	ga
+50878	ke
+50880	sag
+50882	ki
+mu
+50885	un
+50887	dab
+sag
+sahar
+50891	ra
+mu
+50894	un
+50896	dab
+50914	sig
+50924	u
+50930	e
+50932	ma
+50938	na
+50946	ak
+50950	šu
+50953	nu
+ina
+50959	šu
+50967	a
+50969	ra
+tu
+50972	e
+a
+50975	ra
+ba
+50978	tu
+50980	e
+ti
+50983	la
+50990	šu
+50992	du
+50994	du
+50996	meš
+šu
+ne
+51000	ne
+51002	a
+51004	meš
+eridu
+ki
+51008	ga
+mu
+51011	un
+51013	tum
+51024	giš
+51027	ša
+im
+51032	ša
+ina
+51036	i
+51038	nam
+51040	zu
+51042	zu
+51046	qe
+51049	u
+51058	šu
+51061	nu
+ina
+51067	šu
+tara
+51071	kas
+51084	ri
+51087	ba
+51089	ak
+51091	ti
+ti
+51094	e
+51097	na
+51103	hat
+51106	ru
+51108	um
+51110	ma
+51128	ku
+51174	ina
+51196	a
+51198	an
+51221	šu
+tu
+51224	šaq
+51226	ba
+51228	šu
+51230	ma
+51251	kup
+51253	ra
+51273	giš
+51300	sag
+51302	ki
+mu
+51305	un
+51307	dab
+51317	sag
+sahar
+51320	ra
+mu
+51324	un
+51326	dab
+51340	d
+asal
+51343	lu
+51345	hi
+sag
+giš
+ra
+51350	mu
+51352	un
+51355	dab
+mu
+51358	un
+51360	dab
+51378	na
+51386	u
+51388	na
+51395	na
+51403	ina
+51408	šu
+51410	tara
+51412	kas
+51416	sag
+51418	ki
+51420	ni
+sag
+51423	ki
+he
+51426	en
+51430	gi
+51432	gi
+i
+51435	bi
+51437	ni
+i
+51440	bi
+he
+51443	en
+51445	gi
+51448	gi
+51451	mu
+51453	ru
+51455	ub
+51457	bi
+51459	ni
+mu
+51462	ru
+51464	ub
+51467	bi
+51469	he
+51471	en
+51473	gi
+51475	gi
+he
+51478	bi
+51480	da
+51482	a
+51484	na
+51486	mul
+51488	la
+he
+51491	en
+51493	da
+51495	a
+51507	u
+aš
+51510	lam
+51523	u
+51529	e
+51531	ma
+51538	nu
+51543	u
+51557	ina
+sig
+51566	mi
+ina
+51572	šu
+tara
+51575	kas
+51578	id
+51580	da
+51582	ta
+tir
+gal
+51586	gal
+51588	la
+51590	ta
+tir
+si
+dara
+51597	maš
+mah
+51601	mah
+51604	mul
+51606	mul
+giš
+geštin
+gir
+mu
+51612	un
+51614	kar
+51616	re
+giš
+kiši
+i
+51621	gu
+kal
+muš
+51626	muš
+51629	šu
+mu
+51632	mu
+51634	e
+51636	de
+mul
+51639	mul
+kur
+51642	kur
+51644	ra
+51647	sikil
+51649	e
+du
+i
+51653	ti
+51655	la
+tu
+51658	ra
+51666	du
+nam
+51669	tag
+51671	ga
+lu
+51674	kar
+51676	ra
+mu
+51679	un
+51681	sa
+51683	a
+zag
+51686	du
+nig
+51689	giš
+gag
+51692	ti
+giš
+kiri
+51701	udug
+hul
+he
+51705	bad
+a
+51708	la
+hul
+he
+51712	bad
+gidim
+hul
+51717	he
+51719	bad
+gal
+51722	la
+hul
+he
+51726	bad
+51728	dingir
+hul
+he
+51732	bad
+maškim
+hul
+he
+51737	bad
+d
+dim
+51743	me
+he
+51746	bad
+d
+dim
+51750	me
+51752	a
+he
+51755	bad
+51757	d
+dim
+51760	me
+51762	lagab
+he
+51765	bad
+zi
+an
+51769	na
+he
+51772	pad
+zi
+51776	ki
+51778	a
+he
+51781	pad
+51810	niš
+51814	na
+51832	e
+51834	ma
+51839	nu
+ina
+51847	šu
+tara
+51850	kas
+51852	ma
+51858	sag
+51860	ki
+51862	dab
+51864	ba
+sag
+51867	ki
+51869	dab
+51871	ba
+sag
+51874	ki
+51876	dab
+51878	ba
+nam
+51881	lu
+51883	u
+51885	lu
+51887	ke
+51889	sag
+51891	ki
+51893	dab
+51895	ba
+dingir
+51898	re
+51900	e
+51902	ne
+51904	ke
+sag
+51907	ki
+51909	dab
+51911	ba
+tu
+51914	ra
+hun
+51917	ga
+51919	ke
+51921	sag
+51923	ki
+51925	dab
+51927	ba
+nam
+51930	lu
+51932	u
+51934	lu
+gar
+51937	ra
+he
+51940	en
+51942	hun
+51944	ga
+51950	sag
+si
+51953	sa
+mu
+51956	un
+51958	dab
+sag
+sahar
+51962	ra
+mu
+51965	un
+51967	dab
+zag
+gar
+51971	ra
+sag
+gar
+51975	ra
+51983	tu
+51985	tu
+gar
+51988	ra
+he
+51991	en
+51993	hun
+51995	ga
+zi
+an
+he
+52000	pad
+zi
+ki
+52004	a
+he
+52007	pad
+52028	ina
+52030	tak
+52032	ṣi
+52034	ri
+ša
+u
+52045	nu
+52049	sag
+52051	ki
+mu
+52054	ta
+52056	bi
+52058	gig
+dab
+52061	ba
+sag
+52064	ki
+hul
+dab
+52068	ba
+sag
+gig
+hul
+dab
+52076	ba
+52078	zi
+d
+asal
+52082	lu
+52084	hi
+dumu
+eridu
+ki
+52089	ke
+zi
+pad
+52093	da
+hun
+52096	ga
+52115	an
+52117	ni
+52119	ta
+ina
+52122	nap
+52124	šal
+52126	ti
+ina
+52134	e
+52137	šu
+52140	nu
+52142	ma
+52149	šu
+52153	hi
+52155	šu
+52162	hi
+52164	šu
+52170	ma
+ina
+52173	ah
+52195	sag
+52197	du
+huš
+sag
+52201	du
+huš
+sag
+52206	du
+huš
+52210	huš
+sag
+52213	re
+52215	eš
+52217	sag
+52219	du
+huš
+52223	lugal
+d
+52226	asar
+52228	alim
+he
+52231	til
+lugal
+d
+en
+52236	ki
+52238	he
+52240	til
+52242	lugal
+d
+asal
+52246	lu
+52248	hi
+he
+52251	til
+52290	u
+52297	e
+52299	ma
+52305	nu
+ina
+52311	šu
+52326	munus
+aš
+52330	gar
+giš
+52333	nu
+52335	zu
+šim
+52338	me
+mu
+52341	un
+52343	zu
+52388	na
+52398	šu
+52409	šu
+52414	ina
+52421	ša
+iti
+52424	u
+52427	lim
+u
+52433	u
+tar
+52437	muš
+u
+eli
+52441	kul
+52443	la
+u
+ha
+52447	šu
+52449	ta
+ša
+52458	ša
+52463	d
+52467	ina
+52482	pi
+ina
+52486	šu
+52489	an
+na
+52494	ina
+52499	šu
+52502	su
+52505	in
+52507	da
+ri
+52510	ti
+ra
+52513	ah
+52516	nu
+52522	šu
+52525	su
+52529	at
+u
+52543	ša
+iti
+52546	giš
+52555	ša
+ina
+52560	ša
+zaq
+52563	pat
+52568	ša
+ta
+52571	še
+52573	ṣa
+52575	aʾ
+52580	ana
+52584	šu
+52587	šim
+52589	ana
+52594	šu
+52596	sil
+52598	qit
+52610	šu
+52613	su
+52617	at
+u
+52626	ša
+iti
+52637	mušen
+52640	šal
+bah
+52643	ru
+52645	us
+52647	su
+ana
+52654	šu
+52660	mušen
+52663	šal
+52666	giš
+52668	ana
+52673	šu
+52676	di
+hi
+52679	ib
+52681	ṣa
+ina
+sah
+52685	le
+52687	e
+52696	šu
+52699	su
+ina
+52705	ša
+iti
+52713	šu
+52719	an
+52729	ša
+52734	ina
+52738	šu
+u
+52741	hap
+52743	pa
+52747	šim
+52749	ana
+52753	šu
+52756	an
+52764	šu
+52767	su
+ina
+52773	ša
+iti
+52779	sar
+ina
+52782	u
+52784	haš
+52786	ša
+tul
+52789	ta
+ša
+52794	ina
+52799	šu
+u
+52802	hap
+52804	pa
+52810	šu
+52815	an
+52819	šim
+52821	ana
+52827	šu
+52830	an
+52833	nap
+52835	ša
+52837	la
+52839	tu
+tak
+52842	ṣi
+52844	ra
+52846	nu
+lat
+52849	ku
+52851	tu
+ba
+52854	ru
+52856	ti
+ša
+ana
+52860	šu
+52862	ṣu
+52864	u
+ša
+52871	e
+la
+52874	bi
+52876	ru
+52878	ti
+ša
+la
+52882	am
+52888	ša
+i
+52891	na
+šuruppak
+ki
+52898	m
+52900	d
+52905	ba
+52907	ni
+52909	uru
+i
+52912	ši
+52914	in
+ki
+m
+52918	d
+52923	mu
+52925	bal
+52927	liṭ
+52930	ki
+ez
+52935	bu
+la
+mu
+52939	du
+52941	u
+mu
+52944	da
+52946	a
+li
+52949	kal
+52951	lim
+mu
+52954	du
+52956	u
+la
+mu
+52960	da
+52962	a
+la
+u
+52967	kal
+52970	lam
+52974	d
+52984	su
+52988	mat
+52991	qu
+52994	ta
+53010	šu
+53012	u
+53014	kal
+53019	m
+53035	ki
+ša
+d
+53039	u
+d
+taš
+53043	me
+53045	tu
+53049	ra
+53051	pa
+53053	aš
+53055	ta
+iš
+53058	ru
+53060	ku
+53062	uš
+53064	i
+53066	hu
+53068	uz
+53070	zu
+53074	na
+53076	mir
+53078	tu
+ni
+53081	siq
+53083	ṭup
+53085	šar
+53087	ru
+53089	ti
+53097	id
+53112	ru
+53114	uš
+53116	šu
+ša
+sip
+53120	pi
+53124	qe
+53140	ana
+53146	u
+ap
+53149	ru
+53151	šu
+ina
+53166	ta
+53168	sak
+ina
+53173	šal
+53176	su
+53190	u
+53193	i
+53195	le
+53197	em
+ana
+53212	a
+53214	bu
+53216	kat
+53219	i
+ta
+53222	sak
+ina
+hi
+53226	iq
+53243	ku
+53245	ṣu
+hur
+53248	ba
+53250	šu
+53256	su
+53269	ana
+53271	lu
+se
+53274	pi
+53277	i
+53312	su
+53373	ša
+53375	ina
+53380	ni
+a
+53383	lik
+mah
+53386	ri
+53388	ia
+mam
+53391	ma
+šip
+53394	ru
+šu
+53397	a
+53399	tu
+la
+e
+53403	hu
+53405	uz
+53407	zu
+53409	bul
+53411	ṭi
+53414	muh
+53416	hi
+53419	liq
+53421	ti
+53425	ta
+53427	hi
+53429	zu
+nak
+53432	la
+53434	a
+53436	zu
+53438	gal
+53441	lu
+53443	ut
+d
+nin
+53447	urta
+u
+d
+gu
+53452	la
+ma
+53455	la
+ba
+53458	aš
+53460	mu
+53462	ina
+ṭup
+53465	pa
+53467	a
+53469	ni
+53471	aš
+53473	ṭur
+as
+53476	niq
+53481	ma
+53483	a
+53485	na
+ta
+53488	mar
+53490	ti
+53492	ši
+53494	ta
+53496	si
+53498	ia
+qe
+53501	reb
+53506	ia
+u
+53509	kin
+53511	u
+53550	šim
+53554	šim
+53556	ni
+53558	kip
+53560	ta
+53572	šim
+53594	šim
+53598	šim
+53600	šim
+53602	d
+53608	niš
+53617	ina
+53619	ta
+53621	la
+53623	aš
+tu
+53626	ba
+53628	har
+53634	su
+53641	šim
+53645	šim
+53647	šim
+53649	d
+53654	u
+ka
+53658	man
+53660	ti
+53670	niš
+53673	ina
+53675	tara
+53677	bak
+53682	su
+53691	giš
+53693	ša
+ina
+53697	i
+53699	nam
+53701	zu
+53703	zu
+53706	qe
+ina
+53725	u
+ap
+53728	ru
+53730	ša
+53732	ina
+53738	giš
+a
+53741	bu
+53743	ka
+53746	tu
+53781	šu
+u
+53785	šu
+ana
+53790	nu
+53795	šu
+53804	u
+53808	ni
+53810	kip
+53812	ta
+ina
+53815	tu
+53817	qat
+53819	tar
+53821	šu
+šim
+53826	ni
+53829	kip
+53831	ta
+53836	u
+53846	šim
+53850	niš
+53852	ina
+53862	na
+mu
+53865	ṣu
+šim
+53868	d
+53878	d
+53883	niš
+53886	ina
+sig
+53906	as
+53908	ni
+53911	kip
+53914	ta
+53950	šu
+53961	sar
+53969	ina
+53972	sar
+tara
+53975	bak
+53984	sar
+53998	ina
+54001	sar
+tara
+54004	bak
+54016	su
+ru
+54019	ša
+54021	am
+ša
+54024	giš
+54027	ina
+a
+54030	ṣi
+54032	ka
+ša
+ana
+54037	ka
+54040	zu
+54045	munus
+54055	ina
+54057	sig
+54065	as
+ina
+54071	šu
+54074	ma
+54090	su
+54092	giš
+54094	ša
+i
+54097	nam
+54099	zu
+54101	zu
+54104	qe
+54112	ina
+54116	aš
+54121	šu
+54124	ma
+54129	uṭ
+54142	su
+54144	giš
+54146	ša
+ina
+54149	zu
+54151	zu
+54154	qe
+ina
+54160	šu
+tara
+54163	kas
+54165	ma
+54170	uṭ
+54181	su
+giš
+54184	ša
+ina
+54187	zu
+54189	zu
+54193	ina
+sig
+54197	ina
+sig
+54204	tara
+54206	kas
+ina
+54212	šu
+tara
+54215	kas
+54220	uṭ
+54231	su
+sig
+54239	ša
+54251	u
+54255	sig
+54261	ta
+54263	pat
+54265	til
+na
+54268	na
+54272	na
+54276	na
+54280	ina
+54285	šu
+54291	uṭ
+54302	su
+la
+54305	aš
+54307	hi
+54313	sig
+54319	u
+aš
+54322	lu
+54330	niš
+54334	sig
+54337	ina
+54342	šu
+tara
+54345	kas
+54347	ma
+54352	uṭ
+54363	su
+tug
+54372	ina
+54374	sig
+54378	mi
+ina
+54384	šu
+54387	ma
+54392	uṭ
+54400	u
+ri
+54403	mu
+54405	ta
+54408	giš
+54423	sah
+54425	le
+54427	e
+54430	ti
+54439	niš
+54441	ina
+54444	sar
+tara
+54447	bak
+54452	ma
+54463	u
+ri
+54466	mu
+54468	ta
+54471	giš
+šu
+54474	nim
+54481	ina
+54485	sah
+54487	le
+54489	e
+54495	ina
+54501	tara
+54503	bak
+54506	su
+54523	šim
+54535	tara
+54538	bak
+54563	sah
+54565	le
+54567	e
+54606	gu
+54608	ur
+54644	zu
+54674	tara
+54677	bak
+54704	u
+54797	giš
+54833	šu
+54850	u
+54881	šu
+ṣab
+54885	ta
+54887	šu
+54889	ma
+54914	ša
+54916	bu
+54918	lu
+54921	te
+54946	šu
+54949	u
+54967	šu
+54970	u
+54986	šu
+55006	u
+55011	ina
+55079	sah
+55081	le
+55083	e
+55112	ma
+55150	šu
+55155	u
+55157	u
+55162	u
+55168	lu
+55170	ur
+55172	pa
+55174	na
+55180	na
+55187	na
+as
+55190	har
+55199	na
+55211	giš
+55215	su
+55219	ana
+55221	na
+55223	tu
+55230	ina
+55238	šu
+55246	šu
+u
+55249	zaq
+55252	qa
+55254	su
+55259	na
+mu
+55262	ṣa
+na
+55274	na
+55282	ur
+55284	sag
+d
+asal
+55289	lu
+55291	hi
+55302	šu
+55306	su
+55308	ma
+55315	niš
+55328	u
+55331	lim
+u
+tar
+55335	muš
+55350	u
+55384	šu
+55392	ni
+55394	kip
+55396	ta
+55399	niš
+55401	ina
+55403	giš
+55413	ma
+55426	ma
+55431	šu
+55436	šu
+55442	giš
+si
+55446	hu
+55452	u
+ba
+55455	ri
+55457	ra
+55459	ta
+55467	ina
+55470	sar
+55487	ma
+55489	d
+55508	šu
+55523	ma
+55527	bi
+55532	si
+55536	ša
+55539	ne
+55541	e
+55557	ma
+ma
+55560	gal
+55565	la
+i
+55569	na
+55571	aš
+55573	ši
+55586	ma
+ma
+55589	gal
+55600	šu
+ma
+55603	gal
+te
+55606	bu
+55608	u
+55617	an
+55619	nu
+55621	tu
+55639	šum
+55641	ma
+55654	ina
+55657	il
+55659	ta
+55661	za
+55663	az
+55665	ma
+55678	šu
+55680	u
+55682	kal
+55687	m
+55702	ki
+ša
+d
+55706	d
+taš
+55710	me
+55712	tu
+55718	tu
+iš
+55721	ru
+55723	ku
+55725	šu
+55727	e
+55729	hu
+55731	uz
+55733	zu
+55737	na
+55739	mir
+55741	tu
+ni
+55744	siq
+ṭup
+55747	šar
+55750	ru
+55752	ti
+55754	ša
+ina
+55760	ni
+a
+55763	lik
+mah
+55766	ri
+55768	ia
+mam
+55771	ma
+šip
+55774	ru
+šu
+55777	a
+55779	tu
+la
+e
+55783	hu
+55786	uz
+55788	zu
+55790	bul
+55792	ṭi
+55794	muh
+55796	hi
+a
+55799	di
+55801	liq
+55803	ti
+55807	ta
+55809	hi
+55811	zu
+55813	nak
+55815	la
+55817	a
+55819	zu
+55821	gal
+55823	lu
+55825	ut
+d
+nin
+55829	urta
+u
+d
+gu
+55834	la
+ma
+55837	la
+55839	ba
+55841	aš
+55843	mu
+55845	ina
+ṭup
+55848	pa
+55850	a
+55852	ni
+aš
+55855	ṭur
+as
+55858	niq
+55864	ma
+55866	a
+55868	na
+ta
+55871	mar
+55873	ti
+ši
+55876	ta
+55878	si
+55880	ia
+qe
+55883	reb
+55889	ia
+u
+55892	kin
+55899	šu
+55902	šu
+ina
+ge
+55906	ši
+55908	šu
+55910	im
+55912	ta
+55914	na
+55916	ʾa
+55919	qer
+55921	be
+55923	na
+55926	sar
+55930	sar
+55936	lu
+55941	uš
+55943	ta
+55945	mah
+55947	har
+ana
+55951	šu
+55963	šim
+55968	šim
+55980	pa
+55982	pa
+55984	si
+55989	šim
+55997	u
+qut
+56000	ra
+56002	ti
+56007	sar
+56011	giš
+56028	pa
+56030	pa
+56032	si
+56034	d
+56040	a
+56042	ši
+56044	i
+56048	u
+56057	mušen
+56062	u
+56069	e
+56071	reš
+56073	ti
+56080	šim
+56115	ina
+56118	ra
+56120	bi
+56122	ki
+ta
+56125	rab
+56127	bak
+ina
+56136	ri
+šu
+56139	lu
+56141	uš
+56143	ti
+56147	me
+56149	ina
+56153	me
+56156	ma
+ta
+56159	mar
+šum
+56162	ma
+56173	šu
+i
+56176	pa
+56178	šah
+šum
+56181	ma
+56192	šu
+56194	u
+56196	kal
+šum
+56199	ma
+56213	id
+56218	šu
+šum
+56221	ma
+56230	u
+56232	šam
+56234	ra
+56236	su
+56238	ma
+56241	ana
+56249	bu
+56251	le
+56253	e
+u
+56262	ša
+56268	kat
+56271	ina
+56274	sar
+ta
+56277	la
+56279	aš
+56282	id
+56285	šu
+sah
+56288	le
+56290	e
+ina
+56296	ma
+56299	u
+ina
+56302	giš
+šu
+56305	nu
+giš
+56308	u
+ak
+56311	tam
+u
+56316	ir
+56318	ta
+56320	na
+56322	haṣ
+56328	sar
+56330	ina
+56333	pa
+56335	tan
+56351	sar
+kab
+56354	ru
+56356	ti
+56362	tu
+56364	ša
+56366	ʾ
+56368	raš
+56370	šu
+56372	sar
+56374	ina
+56380	ina
+56383	pa
+56385	tan
+56390	ina
+56393	pa
+56395	tan
+56398	a
+56400	bu
+56402	kat
+56404	ana
+56411	di
+ina
+56414	tuš
+56416	bat
+ina
+še
+56420	ri
+56423	hal
+56425	ṣa
+ana
+56431	ma
+i
+56434	ar
+56436	ru
+56446	ina
+56450	u
+nam
+56453	ruq
+56455	qa
+56457	ina
+56464	ina
+56468	me
+56470	er
+56472	gi
+56474	ra
+56476	nu
+56479	ina
+56483	sar
+56486	ina
+56490	šim
+56494	ina
+56505	ina
+56510	giš
+šu
+56513	ši
+56516	ina
+56520	u
+al
+56523	la
+56525	nu
+56528	ina
+56534	mušen
+56537	ina
+56545	ina
+56550	sar
+56553	ina
+56558	giš
+56566	ina
+56571	giš
+šu
+56574	ši
+56577	ina
+56579	u
+56583	ṣi
+56585	ba
+56587	ru
+56591	ina
+56597	pa
+56599	tan
+56602	šu
+ana
+pa
+56606	re
+56608	e
+e
+56611	te
+56613	ne
+56615	la
+56617	a
+56619	ma
+56621	gal
+56628	ina
+56631	šu
+mal
+56634	da
+56636	riš
+56639	ku
+pa
+56642	nu
+56644	šu
+iṣ
+56647	ṣa
+56649	nu
+56651	du
+56656	šu
+56661	hu
+56666	šu
+kim
+56669	ṣa
+56671	šu
+56678	šu
+56686	ši
+56688	u
+56693	ma
+56695	gal
+56697	i
+56699	par
+56701	ru
+ina
+56705	šu
+56708	šu
+56710	u
+56712	tab
+56714	ba
+56716	kam
+56721	šu
+i
+56724	te
+56726	nin
+56728	nu
+56730	u
+56735	šu
+tab
+56738	ku
+mim
+56741	ma
+56744	ma
+56747	šu
+ul
+56755	sah
+56757	pa
+56759	su
+ana
+56763	šu
+šim
+56770	šim
+56772	šim
+56785	su
+56787	nu
+56790	qe
+56795	ina
+56801	pa
+56803	tan
+56807	šu
+56813	ma
+56817	šu
+56820	šu
+56823	id
+bah
+56826	ra
+56828	bah
+56831	ra
+56839	tuš
+56841	te
+56844	še
+56846	er
+56848	ma
+56855	u
+a
+56858	ra
+56860	ri
+56862	a
+56864	nu
+56866	ina
+56869	pa
+56871	tan
+56875	šu
+56884	u
+sah
+56887	la
+56889	a
+56891	nu
+56893	ina
+56899	pa
+56901	tan
+56905	šu
+56914	u
+ṣi
+56917	bu
+56919	ru
+56921	ina
+56929	šu
+56939	u
+56944	ina
+56947	u
+56949	hal
+56951	ṣi
+56954	šu
+56968	ša
+56971	e
+ina
+56975	u
+56977	hal
+56979	ṣi
+56982	šu
+56995	ma
+u
+56998	nap
+57000	paq
+u
+57006	šu
+57011	du
+57017	ana
+57020	šu
+u
+57028	ša
+im
+57033	ina
+57037	si
+šim
+57040	tu
+57042	sal
+57044	lat
+u
+57051	te
+57053	be
+57055	er
+57064	ina
+57068	ki
+pi
+57071	i
+mal
+57074	ma
+57076	liš
+tara
+57079	muk
+ana
+57082	mul
+57086	an
+57092	mi
+ina
+57102	ša
+57105	šu
+57107	nu
+ta
+57110	ša
+57112	hal
+57114	pa
+57116	tan
+57119	ma
+i
+57122	lap
+57124	pat
+57126	su
+57128	ma
+is
+57131	sal
+57133	la
+57135	ʾ
+la
+ta
+57139	na
+57141	kud
+57146	uṭ
+57148	ina
+57156	šu
+57168	me
+ta
+57175	ur
+57177	ne
+57179	e
+šim
+57182	u
+57186	giš
+57195	ina
+57199	ina
+urudu
+57207	šal
+57210	ana
+57213	i
+57215	tur
+57217	ru
+i
+57220	kaṣ
+57222	ṣa
+57224	aṣ
+57228	ana
+57233	di
+pa
+57236	na
+57239	sar
+i
+57242	šah
+57246	hat
+57249	šu
+an
+57252	na
+57254	a
+ana
+57258	šu
+57261	ak
+57268	u
+57286	ina
+57289	sar
+tara
+57292	bak
+ina
+57299	ina
+ti
+57302	bi
+57304	šu
+57309	su
+ana
+57313	šu
+iš
+57316	ta
+57318	na
+57320	da
+57322	as
+57324	su
+57327	su
+57332	šu
+kim
+57335	ṣa
+57337	šu
+57342	šu
+57347	šu
+57350	šu
+ii
+57353	ʾ
+57355	aš
+57358	šu
+ana
+pa
+57362	re
+57364	e
+i
+57367	te
+57369	ne
+57371	el
+57373	la
+57378	šu
+iṣ
+57381	ṣa
+57383	nu
+57385	du
+57387	šu
+57393	su
+ana
+57397	šu
+57400	giš
+57402	giš
+57406	šim
+57412	šim
+57419	eme
+57421	sal
+57423	li
+ina
+57426	tara
+57428	bak
+ina
+57433	er
+ana
+57437	šu
+57440	ak
+u
+57447	šim
+57455	ina
+57457	na
+ur
+57461	ṣi
+57464	niš
+57468	ina
+57475	alla
+57477	nu
+57480	uš
+57485	ana
+57488	šu
+57496	su
+u
+ša
+57500	šal
+57502	la
+57504	šu
+57512	šu
+57514	i
+57516	hi
+57518	la
+57520	e
+57522	peš
+57525	šu
+57531	ana
+57534	šu
+57536	šim
+57541	šim
+57543	šim
+57554	u
+57558	u
+57560	u
+ak
+57563	tam
+57565	giš
+57568	u
+57574	mušen
+57586	niš
+ina
+57589	ba
+57591	lu
+pa
+57594	tan
+57597	ma
+57601	sah
+57603	le
+57605	e
+u
+57610	kam
+57612	mu
+57619	šim
+57621	šim
+57623	šim
+57628	šim
+57633	u
+57640	u
+57647	u
+57649	ur
+57651	nu
+57653	u
+57656	su
+57658	nu
+ina
+57663	ma
+57670	u
+57674	u
+57681	u
+57686	šim
+57694	i
+57697	d
+57709	u
+57711	u
+57716	u
+57720	sah
+57722	le
+57724	e
+57726	sar
+57750	mušen
+u
+ak
+57755	tam
+57760	šim
+57765	ina
+57770	ma
+57773	u
+57789	ma
+57797	šim
+57800	sar
+57806	ina
+57811	šal
+57814	ma
+57817	u
+57819	ur
+57821	nu
+57823	u
+u
+57828	u
+šib
+57831	bu
+57834	ra
+57836	tu
+57841	u
+57845	šim
+57857	an
+57859	dah
+57861	še
+57871	an
+57873	nu
+57876	ti
+ina
+57881	ma
+57890	u
+57894	šim
+57909	ina
+57912	tuš
+57914	bat
+ina
+še
+57918	ri
+57920	pa
+57922	tan
+57925	ma
+57930	u
+57948	ina
+57952	ma
+57958	u
+57963	šim
+57971	u
+57974	lim
+u
+57978	niš
+u
+tar
+57982	muš
+57984	u
+57988	na
+ga
+57991	bi
+57993	i
+u
+ak
+57997	tam
+u
+58014	niš
+58016	ina
+58020	ma
+58026	u
+58028	sah
+58030	la
+58032	a
+58034	nu
+58059	ut
+58061	hi
+58063	ra
+58068	u
+58076	sar
+58087	sar
+tuš
+58090	te
+58092	mid
+ina
+58095	tuš
+58097	bat
+ina
+še
+58101	ri
+58104	ina
+58108	šu
+u
+58112	šu
+58117	ma
+58126	kab
+58128	ru
+58130	ti
+58133	ma
+ina
+58136	eš
+58140	lu
+58142	lu
+ah
+58145	ha
+58148	za
+lu
+a
+58152	mur
+58154	ri
+58156	qa
+58158	nu
+58162	su
+u
+ur
+58167	ne
+58170	e
+58172	u
+58176	u
+58181	šim
+58184	šim
+58189	ina
+58195	šal
+ta
+58198	ša
+58200	hal
+58204	ana
+58209	u
+58212	a
+58214	nu
+u
+mur
+58218	gab
+58220	ri
+58222	a
+58224	nu
+u
+a
+58228	ri
+58230	hu
+u
+58235	u
+ṣa
+58238	ṣu
+58240	un
+58242	ta
+u
+si
+58246	si
+58248	ni
+58251	bi
+u
+58257	u
+58263	u
+58269	u
+58271	u
+tar
+58274	muš
+u
+58287	u
+58295	šim
+58301	šim
+58305	sah
+58307	le
+58309	e
+58314	u
+58318	u
+sah
+58321	la
+58323	na
+58325	ina
+58333	qid
+58335	ha
+lu
+58338	ba
+58340	ṭa
+58342	ana
+58345	šu
+šim
+58350	u
+tar
+58353	muš
+u
+58357	lim
+šim
+58360	u
+58365	šim
+58371	a
+58373	ša
+58375	a
+pa
+58378	šit
+58380	ta
+u
+lu
+58384	ba
+58386	ṭi
+58388	u
+58392	u
+58410	niš
+58418	su
+u
+58424	pa
+58426	tan
+a
+58429	he
+58431	en
+58433	na
+58436	a
+58439	ina
+58443	ma
+58452	ana
+a
+58455	ša
+58457	a
+pa
+58460	šit
+58462	ta
+u
+lu
+58466	ba
+58468	ṭi
+58471	hi
+58483	pa
+58485	šit
+58487	tu
+58490	su
+šim
+58495	u
+58499	u
+58503	u
+58515	u
+58521	kam
+58523	mu
+ša
+lu
+58527	u
+58536	ma
+58538	u
+58542	u
+58552	šim
+58554	šim
+58568	u
+ak
+58571	tam
+u
+58578	šim
+58582	šim
+58596	i
+58598	ša
+58601	riš
+58613	a
+58615	ši
+58617	a
+pa
+58620	šit
+58622	tu
+u
+lu
+58626	ba
+58628	ṭi
+58630	ana
+58633	šu
+58636	šim
+58642	u
+ur
+58645	nu
+58647	u
+58650	u
+58656	niš
+58659	ina
+58663	tu
+58665	ša
+58667	ha
+58669	an
+ana
+58673	šu
+58675	ana
+ši
+58678	bi
+58681	šu
+58685	pa
+58687	tan
+58691	šu
+i
+58694	kaṣ
+58696	ṣa
+58698	as
+58700	su
+58706	ina
+ge
+58709	ši
+58711	šu
+58713	i
+58715	ar
+58717	ru
+58720	pa
+58722	šit
+58724	ta
+tu
+58727	ga
+58729	na
+58731	ana
+58734	šu
+šim
+58739	šim
+58745	u
+ak
+58748	tam
+u
+58758	su
+58760	nu
+ina
+58764	tara
+58766	muk
+ina
+58769	tuš
+58771	bat
+ina
+še
+58775	ri
+58777	pa
+58779	tan
+ta
+58782	ša
+58784	hal
+58787	ma
+tu
+58790	ša
+58792	ʾ
+58794	ra
+58796	šu
+58798	ma
+58813	eṭ
+58815	li
+58817	eṭ
+58819	li
+58821	i
+58826	u
+58828	ri
+eṭ
+58831	li
+e
+58834	el
+ša
+li
+58838	li
+58844	ti
+ma
+ga
+58848	ra
+58850	aš
+58852	ga
+58854	ra
+58856	aš
+58858	ša
+58865	an
+ra
+ti
+e
+58870	zib
+ba
+mu
+58891	ze
+58893	am
+58895	u
+58898	šim
+58900	gen
+58912	eme
+58918	ze
+ni
+58922	za
+mu
+58925	e
+58928	ši
+58930	du
+58932	a
+58936	izi
+58938	gen
+te
+58941	ni
+58943	ib
+58948	tu
+58950	du
+58952	ga
+d
+nin
+58957	girim
+58961	d
+en
+58964	ki
+58966	ke
+dag
+58972	lag
+mun
+šu
+u
+58978	me
+58980	ti
+nam
+58983	šub
+eridu
+58987	ki
+58989	ga
+58997	ka
+58999	ka
+59001	na
+u
+59005	me
+59007	ni
+59009	gar
+59013	im
+59015	gen
+gu
+59018	du
+59020	ni
+59022	ta
+he
+59025	em
+59028	ma
+59030	ra
+59033	du
+59035	bu
+59037	lu
+59039	uh
+59041	gen
+he
+59045	si
+59047	il
+59049	le
+59052	mar
+59054	tu
+mar
+59057	tu
+mar
+59060	tu
+pa
+59063	šit
+59066	tu
+59068	ma
+59070	mar
+59072	tu
+59075	mušen
+59077	it
+59079	ta
+59081	na
+59083	al
+59085	lak
+a
+59088	lak
+59091	ta
+59093	it
+59095	ta
+59097	na
+59099	za
+59101	az
+ina
+gi
+59105	sal
+59107	li
+ša
+59110	i
+59112	da
+59114	gal
+a
+59117	ki
+59119	lum
+ak
+59122	li
+i
+59125	da
+59127	gal
+ša
+59130	tu
+59132	u
+ku
+59135	ru
+59137	un
+59139	ni
+ki
+59142	i
+tak
+59145	ka
+59147	la
+ak
+59150	la
+ki
+59153	i
+ta
+59156	ša
+59158	ta
+59160	a
+ku
+59163	ru
+59165	un
+59167	ni
+a
+59170	ma
+59172	qu
+59174	tak
+59176	ku
+59178	nu
+59180	šim
+59182	ma
+tu
+59185	ga
+59187	ša
+59189	a
+ki
+59192	i
+59198	ar
+59200	qa
+59202	at
+a
+59205	ruq
+59208	ša
+a
+59211	ruq
+lu
+59215	ša
+a
+59218	ruq
+na
+59221	qid
+59223	sa
+ina
+e
+59227	ki
+59235	ik
+59237	kal
+ina
+a
+59241	tap
+59243	pi
+a
+59246	ruq
+59248	ti
+59255	i
+59257	šat
+59259	ti
+i
+59262	suk
+59264	ši
+giš
+59267	ul
+u
+59270	tir
+59272	ra
+pa
+59275	ni
+59277	ša
+59279	i
+59281	suk
+59283	ši
+kir
+59286	ba
+59288	na
+ul
+u
+59292	šaq
+59294	qa
+59296	a
+re
+59299	ši
+59301	ša
+i
+59304	suk
+59306	ši
+pil
+59309	li
+u
+59314	u
+59317	mar
+59319	tu
+59321	im
+59323	ba
+59325	ri
+ana
+ša
+59329	ha
+59331	hi
+it
+59334	bi
+59336	ul
+ia
+59339	ut
+59341	tu
+59343	d
+e
+59346	a
+59348	u
+d
+asal
+59353	lu
+59355	hi
+59357	d
+da
+59360	mu
+u
+d
+gu
+59365	la
+59375	ša
+pa
+59378	šit
+59380	ti
+59393	sar
+pa
+59396	pi
+59398	ra
+59401	niš
+59404	aṣ
+59419	uṭ
+59426	ad
+59430	d
+59432	e
+59434	a
+59439	lip
+59441	ṭur
+59451	u
+59453	nu
+59455	hur
+59457	ti
+59460	di
+59462	ana
+59470	pa
+59473	tan
+59476	ma
+ina
+59479	eš
+59506	ina
+59510	šu
+59523	ina
+59529	u
+59533	šu
+59535	u
+59538	nab
+59540	ruq
+59542	qa
+ina
+59549	u
+59553	šu
+59556	u
+59561	lim
+ina
+59569	u
+59573	šu
+59575	u
+59577	sis
+59579	sin
+59582	ni
+59585	bi
+ina
+59592	šu
+59603	ma
+59605	at
+59607	qa
+ina
+59614	šu
+59628	ina
+59636	šu
+59640	u
+a
+59643	ra
+59645	ri
+59647	a
+59649	nu
+ina
+59656	šu
+59664	u
+59668	ina
+59674	šu
+59682	u
+me
+59685	er
+59687	gi
+59689	ra
+59691	nu
+ina
+59699	šu
+59706	su
+59708	sar
+59710	ina
+59714	ma
+i
+59717	ar
+59719	ru
+59725	hi
+59727	qa
+59731	ma
+i
+59734	ar
+59737	ru
+59743	hi
+59745	qa
+59756	ma
+i
+59759	ar
+59761	ru
+59767	šim
+59770	ina
+59774	ma
+i
+59777	ar
+59779	ru
+59782	u
+me
+59785	er
+59787	gi
+59789	ra
+59791	a
+59793	na
+59795	ina
+59799	ma
+i
+59802	ar
+59804	ru
+59808	u
+59811	lim
+59813	ina
+59817	ma
+i
+59820	ar
+59822	ru
+59828	lu
+ina
+59831	lu
+ina
+59836	ma
+i
+59839	ar
+59841	ru
+59848	sar
+59850	ina
+59854	ma
+i
+59857	ar
+59859	ru
+59870	ina
+59874	ma
+i
+59877	ar
+59879	ru
+59890	ina
+59892	tara
+59894	muk
+ina
+59897	tuš
+59899	bat
+59902	ma
+i
+59905	ar
+59907	ru
+59912	u
+59916	šim
+59918	u
+59922	ina
+59924	ina
+59926	tuš
+59928	bat
+59931	ma
+i
+59934	ar
+59936	ru
+59941	u
+59948	sar
+a
+59951	he
+59953	na
+59955	a
+59957	ina
+59961	ma
+i
+59964	ar
+59966	ru
+59976	ma
+59979	su
+ana
+59986	šu
+59989	a
+59995	šu
+60002	ud
+60004	du
+60006	hu
+60011	šu
+na
+60014	šu
+60016	u
+60018	u
+60020	u
+60022	tar
+60024	ra
+60034	u
+60036	za
+60038	bal
+60040	ma
+60053	ma
+60058	su
+pa
+60061	nu
+60063	šu
+ka
+60066	lu
+60069	šu
+60073	šu
+ṣa
+60076	bit
+ši
+60079	pir
+60081	šu
+60084	ma
+60092	šu
+60094	pa
+60096	nu
+60098	šu
+60100	ši
+60102	hat
+60105	a
+60107	mur
+60109	ri
+60111	qa
+60113	nu
+60117	šim
+60120	ina
+60123	šim
+60128	ina
+60131	šim
+60134	ina
+60138	giš
+60143	ša
+im
+60148	ša
+60153	ina
+60156	u
+mur
+60159	ra
+60161	an
+60164	i
+60166	ina
+60169	u
+kur
+60172	ka
+60174	na
+60176	ina
+60179	u
+60182	lim
+60184	ina
+60187	u
+nam
+60190	ruq
+60192	qa
+60194	ina
+60197	u
+nam
+60200	ruq
+60202	qa
+60204	ina
+60217	ana
+60222	tu
+60224	sak
+60226	šim
+60229	ina
+60232	šim
+60237	ina
+60240	šim
+60243	ina
+60246	u
+nam
+60249	ruq
+60251	qa
+60253	ina
+60264	ina
+60267	ina
+60269	tuš
+60271	bat
+tu
+60274	sak
+60276	im
+60281	ina
+60283	e
+60285	re
+60287	ni
+u
+60292	giš
+bi
+60295	ni
+u
+60301	ina
+60305	giš
+bi
+60308	ni
+60310	ina
+60314	giš
+bi
+60317	ni
+60319	ina
+60321	u
+60325	giš
+šu
+60328	ši
+60332	u
+60337	ina
+60341	giš
+60346	giš
+60354	ina
+60358	er
+60363	šu
+60365	nu
+60367	ti
+tu
+60370	sak
+tu
+60373	kaṣ
+60375	ṣa
+60378	ma
+ina
+60381	eš
+u
+a
+60385	ṣu
+60387	ṣum
+60389	ta
+u
+a
+60393	nu
+60395	nu
+60397	ta
+ina
+qut
+60401	rin
+60403	ni
+tu
+60406	qat
+60408	tar
+60410	šu
+60412	d
+60418	ša
+ina
+u
+60424	zu
+ta
+60427	mah
+60429	har
+ina
+60437	sip
+60439	pi
+60441	ki
+60443	lal
+60445	le
+60447	e
+60449	ina
+60456	ra
+60458	am
+60460	uṣ
+60462	ṣa
+60464	a
+uš
+60467	te
+60469	eš
+60471	šir
+ti
+60474	tur
+60476	ra
+na
+60479	di
+60481	ta
+e
+60484	ti
+60486	iq
+u
+60492	ina
+60495	šim
+60500	ina
+60504	u
+ka
+60507	zi
+60509	ri
+60511	ina
+60516	u
+60521	ina
+60525	giš
+60532	ina
+60546	u
+60552	ina
+60565	u
+60569	qut
+60571	ri
+60573	ina
+60575	u
+60579	giš
+60597	giš
+šu
+60600	ši
+60607	ina
+60609	tuš
+60611	bat
+60613	hu
+60615	bi
+60617	bi
+60619	ta
+60624	giš
+60630	ša
+60632	im
+60640	šum
+60642	ma
+ina
+60649	giš
+60658	sah
+60660	le
+60663	e
+60684	ta
+60686	tab
+60688	bal
+60721	ina
+60730	ina
+60739	kab
+60741	ra
+60747	mi
+60762	šim
+60764	ina
+60766	u
+60780	ina
+60782	u
+60784	lu
+60790	ma
+60796	u
+ak
+60799	tam
+60806	ina
+60808	u
+60820	ina
+60827	šim
+60830	šim
+60842	ina
+60844	u
+60857	ina
+60860	šu
+60863	an
+60872	šu
+60879	giš
+60886	ina
+gi
+60891	ana
+60897	šu
+60900	ah
+60909	šu
+60919	šu
+60924	šu
+60934	ri
+60936	it
+60938	ku
+60940	ba
+60942	ti
+60951	qe
+tu
+60954	qal
+60956	lap
+ina
+na
+60967	ina
+60976	ma
+ina
+60979	eš
+60986	sah
+60988	le
+60990	e
+60998	su
+u
+61008	ma
+ina
+61011	eš
+61019	ina
+61021	u
+61025	ma
+ina
+61028	eš
+61034	ši
+61036	ši
+61039	ta
+61042	ina
+61046	šu
+61051	ta
+61053	qal
+61055	lap
+61062	šu
+61070	šu
+61078	u
+61084	ina
+61087	an
+61089	nu
+61091	ha
+61093	ra
+61097	ina
+61105	ina
+61112	mušen
+61114	ina
+61119	ina
+61122	ina
+61127	šu
+61133	u
+61137	u
+61141	u
+61147	ta
+61149	ṣa
+61151	hat
+ina
+61156	ma
+ina
+61159	eš
+61167	sar
+61170	mušen
+61173	ina
+61182	šu
+te
+61185	te
+61187	ne
+61189	qi
+61191	ma
+ši
+61194	ši
+61196	ta
+61199	ah
+61204	šu
+61212	ina
+61214	u
+61218	šu
+tu
+61221	šam
+61223	ad
+61225	ma
+61235	šu
+a
+61238	mur
+61240	ri
+61242	qa
+61244	nu
+61246	u
+61249	ina
+61253	ma
+ina
+61256	eš
+61260	giš
+šu
+61263	ši
+tu
+61266	bal
+ta
+61269	sak
+ina
+61272	tara
+61274	sa
+61276	an
+61278	d
+61282	ma
+ina
+61285	eš
+61288	u
+61293	tu
+61295	bal
+ta
+61298	sak
+ina
+61301	tara
+61303	sa
+61305	an
+61308	ma
+ina
+61311	eš
+61313	u
+an
+61316	nu
+61318	ha
+61320	ra
+61322	ina
+61326	ma
+ina
+61329	eš
+61336	mušen
+61338	ina
+61342	ma
+ina
+61345	eš
+61348	giš
+61355	ina
+61357	ina
+61359	tuš
+61361	bat
+ina
+61372	šu
+61383	ina
+61385	ina
+61387	tuš
+61389	bat
+ina
+61400	šu
+61402	giš
+61408	ina
+61412	šu
+61415	u
+61422	ina
+61426	šu
+61429	giš
+61434	ina
+61438	šu
+61442	a
+61444	bu
+61446	ka
+61448	ti
+ta
+61451	sak
+ina
+61456	šu
+61458	u
+61467	ta
+61469	sak
+ina
+61474	u
+61478	šu
+61483	šu
+61487	šu
+61489	u
+61494	šu
+61496	ah
+61498	ha
+61502	zu
+61515	ta
+ša
+61518	ta
+61520	sak
+ina
+61524	ah
+61526	ha
+61528	zu
+ša
+61532	šu
+61537	am
+61540	ah
+61542	ha
+61544	za
+61546	šim
+61549	ina
+61552	šim
+61567	ina
+61569	u
+61573	ma
+ina
+61576	eš
+šim
+61582	ina
+61585	u
+ha
+61588	še
+61590	e
+61592	ina
+61604	ina
+61607	šim
+61610	ina
+61615	ah
+61617	ha
+61619	za
+61622	giš
+šu
+61625	še
+ta
+61628	sak
+ina
+61631	tara
+61633	muk
+ina
+61636	tuš
+61638	bat
+61642	ah
+61644	ha
+61646	za
+61648	u
+ṣu
+61651	ṣe
+61653	em
+61655	ta
+u
+a
+61659	nu
+61661	nu
+61663	ta
+ina
+qut
+61667	ri
+61669	ni
+tu
+61672	qat
+61674	tar
+61676	šu
+u
+61688	su
+61690	ma
+ina
+61694	eš
+61696	ru
+61698	ša
+61700	am
+ša
+si
+61704	ip
+61706	pi
+61708	ki
+61710	lal
+61712	le
+61714	en
+61717	qe
+ana
+61724	di
+ta
+61727	ap
+61729	ta
+61731	na
+61734	ša
+61736	aš
+61738	gi
+61740	ir
+61742	ra
+61744	uṣ
+61746	ṣa
+61748	a
+61750	am
+uš
+61753	te
+61755	eš
+61757	še
+61759	er
+ti
+61762	tur
+61764	ra
+na
+61767	di
+61769	a
+61771	am
+i
+61780	ah
+61782	ha
+61784	za
+61787	su
+61789	giš
+61794	ša
+61796	im
+61802	qe
+ina
+61806	u
+61816	u
+61825	ina
+61827	šim
+61833	ina
+61836	u
+61839	lim
+u
+61844	ina
+61847	u
+61863	šim
+61865	šim
+61870	ina
+61874	pa
+61876	tan
+61902	niš
+ina
+61905	tara
+61908	tu
+61910	zak
+61912	ka
+61930	ina
+61932	tara
+61935	tu
+61937	zak
+61939	ka
+61941	hal
+61943	ṣa
+ana
+61948	di
+61950	pa
+61953	tan
+61959	im
+61964	ina
+61966	u
+61970	giš
+bi
+61973	ni
+ina
+61978	giš
+bi
+61981	ni
+61989	giš
+bi
+61992	ni
+61994	ina
+61996	u
+62000	giš
+šu
+62003	ši
+ina
+62006	u
+62009	u
+62014	ina
+62024	giš
+šu
+62027	ši
+62029	giš
+62035	ana
+62038	ina
+62042	er
+62045	a
+ta
+62048	ša
+62050	hal
+62054	pa
+62056	tan
+62063	ah
+62065	ha
+62067	zu
+ana
+62073	šu
+62076	a
+62078	ma
+62083	šu
+62090	ud
+62092	du
+62094	ha
+62099	šu
+na
+62102	šu
+62104	u
+62106	u
+62108	u
+62110	tar
+62112	ra
+62115	u
+62117	za
+62119	bal
+62121	ma
+62129	ah
+62131	ha
+62133	zu
+62139	su
+pa
+62142	nu
+62144	šu
+62147	šu
+ka
+62150	la
+62152	šu
+u
+62158	šu
+62161	ana
+62163	šu
+62165	a
+62167	tu
+lu
+62174	su
+62176	ub
+62178	bal
+62193	id
+62199	ina
+lam
+62203	šu
+ana
+62208	ru
+62210	uš
+62212	ša
+ša
+sip
+62217	pi
+62225	m
+62240	ki
+ša
+d
+62244	u
+d
+taš
+62248	me
+62250	tu
+62254	ra
+62256	pa
+62258	aš
+62260	tu
+iš
+62263	ru
+62266	ku
+62268	uš
+62270	e
+62272	hu
+62274	uz
+62276	zu
+62280	na
+62282	mir
+62284	tu
+ni
+62287	siq
+ṭup
+62290	šar
+62292	ru
+62295	ti
+62297	ša
+ina
+62303	ni
+a
+62306	lik
+mah
+62309	ri
+62311	ia
+mam
+62314	ma
+šip
+62317	ru
+šu
+62320	a
+62322	tu
+la
+e
+62326	hu
+62328	uz
+62330	zu
+62333	bul
+62335	ṭi
+62337	muh
+62339	hi
+62342	liq
+62344	ti
+62348	ta
+62350	hi
+62352	zu
+62354	nak
+62356	la
+62358	a
+62360	zu
+62362	gal
+62364	lu
+62366	ti
+d
+nin
+62370	urta
+u
+d
+gu
+62375	la
+ma
+62378	la
+ba
+62381	aš
+62383	mu
+62386	ina
+ṭup
+62389	pa
+62391	a
+62393	ni
+aš
+62396	ṭur
+as
+62399	niq
+62404	ma
+62407	a
+62409	na
+ta
+62412	mar
+62414	ti
+ši
+62417	ta
+62419	as
+62421	si
+62423	ia
+qe
+62426	reb
+62431	ia
+u
+62434	kin
+62444	su
+62447	ma
+62453	kal
+62456	ma
+62458	tu
+ul
+i
+62462	sa
+62464	niq
+62467	šu
+62481	ana
+62484	ša
+62488	u
+62495	šu
+62497	ma
+62503	šu
+62515	ina
+62519	e
+62521	re
+62523	ni
+62539	su
+kal
+62542	ma
+62545	ta
+ma
+62548	tu
+62550	uq
+62552	ta
+ma
+62555	li
+u
+mu
+62559	ur
+62561	ru
+62577	za
+62579	ku
+62581	ti
+62583	šu
+i
+62586	na
+62588	pa
+62590	ah
+62592	ma
+62604	la
+ba
+62607	ši
+62609	i
+giš
+62613	ina
+62619	kal
+62621	ma
+62623	tu
+ul
+ib
+62627	ba
+62629	aš
+62631	ši
+62640	su
+ek
+62643	ke
+62645	ta
+u
+ri
+62649	šu
+62651	ta
+62655	d
+62658	ina
+62662	e
+62664	re
+62666	ni
+62674	su
+62680	d
+62682	ta
+62684	qal
+62686	lu
+ina
+62695	su
+tu
+62698	kaṣ
+62700	ṣa
+id
+62703	ra
+ša
+62706	ta
+62708	qal
+62710	lu
+ina
+62717	su
+tu
+62720	kaṣ
+62722	ṣa
+62731	su
+sa
+62734	ma
+62736	nu
+62739	it
+i
+62742	raš
+62744	ši
+62746	šum
+62748	ma
+i
+62751	na
+62753	sah
+i
+62756	na
+62758	ah
+62761	nu
+62764	bi
+62766	u
+62780	di
+62782	ki
+giš
+62795	mušen
+62798	ša
+giš
+62809	ti
+62811	u
+62816	ina
+62819	sar
+62822	ti
+62825	aš
+62830	su
+62833	ab
+tu
+62836	kaṣ
+62838	ṣa
+62840	ša
+62847	i
+62854	su
+sa
+62857	ma
+62859	nu
+62862	it
+62865	ša
+na
+pu
+62869	li
+ša
+62883	su
+62886	ma
+ina
+62889	giš
+ar
+62892	ga
+62894	ni
+62897	bi
+62899	u
+62910	ša
+62912	maš
+62914	hal
+62916	ti
+62932	mušen
+ha
+62935	ṣab
+62937	ti
+na
+62941	u
+62952	niš
+62958	su
+62960	ina
+62966	giš
+62976	an
+62978	nu
+62980	ti
+ana
+62986	su
+62988	ma
+62999	su
+63003	šum
+63006	it
+a
+63009	la
+63011	pa
+63013	a
+ša
+63020	a
+63022	sur
+63024	re
+63026	e
+ša
+63051	giš
+63056	giš
+63058	ša
+ina
+pi
+63062	ti
+63064	iq
+63066	ti
+63068	šu
+i
+63071	ra
+63073	bu
+63075	u
+bar
+63078	ša
+63092	giš
+sir
+63095	di
+63097	giš
+bi
+63100	ni
+63102	giš
+63125	su
+63127	ma
+63137	su
+63144	it
+a
+63147	la
+63149	pa
+63151	a
+ša
+63179	šim
+63183	šim
+63185	u
+63201	ni
+63203	kip
+63205	ta
+63208	nis
+63216	a
+63219	šu
+63221	u
+63224	a
+63226	hi
+63228	iz
+63241	su
+a
+63244	šu
+63247	u
+63250	it
+63258	šim
+63262	šim
+63287	su
+a
+63290	šu
+63293	u
+63296	it
+63304	na
+63317	ana
+63321	šu
+u
+na
+63326	hi
+63328	ri
+63331	šu
+63343	su
+a
+63347	šu
+63349	u
+63352	it
+šim
+63368	lu
+63370	u
+ina
+63377	šu
+63393	šu
+63396	it
+63409	ba
+63411	lu
+pa
+63414	tan
+63417	šu
+63419	ma
+63425	a
+63427	šu
+63430	u
+63432	lu
+63435	tu
+63438	su
+63441	sah
+63443	le
+63445	e
+kab
+63449	ra
+63451	ti
+63468	u
+63470	nu
+63472	ut
+63477	šu
+63479	nu
+ta
+63482	tab
+63484	bal
+tu
+63487	ša
+63489	bal
+ina
+63493	ka
+ta
+63496	pa
+63498	ša
+63500	aš
+63519	a
+63521	šu
+63523	u
+63525	lu
+63529	tu
+63532	su
+63535	u
+63542	sar
+63547	dug
+63549	ta
+63551	pal
+63553	la
+63556	aš
+63566	dug
+63568	ina
+63583	hi
+63585	ta
+63587	šar
+63589	rap
+gi
+63595	ta
+63597	pal
+63600	la
+63602	aš
+63604	ma
+ina
+63608	at
+dug
+63613	ta
+63615	sa
+63617	niš
+63625	gi
+63631	a
+ina
+63635	šu
+63638	ad
+63647	al
+63651	u
+63660	ma
+ina
+63663	eš
+63667	a
+63669	šu
+63671	u
+63675	it
+im
+63679	ina
+63688	ma
+63691	uṭ
+63695	a
+63697	šu
+63699	u
+63703	it
+63706	et
+u
+63710	et
+63714	ina
+63717	tu
+63719	qat
+63722	tar
+ha
+63725	an
+63727	za
+63729	a
+ša
+63738	qe
+63747	an
+ina
+63751	šu
+u
+63754	la
+63756	ʾa
+63758	at
+63761	ma
+ana
+63764	na
+63766	hi
+63768	ri
+63770	šu
+in
+63773	niq
+63775	ma
+63779	uṭ
+63788	tur
+63790	ar
+63792	ina
+63796	u
+63804	ma
+63808	uṭ
+63818	su
+63820	a
+63822	šu
+63824	u
+63826	a
+63828	hi
+63830	iz
+eriš
+63833	ti
+63835	sar
+63837	u
+63839	ina
+63846	me
+šu
+63854	uṭ
+63865	id
+sah
+63868	le
+63870	e
+63873	ti
+ana
+63884	an
+63886	ma
+63890	uṭ
+63899	tu
+63901	zak
+ina
+63904	tuš
+63906	bat
+ba
+63909	lu
+pa
+63912	tan
+63915	šu
+63923	šur
+63926	šum
+63928	me
+63931	tu
+63934	zak
+63942	iš
+63944	tu
+e
+63947	liš
+ana
+šap
+63951	liš
+tu
+63954	maš
+63956	šad
+63966	ma
+63975	ina
+63977	ta
+63979	sak
+63984	su
+63987	u
+63990	ina
+63996	ina
+63998	urudu
+64005	šal
+64011	ma
+64016	a
+64018	šu
+64020	u
+64024	it
+64026	šim
+64028	šim
+64030	ina
+64034	šu
+ana
+na
+64038	hi
+64040	ri
+64043	šu
+64045	in
+64047	niq
+64051	ma
+64057	šim
+64061	šim
+64063	u
+64071	ina
+64074	na
+64076	hi
+64078	ri
+64080	šu
+tu
+64083	qat
+64085	tar
+64099	ma
+64104	a
+64106	šu
+64108	u
+64112	su
+u
+64116	lim
+u
+64123	sar
+64125	u
+64135	ina
+64140	su
+ina
+64146	šu
+64150	qar
+64152	ra
+64154	di
+64156	ia
+qar
+64159	ra
+64161	di
+64163	ia
+64167	qar
+64169	ra
+64171	di
+64173	ia
+64175	za
+64177	ah
+za
+64180	ah
+u
+qar
+64185	ra
+64187	di
+64189	ia
+64192	ma
+64194	hu
+64196	ul
+64199	qi
+hu
+64202	ul
+64204	qi
+ha
+64207	al
+64209	ti
+64211	ib
+ha
+64214	al
+64216	ti
+64218	ib
+ia
+64221	nu
+64223	um
+64225	ma
+te
+64228	ne
+64230	eš
+64232	ma
+64234	mar
+64240	di
+64242	hu
+64245	un
+di
+64248	hu
+64250	un
+du
+64253	li
+rap
+64256	šu
+64258	ma
+64261	šu
+64263	i
+64265	na
+64267	a
+64269	aš
+ma
+64272	ʾ
+64274	du
+64276	ma
+la
+64288	a
+64290	su
+64292	u
+ša
+a
+64296	me
+64298	lu
+64300	ti
+64330	sar
+šim
+64336	a
+64338	ši
+64340	i
+ina
+64345	šu
+64347	an
+64349	ni
+64351	ta
+64354	šu
+64358	nu
+64360	ma
+64367	edin
+lal
+edin
+64371	na
+edin
+lal
+edin
+64376	na
+edin
+ki
+gir
+si
+64382	ga
+edin
+ki
+gir
+64387	si
+64389	ga
+64394	mul
+64396	ra
+ku
+64399	u
+ma
+64402	an
+64404	du
+gi
+64407	ki
+na
+mul
+64411	mul
+64413	da
+64415	ta
+64442	u
+64446	ta
+64448	pa
+64450	aṣ
+64452	ina
+64463	šu
+64466	nu
+64472	ma
+64476	a
+64478	ši
+64480	i
+64483	si
+64486	u
+kam
+64490	ka
+64492	di
+64494	ina
+64501	u
+ka
+64504	man
+64506	ta
+64510	ina
+64518	ina
+64526	u
+ha
+64530	šu
+64532	u
+u
+64537	sah
+64539	le
+64541	e
+u
+zi
+64545	bu
+64547	u
+64552	šim
+64564	ta
+64566	sak
+ina
+64571	u
+64579	ma
+64586	a
+64588	šu
+64590	u
+64594	su
+ana
+64598	šu
+64603	mušen
+64605	eme
+64607	sal
+64609	lim
+u
+64631	su
+64634	si
+64637	ma
+ta
+64640	bi
+64642	lam
+ana
+64648	šu
+64650	sig
+64664	iš
+64667	ka
+gi
+64670	im
+64672	ma
+64678	šu
+64680	uh
+64682	di
+64684	am
+64720	as
+64722	su
+u
+64731	šu
+64759	nu
+ana
+na
+64763	hi
+64765	ri
+64768	šu
+64784	ba
+64787	ah
+64789	ra
+64791	ba
+64793	ah
+64795	ra
+64799	ma
+64819	u
+64829	ina
+64840	it
+64842	ta
+64844	mu
+64846	uh
+64855	a
+64857	ša
+64859	a
+64869	u
+64871	aš
+64873	lim
+ina
+64878	šu
+64880	ma
+64895	giš
+64897	hur
+64900	hur
+u
+64903	pa
+64905	ak
+u
+64908	pa
+64910	ak
+64925	giš
+64941	ana
+64944	šu
+ta
+64947	šap
+64949	pak
+64952	ma
+64954	ina
+64957	eš
+64971	u
+64973	u
+tar
+64976	muš
+u
+64980	lim
+u
+64985	ina
+65003	an
+ina
+še
+65007	ri
+65012	su
+65015	si
+65020	ma
+ina
+65024	eš
+65042	sar
+65045	ti
+ina
+65050	e
+65052	re
+65054	ni
+65069	am
+ana
+65075	šu
+65088	tu
+65090	kaṣ
+65092	ṣa
+ina
+65097	e
+65099	re
+65101	ni
+65104	ina
+65120	in
+65125	su
+65128	si
+65134	ina
+65138	e
+65140	re
+65142	ni
+65151	ana
+65155	di
+65157	ib
+65159	taš
+65161	lu
+65166	su
+65170	ku
+65172	lil
+65174	ta
+65191	ina
+65202	ma
+65207	a
+65227	su
+tu
+65230	kaṣ
+65232	ṣa
+65234	ma
+65259	šu
+65261	ma
+65264	ina
+še
+65267	ri
+ina
+65272	ti
+65277	su
+65281	si
+65288	e
+65290	re
+65292	ni
+65302	tur
+65304	ar
+65316	ru
+65321	ma
+65333	e
+65335	re
+65337	ni
+65340	am
+ana
+65346	šu
+65359	giš
+65365	ina
+65369	e
+65371	re
+65373	ni
+65386	d
+65389	ina
+65391	li
+65393	ši
+65405	d
+65407	ina
+65411	i
+65425	u
+65430	ina
+65438	u
+ak
+65441	tam
+65443	ina
+65456	u
+65461	ina
+65473	u
+65475	ina
+65485	aṣ
+65490	su
+65492	giš
+65496	tur
+65498	ar
+65504	su
+65507	ab
+65513	su
+65531	tur
+65533	ar
+65539	su
+65542	ab
+65559	ina
+65563	e
+65565	re
+65567	ni
+65575	ma
+65579	a
+65593	su
+65605	u
+65610	ina
+65613	sar
+65616	aš
+65618	u
+ak
+65621	tam
+65630	ina
+65634	ti
+65639	su
+65642	si
+65647	gu
+65649	raš
+65651	tu
+65653	u
+65655	u
+65662	niš
+65664	ina
+65674	ma
+65680	a
+65685	u
+ak
+65688	tam
+u
+65694	ina
+65702	su
+65705	si
+65707	giš
+65715	ta
+65717	qal
+65719	lu
+65722	en
+65736	ud
+65744	sa
+65746	ma
+65748	na
+ša
+65753	ta
+65755	kar
+65757	ma
+65763	ud
+ina
+65768	i
+65770	u
+65774	ma
+ina
+65777	eš
+65780	u
+65782	u
+ak
+65785	tam
+65788	gu
+65791	raš
+65793	ti
+65800	su
+ina
+65806	u
+65809	lim
+u
+65813	giš
+65818	giš
+bi
+65821	ni
+65830	ina
+65836	su
+65838	ina
+65852	su
+65854	u
+65856	u
+u
+65859	ra
+65861	na
+65863	ina
+65874	ina
+65878	i
+65887	i
+65889	šal
+65892	lim
+65909	u
+65928	ana
+65930	ku
+65932	ra
+65934	ri
+65937	hi
+hu
+65940	bu
+65942	uš
+65944	ina
+šur
+65947	šum
+65950	me
+65956	u
+65961	ina
+65963	ta
+65965	kar
+65985	u
+ak
+65988	tam
+u
+ṣa
+65992	lam
+65994	ta
+65997	niš
+66008	su
+ku
+66011	ra
+66013	ra
+66016	it
+66018	d
+nisaba
+66021	ta
+66023	kar
+66037	laq
+66039	laq
+66041	ta
+66043	šu
+ta
+66046	tab
+66048	bal
+ina
+66053	si
+66057	giš
+66061	ina
+66068	šu
+66083	giš
+66088	giš
+e
+66091	lam
+66093	ma
+66095	ku
+66099	giš
+kal
+66102	mar
+66104	hi
+66106	d
+66108	nisaba
+66117	ina
+šer
+66120	ti
+66124	ab
+šim
+66129	giš
+66131	tur
+66133	ar
+66135	ana
+66139	ina
+66142	sar
+66145	si
+66149	giš
+66154	giš
+e
+66157	lam
+66159	ma
+66161	ku
+66165	giš
+kal
+66168	mar
+66171	hi
+66181	su
+tu
+66184	gal
+66186	lab
+66191	ina
+66197	šu
+66204	giš
+ku
+66207	ma
+66209	hi
+66218	u
+tar
+66221	muš
+66223	u
+qut
+66226	ra
+66228	te
+66235	niš
+66237	ina
+66246	su
+te
+66249	sir
+ina
+66254	si
+ina
+66258	sar
+66264	giš
+66271	giš
+66278	u
+66283	u
+66287	giš
+66301	u
+66309	u
+sag
+66312	gi
+66314	la
+66316	ta
+66318	u
+66327	e
+u
+66346	ina
+66349	sar
+66352	aš
+66355	ma
+66361	ina
+66379	u
+66381	me
+66384	ina
+66386	u
+66388	me
+ina
+66392	ka
+ina
+66397	me
+66400	si
+66422	ina
+66438	d
+66440	u
+66452	im
+66464	su
+ku
+66467	ra
+66469	ra
+66474	u
+66478	sah
+66480	le
+66482	e
+u
+u
+66487	ra
+66489	nu
+66497	e
+66499	re
+66501	ni
+66511	ku
+66513	ra
+66516	ra
+66550	ina
+ša
+66553	ni
+66555	i
+66565	ana
+66570	d
+nisaba
+ana
+66580	sa
+66582	ma
+66584	na
+te
+66587	sir
+66592	ina
+66618	sar
+66622	sar
+66633	su
+66647	ba
+66649	aš
+66651	la
+66672	ka
+u
+66675	kal
+66684	giš
+66710	šim
+66714	ina
+66727	su
+tu
+66730	kaṣ
+66732	ṣa
+66751	su
+66754	si
+66762	di
+66765	ab
+66767	ku
+66769	ra
+66771	ri
+66786	tu
+66788	ba
+66790	har
+ina
+66794	u
+66798	e
+66800	re
+66802	ni
+66811	tur
+66813	ar
+66829	a
+66852	e
+66854	re
+66856	ni
+66862	u
+66866	u
+66869	a
+66871	ma
+66873	ni
+ina
+66877	u
+66887	su
+66889	ub
+hi
+66892	im
+su
+66895	ub
+hi
+66898	im
+a
+na
+66905	la
+66907	ni
+hu
+66910	bi
+la
+66913	a
+66915	ni
+hu
+66918	bi
+la
+66921	ni
+66930	šim
+er
+66933	ra
+66935	ku
+66937	ra
+66939	ri
+66943	sa
+66945	ma
+66947	na
+ša
+66952	ta
+66955	kar
+66958	ina
+66973	ki
+66975	ni
+66977	ip
+ki
+66980	ni
+66982	ip
+ba
+ah
+66995	ina
+an
+66998	ṣa
+67000	ab
+67002	ti
+67009	ta
+67011	kaṣ
+67021	sar
+u
+ṣa
+67025	lam
+67027	ta
+u
+67037	ma
+67040	mit
+67042	šar
+67044	ra
+67046	qi
+ina
+67049	pil
+67051	ši
+un
+67058	a
+67061	šar
+tab
+67064	ba
+67066	ni
+67068	i
+d
+e
+67072	a
+lip
+67075	šur
+67083	at
+67085	he
+67087	ma
+at
+67090	he
+67092	e
+he
+67095	le
+67097	e
+67099	ma
+at
+67102	he
+67104	le
+67115	na
+67117	gap
+67119	pa
+ša
+67126	ta
+67128	kar
+qut
+67131	ra
+67151	hi
+67157	hur
+67159	ri
+67162	im
+su
+67165	ub
+hur
+67168	ri
+67170	im
+a
+67173	la
+šu
+67176	uh
+67178	ta
+67190	a
+67193	pi
+67195	il
+67197	lat
+aš
+kur
+67201	ba
+67203	an
+67205	ni
+id
+67208	ki
+67210	ia
+ul
+67234	gi
+ha
+ba
+67251	hi
+67262	hu
+67264	bu
+67267	uš
+67272	ina
+67274	tur
+67276	ar
+67279	a
+67281	la
+67283	pa
+67285	a
+ina
+67298	tur
+67301	ar
+67305	ta
+67307	ʾa
+67309	a
+ša
+67332	ina
+67334	tur
+67336	ar
+67340	u
+67343	lim
+67358	ta
+67360	kar
+ina
+an
+67364	ṣa
+67366	ab
+67368	ti
+67374	ta
+67376	kaṣ
+67403	si
+67406	ki
+67408	tu
+67414	su
+67423	ina
+67433	su
+67439	a
+67445	si
+67463	šu
+67466	gud
+67487	šu
+67489	u
+67495	ina
+67498	u
+67504	ina
+67508	u
+šiz
+67511	ba
+67513	na
+67515	ina
+67521	sah
+67524	le
+67526	e
+67548	giš
+67562	šim
+67568	šim
+67592	u
+67597	u
+67603	u
+ur
+67606	ne
+67608	e
+67610	ina
+67614	ina
+urudu
+67621	tara
+67623	bak
+ina
+67626	te
+67628	ṭer
+67630	ri
+67632	u
+67638	id
+ana
+67645	sah
+67647	le
+67649	e
+67655	mušen
+67667	šim
+67672	šim
+67679	ma
+67681	la
+na
+67684	aṣ
+67686	ma
+67688	ti
+tu
+67691	šam
+67693	ṣa
+ina
+67700	aš
+67703	id
+ana
+67712	giš
+67717	ina
+67720	sar
+67723	šal
+tu
+67726	kaṣ
+67728	ṣa
+67731	id
+67733	ana
+67754	ina
+67757	sar
+67760	aš
+šim
+67765	šim
+67767	ana
+67769	ta
+67771	za
+67773	ru
+67775	u
+67781	ana
+67809	šim
+67816	šim
+67822	ina
+67825	sar
+ta
+67828	la
+67830	aš
+67833	id
+67840	šu
+67843	u
+er
+67846	re
+67848	e
+67854	ina
+67859	u
+67861	hal
+67863	ṣi
+67868	aṣ
+ba
+67871	lu
+pa
+67874	tan
+67877	šu
+ina
+67881	šu
+67886	ma
+67892	šu
+67894	šim
+su
+67897	a
+67899	di
+tu
+67902	ha
+67904	sa
+ina
+67908	tu
+67910	la
+67912	bak
+67914	pa
+67916	tan
+67922	šu
+67925	ma
+67938	ina
+67946	sah
+67948	le
+67950	e
+67969	ina
+67977	aš
+ina
+67982	u
+67991	šu
+67993	u
+67996	lim
+67998	ina
+68002	tara
+68004	muk
+ina
+68007	tuš
+68009	bat
+68011	pa
+68013	tan
+68016	giš
+68021	ina
+68028	ina
+68031	sar
+tara
+68034	bak
+ina
+68043	u
+68048	ana
+68054	sar
+pu
+68057	ut
+68059	ta
+68061	ta
+68063	sak
+ina
+68083	ina
+68087	aš
+ina
+68096	šu
+68099	ma
+68107	šu
+68112	šu
+68132	ina
+68143	ku
+68145	pa
+68147	tin
+68149	ni
+68154	u
+68156	al
+68158	lat
+68169	giš
+si
+68172	ha
+68174	ina
+68195	ṭe
+68197	ne
+68199	ti
+ina
+68208	aš
+68216	šu
+68219	ma
+di
+68222	ik
+68224	ša
+68227	ši
+68233	ana
+68236	šu
+68240	ak
+ru
+68243	pu
+68245	uš
+68247	ta
+ina
+68255	u
+68263	ina
+68269	ina
+68273	tara
+68275	bak
+ana
+68280	šu
+68283	ak
+68287	šim
+68296	ina
+urudu
+68302	tara
+68304	bak
+ina
+68310	ana
+68316	ina
+68321	i
+68323	ar
+68325	ru
+68334	u
+68339	u
+68345	ina
+68351	tara
+68353	has
+68355	su
+68358	sar
+68369	giš
+šu
+68372	še
+68374	šim
+68380	giš
+68384	šim
+68386	šim
+68396	ina
+68399	te
+68401	ṭer
+68403	ri
+68406	ana
+68410	u
+68415	ina
+68420	ina
+68429	ina
+68435	giš
+68442	sar
+ana
+68446	šu
+68449	ak
+68457	u
+68462	u
+68465	u
+68480	ana
+68484	u
+68490	u
+ti
+68493	ia
+68495	ta
+68497	ina
+68503	ina
+68507	tara
+68509	bak
+ana
+68513	šu
+68517	ak
+68521	u
+68526	giš
+68529	giš
+68531	ina
+68537	tara
+68539	has
+68541	su
+68543	giš
+68550	sar
+68552	ana
+68556	šu
+68559	ak
+šim
+68563	šim
+68570	ina
+urudu
+68575	tara
+68577	bak
+ina
+68580	te
+68582	ṭer
+68584	ri
+68593	šu
+68596	ma
+68616	ana
+68626	u
+68638	ana
+68641	šu
+68645	ak
+šim
+68648	šim
+68652	šim
+68657	šim
+68665	ina
+68673	ina
+68678	ana
+68681	šim
+68686	ina
+68690	ma
+i
+68693	ar
+68695	ru
+68697	giš
+68702	ina
+68706	ma
+i
+68709	ar
+68711	ru
+68721	ina
+68723	giš
+68727	tara
+68729	has
+68731	su
+68742	am
+ana
+68746	šu
+68749	ak
+68751	giš
+šu
+68754	še
+68768	u
+68771	u
+68776	šim
+68784	ina
+68791	ma
+68799	ina
+68804	ina
+68810	ana
+68814	u
+68818	ina
+68822	ma
+i
+68825	ar
+68827	ru
+68830	ina
+68836	ma
+i
+68839	ar
+68841	ru
+u
+68852	u
+68857	šim
+68860	sar
+ina
+68866	tara
+68868	has
+68870	su
+šim
+68875	ta
+68877	sak
+68887	am
+68891	ana
+68893	tu
+68895	na
+68897	tak
+ana
+68901	šu
+68904	ak
+68906	giš
+68909	giš
+68914	giš
+68919	giš
+68926	giš
+šim
+68929	šim
+68934	ina
+68941	ma
+68946	ina
+68953	ina
+68955	te
+68957	ṭer
+68959	ri
+68967	šu
+68970	ma
+mim
+68973	ma
+68975	u
+68979	u
+68983	u
+68987	u
+68994	u
+68996	ur
+68998	ne
+69000	e
+u
+tar
+69004	muš
+u
+69008	lim
+u
+eli
+69012	kul
+69014	la
+u
+69017	u
+im
+69020	hur
+69024	giš
+69031	u
+69035	u
+69040	ina
+69043	ina
+69046	šu
+69050	ina
+69052	ina
+69055	sar
+69073	kab
+69075	ra
+ša
+69086	ina
+69091	pa
+69093	tan
+69096	šu
+69100	bat
+69106	šu
+u
+69109	sak
+69111	ka
+69119	ina
+69126	ta
+69128	kan
+69130	nak
+69132	ma
+69142	i
+69144	ar
+69146	ru
+69158	ina
+69168	giš
+69177	ina
+69186	ina
+69190	u
+69200	ad
+69213	aš
+69221	šu
+69223	ma
+69230	ma
+69237	uṭ
+69277	u
+69282	ina
+69288	giš
+69295	a
+ša
+im
+69301	ina
+69306	sar
+69309	su
+hi
+69312	bi
+69314	iš
+hi
+69317	bi
+69319	iš
+u
+69322	al
+69324	lat
+69330	u
+a
+69333	zu
+69335	ki
+69337	ra
+69339	ni
+69356	sar
+69379	ana
+69383	ma
+69385	pa
+69387	tan
+69397	u
+69412	ana
+69416	ma
+69420	šim
+69423	ina
+69432	ma
+69437	u
+69441	ina
+69443	giš
+69451	ina
+69454	šu
+69458	ak
+69460	ma
+69464	ša
+69466	ru
+69468	ra
+ša
+u
+69478	ana
+69485	u
+69489	i
+69497	mušen
+69502	u
+69504	al
+69506	lat
+69514	u
+69517	ina
+69535	šu
+69539	it
+69541	ta
+69543	ne
+69545	bi
+69547	ṭu
+69550	šu
+ana
+par
+69554	re
+69556	e
+e
+69559	ta
+69561	ne
+69563	pa
+69565	aš
+ana
+69569	šu
+69571	sar
+u
+69580	ina
+69585	pa
+69587	tan
+69592	ana
+69595	u
+69599	su
+69609	pa
+69611	tan
+u
+69614	na
+69616	ṣab
+69631	šu
+69635	it
+69637	te
+69639	ne
+69641	bi
+69643	ṭu
+69645	ina
+69648	šu
+69651	ur
+i
+69654	le
+69656	bu
+69660	u
+69664	ana
+69667	šu
+69671	an
+69673	u
+69675	sar
+u
+zi
+69679	ba
+69681	a
+69683	ina
+69691	me
+69702	ana
+69705	šu
+69708	ak
+69718	šu
+69723	hu
+it
+69726	te
+69728	ne
+69730	bi
+69732	ṭu
+69734	pa
+69736	tan
+69739	bah
+69741	ra
+69744	šu
+i
+69747	ar
+69749	ru
+69759	šal
+u
+69769	ana
+69773	u
+69775	hal
+69777	ṣa
+69779	ana
+69782	šu
+69785	ak
+69795	šu
+it
+69798	te
+69800	nen
+69802	bi
+69804	ṭu
+69806	pa
+69808	tan
+69810	ina
+dug
+69826	u
+69831	eme
+69834	sal
+69836	li
+69838	ana
+69844	ana
+69846	tu
+69848	na
+69850	tak
+ana
+69853	na
+69855	aš
+69857	pak
+69859	ti
+69862	ak
+69866	ina
+69872	ka
+69874	ka
+69877	lu
+69879	šu
+69882	su
+69893	šu
+it
+69896	te
+69898	ne
+69900	bi
+69902	ṭu
+69909	ana
+69912	šu
+69915	an
+69917	sar
+69919	u
+69921	u
+69923	al
+69926	lat
+69929	sar
+u
+69935	ina
+69943	i
+69947	ana
+69950	šu
+69953	u
+a
+69956	zu
+69958	ki
+69960	ra
+69962	a
+69964	ni
+69971	ma
+69976	gan
+69978	ha
+69984	giš
+70000	šu
+70003	bat
+70009	šim
+70012	ina
+70017	u
+70021	sar
+70025	ina
+70028	u
+70032	sar
+70034	ina
+70040	u
+70042	al
+70045	lat
+70052	šu
+70060	šu
+70067	hu
+70071	šim
+70073	ina
+šur
+70076	šum
+70078	me
+70080	ta
+70082	rab
+70085	bak
+70087	ina
+70092	id
+ana
+70095	na
+70097	aṣ
+70100	ma
+70102	ti
+70104	sar
+70108	ta
+70110	za
+70112	ru
+70114	u
+70143	šim
+70145	šim
+70149	u
+70153	ana
+70166	lu
+ba
+70169	hir
+70172	šu
+ina
+70176	tu
+70178	šap
+70180	ra
+70182	šu
+70184	ma
+70192	šu
+ma
+70195	gal
+nap
+70198	hu
+70205	ina
+70208	šu
+70213	ra
+70218	su
+70221	su
+70224	id
+ra
+70227	bi
+70229	ik
+70235	šal
+ina
+70243	u
+70253	sar
+70257	sar
+70261	sar
+sah
+70264	le
+70266	e
+u
+ur
+70272	ne
+70274	e
+70278	me
+70285	ma
+70293	šu
+nap
+70296	hu
+70306	su
+70308	u
+70316	ši
+ana
+70320	šu
+u
+70324	lim
+u
+70330	giš
+70336	a
+70338	he
+70340	nu
+70342	u
+70344	ina
+70348	šu
+i
+70351	par
+70353	ru
+70355	ma
+70357	an
+70359	ne
+70361	e
+70363	hal
+70365	ṣa
+u
+70370	šu
+70375	sar
+u
+70384	šal
+ana
+70388	šu
+70391	ak
+70393	ma
+šim
+70398	šim
+70400	šim
+70405	giš
+70410	giš
+70415	giš
+70422	u
+ur
+70425	ba
+70427	ti
+70447	u
+šim
+70450	tu
+70452	sa
+70454	mah
+ina
+70462	su
+70464	ma
+70472	šu
+nap
+70475	hu
+gu
+70478	ha
+u
+70485	ši
+70487	u
+70490	ana
+70493	šu
+u
+70498	sah
+70500	le
+70502	e
+70505	niš
+70507	ina
+70511	šu
+u
+ur
+70515	ne
+70517	e
+ina
+70521	sar
+70524	šal
+ta
+70527	ša
+70529	hal
+70531	lu
+ba
+70534	hir
+ana
+70538	šu
+70547	šu
+nap
+70550	hu
+70554	šu
+ru
+70557	pu
+70559	ul
+70561	ta
+70566	ši
+ana
+70570	šu
+70573	mušen
+u
+tu
+70577	lal
+70584	giš
+šu
+70587	še
+ina
+70593	u
+70596	sar
+tu
+70599	ka
+70601	an
+70604	hal
+70606	ṣa
+70610	u
+70614	ana
+70618	di
+70621	ina
+70623	tuš
+70625	bat
+ina
+še
+70629	ri
+ta
+70632	ša
+70634	hal
+70636	pa
+70638	tan
+70641	ma
+70649	šu
+70651	nap
+70654	hu
+70664	u
+70667	d
+70669	di
+70671	ik
+70673	ta
+ša
+70684	pa
+70687	tan
+70702	šu
+tu
+70705	sa
+70707	lah
+70709	ma
+70717	šu
+70719	e
+70722	me
+70724	er
+70728	giš
+70736	ina
+70738	u
+70744	ana
+70748	giš
+70758	giš
+70768	ana
+70772	šim
+70777	ina
+70781	ana
+70788	munus
+70792	ina
+70796	šu
+70800	an
+70803	ana
+70806	giš
+70814	giš
+70825	ina
+70835	šu
+70838	ṣe
+70840	en
+70847	lu
+70850	i
+70852	lik
+70854	ma
+70866	tu
+70868	uš
+70870	ṣe
+70872	en
+70874	šu
+i
+70877	ši
+70879	hi
+70881	iq
+70883	ma
+70893	šu
+70895	em
+70898	ru
+70902	giš
+šu
+70905	nim
+70909	ana
+70913	ina
+70915	tuš
+70917	bat
+ina
+še
+70921	ri
+70923	pa
+70925	tan
+70930	ma
+70936	šu
+em
+70940	ru
+70946	hu
+70949	šu
+iš
+70952	ta
+70954	na
+70956	si
+70958	u
+70962	giš
+70967	šim
+70969	ina
+70972	šu
+i
+70975	na
+70977	ʾ
+70979	is
+70983	i
+ina
+70990	šim
+70992	ina
+70999	ana
+71002	šu
+71005	ak
+71007	giš
+71011	šim
+71013	šim
+71018	a
+71020	bu
+71022	ka
+71025	ti
+giš
+71032	ina
+71039	ina
+71043	ina
+71045	giš
+71049	ir
+71051	ta
+71053	na
+71055	haṣ
+71060	šu
+71072	su
+71080	u
+71085	giš
+71090	ina
+71098	šu
+71102	šu
+71104	hal
+71106	ṣa
+ina
+71114	sar
+71122	šal
+ana
+71126	šu
+71128	šim
+71135	šim
+71138	giš
+71143	giš
+71148	ina
+71155	ina
+71164	šu
+71172	u
+71174	ina
+71177	šu
+71182	ra
+71189	šu
+up
+71192	ta
+71194	ṭa
+71196	aṭ
+71198	ra
+71211	ina
+71219	sar
+71224	sar
+71246	šu
+e
+71249	sil
+71256	šu
+71260	a
+71262	ba
+du
+u
+71266	me
+71268	ni
+71270	ir
+a
+71273	ba
+71275	du
+u
+71278	me
+71280	ni
+71282	ir
+71291	es
+71293	li
+71304	šu
+ana
+71310	nu
+71317	šu
+71319	u
+71321	la
+i
+71324	mah
+71326	har
+71343	sar
+71354	šu
+71367	ma
+71369	ša
+71372	šu
+i
+71375	ša
+71377	haṭ
+aṭ
+im
+71381	me
+71383	si
+71394	šu
+71396	la
+i
+71399	mah
+71401	har
+71403	giš
+71406	ina
+71408	u
+71415	ba
+71417	lu
+pa
+71420	tan
+71424	šu
+71426	ma
+71432	u
+71436	ṭu
+u
+71441	u
+71447	u
+ur
+71450	nu
+71452	u
+71454	sar
+u
+ti
+71458	ia
+71460	ta
+u
+71465	u
+71471	šim
+71475	šim
+71479	šim
+71483	giš
+71485	giš
+71489	šim
+71499	giš
+71513	ina
+71515	tara
+71517	muk
+ina
+71520	tuš
+71522	bat
+ina
+še
+71526	ri
+ina
+urudu
+71534	šal
+71538	hal
+71540	ṣa
+ana
+71544	ana
+71547	šu
+71551	ak
+71553	ana
+71558	ma
+71567	mat
+71569	qa
+71579	mat
+71581	qu
+71589	u
+a
+71592	ra
+71594	ri
+71596	ia
+71598	nu
+71601	u
+mer
+71604	gi
+71606	ra
+71608	a
+71610	nu
+71613	u
+si
+71616	sin
+71618	ni
+71620	mal
+71622	ma
+71624	liš
+71626	ina
+71628	lu
+71633	pa
+71635	tan
+71638	ma
+ina
+71642	šu
+71647	ma
+71657	šu
+ga
+71660	an
+71662	nu
+ga
+71665	ah
+71667	ha
+71670	u
+71672	muṭ
+71674	ṭu
+71680	ši
+u
+71686	ina
+71692	ma
+i
+71695	ar
+71698	ru
+71700	u
+71704	sah
+71706	le
+71708	e
+71710	ina
+71713	u
+ur
+71716	ne
+71718	e
+ina
+71723	šal
+tu
+71726	kaṣ
+71728	ṣa
+ana
+71732	šu
+71735	ak
+71739	giš
+71744	u
+71747	d
+71750	giš
+bi
+71753	ni
+šim
+71756	šim
+71760	šim
+71764	šim
+71766	šim
+71771	ina
+71780	tara
+71782	bak
+71785	ma
+71790	ina
+71797	ina
+71801	ina
+71803	giš
+71807	ir
+71809	ta
+71811	na
+71814	haṣ
+71816	ma
+71825	šu
+e
+71828	ta
+71830	na
+71832	ša
+71834	aš
+71836	ma
+71838	u
+71842	la
+i
+71845	mah
+71847	har
+71854	šu
+71859	šu
+71864	su
+gi
+71867	na
+71869	a
+71884	sar
+71888	sar
+71892	sar
+71895	ina
+71897	giš
+71905	u
+71910	u
+71914	ina
+71919	ma
+71926	šu
+ha
+71929	ah
+71931	ha
+71933	ana
+71936	šu
+71939	šim
+71941	šim
+71943	u
+71947	šim
+71954	ina
+71963	šal
+ta
+71966	ša
+71968	hal
+lu
+ba
+71972	hir
+71976	ana
+71980	pa
+71982	tan
+71985	šu
+i
+71988	ar
+71991	ru
+71993	ma
+71996	ina
+72007	hal
+72009	ṣa
+u
+72019	pa
+72021	tan
+72024	šu
+72027	bat
+72030	šu
+72036	ha
+72038	hu
+72041	su
+72043	u
+72046	giš
+72051	u
+72055	u
+72057	sar
+u
+72073	ina
+72076	sar
+tara
+72079	bak
+ina
+72090	šu
+72093	id
+72097	ina
+72102	pa
+72104	tan
+72109	ana
+72113	šim
+72118	ina
+72124	pa
+72126	tan
+72131	ana
+72134	u
+72140	ina
+72145	pa
+72147	tan
+72155	ina
+72158	šu
+72163	hur
+ana
+72167	šu
+72169	u
+72174	ša
+ina
+72178	ka
+d
+72191	ina
+72198	pa
+72200	tan
+72208	ina
+72211	šu
+i
+72214	le
+72216	eb
+72219	bu
+u
+72227	u
+72234	niš
+72236	ina
+72239	pa
+72241	tan
+72248	di
+72250	ik
+72252	ši
+ina
+72256	šu
+72262	šu
+72266	giš
+72272	giš
+72279	šim
+72283	giš
+72290	eme
+72292	sal
+72294	li
+šim
+72306	ina
+72312	šal
+72316	ana
+72319	ana
+72322	šu
+72325	ak
+72329	ina
+72332	šu
+uš
+72335	tar
+72337	ʾ
+72339	ab
+72341	i
+72343	le
+72345	he
+72347	eb
+ki
+72350	ib
+72353	su
+72355	šu
+še
+72358	pi
+72363	su
+u
+72371	šu
+72376	šu
+72381	šu
+u
+72384	šam
+72386	ma
+72389	mu
+72391	šu
+u
+72398	šu
+72403	šu
+ma
+72406	ṭu
+72408	u
+ni
+72411	ip
+72413	še
+72419	šu
+i
+72422	ta
+72424	na
+72426	nu
+72428	u
+72432	ina
+kal
+72436	me
+u
+72439	kil
+72441	šu
+72450	šim
+72452	u
+72456	u
+72460	sah
+72462	le
+72464	e
+72466	sar
+72468	a
+72470	ma
+72472	ni
+u
+ur
+72476	ne
+72478	e
+72480	giš
+bi
+72484	ni
+72497	ina
+72502	u
+72506	ta
+72508	ra
+72510	sa
+72512	an
+ina
+72515	ana
+72518	tuš
+72520	bat
+ina
+72532	šal
+72534	ta
+72536	ša
+72538	hal
+72545	u
+72553	na
+72561	ana
+72566	la
+72568	am
+d
+72571	na
+72573	pa
+72575	hi
+72578	šu
+ina
+72581	tu
+72583	šap
+72585	ra
+72587	šu
+šum
+72590	ma
+72599	mur
+ana
+72603	šu
+72606	ak
+72615	ma
+la
+i
+72619	še
+72621	eb
+72623	bi
+72630	šu
+72635	hu
+72639	šu
+72644	har
+72646	it
+72648	ta
+72650	šu
+bi
+72653	sik
+72655	ta
+72659	ina
+72661	ta
+72663	mah
+72665	ha
+72667	ah
+72669	giš
+72678	sar
+72688	u
+72690	la
+i
+72693	lem
+72700	ša
+72702	i
+72704	ša
+72707	ti
+72711	hu
+72713	šah
+72715	hu
+72718	su
+72724	ina
+72726	tuš
+72728	bat
+ina
+še
+72733	ri
+72748	ma
+72750	ʾ
+72752	di
+72754	iš
+e
+72757	na
+72759	ah
+72761	ma
+72763	e
+72765	dip
+72767	ma
+72778	ina
+72781	sar
+ir
+72784	ta
+72786	na
+72788	haṣ
+72811	ma
+la
+i
+72815	ar
+72817	ru
+ṣe
+72820	me
+72822	er
+a
+72825	za
+72827	pi
+72833	u
+72839	šal
+72841	ši
+72843	bi
+72845	šu
+u
+72848	al
+72850	lat
+hi
+ri
+72861	ma
+la
+ip
+72865	ru
+la
+iṣ
+72869	nu
+72871	uh
+72874	ze
+72876	e
+72878	ze
+72880	na
+72882	ana
+72885	šu
+giš
+si
+72890	hu
+giš
+ar
+72894	ga
+72896	nu
+72898	giš
+ba
+72901	ri
+72903	ra
+72905	ta
+šim
+72910	šim
+72912	šim
+72916	šim
+72918	giš
+72922	ina
+72933	su
+ana
+72937	šu
+72940	ak
+72943	šim
+72949	su
+72951	ma
+72956	šu
+72962	ma
+72967	an
+72969	šu
+72971	tu
+iṣ
+72974	bat
+72976	su
+72978	ma
+la
+u
+72982	šar
+72984	da
+72988	ina
+72994	šal
+72996	ana
+72999	ana
+73003	šu
+73010	ka
+tug
+73015	ta
+73017	ṣap
+73019	pu
+73022	šu
+ta
+73025	kar
+73030	munus
+73034	ina
+73038	šu
+73041	ina
+73043	eš
+73052	ma
+73057	šu
+pa
+73060	al
+73062	qa
+di
+73065	ig
+73067	la
+ma
+73070	a
+73072	ṭi
+ana
+73076	šu
+73078	u
+73081	u
+73084	giš
+bi
+73088	ni
+73091	u
+am
+73094	ha
+73096	ra
+73098	u
+73111	niš
+73113	ina
+73117	aṣ
+73119	pa
+73121	tan
+73124	ma
+ina
+73127	eš
+73133	ma
+73138	su
+73143	su
+73148	šu
+im
+73151	ta
+73153	na
+73155	aš
+73157	ši
+ina
+73163	šu
+u
+73166	pa
+73168	aš
+73170	šaṭ
+ṭe
+73173	en
+73175	šu
+la
+ṣa
+73179	bit
+73186	šu
+73189	za
+ana
+73193	šu
+u
+73197	lim
+u
+73202	u
+tar
+73205	muš
+u
+73210	u
+73212	u
+73220	u
+73227	u
+73233	u
+kam
+73236	ka
+73238	du
+u
+eli
+73242	kul
+73244	la
+73254	niš
+73256	ina
+73260	u
+73262	ana
+73264	d
+gu
+73267	la
+tuš
+73270	bat
+ina
+še
+73274	ri
+la
+73277	am
+d
+73282	hi
+la
+73285	am
+ma
+73288	am
+73290	ma
+iš
+73293	ši
+73295	qu
+73297	šu
+73300	ma
+ina
+73303	eš
+73308	su
+73311	ma
+73313	ši
+73315	ne
+73317	e
+73319	ti
+73325	ši
+ina
+da
+73329	ba
+73331	bi
+73333	šu
+ik
+73336	ka
+73338	šu
+ik
+73341	ta
+73343	ner
+73345	ru
+u
+73348	ip
+73350	te
+73352	nar
+73354	ru
+73357	bi
+73359	šit
+73362	ana
+73365	šu
+u
+73371	ina
+73374	pa
+73376	tan
+73379	šu
+ina
+73383	sar
+73388	giš
+73392	ana
+73395	šu
+73401	giš
+ur
+73404	ne
+73406	e
+ina
+gi
+73412	ina
+73415	šu
+73418	ad
+šim
+73427	šim
+73429	šim
+73435	niš
+73439	ina
+73445	ina
+73452	sar
+73456	u
+ur
+73459	ne
+73461	e
+u
+73464	sar
+šim
+73471	šim
+73473	šim
+73479	giš
+73484	giš
+73489	giš
+73495	kal
+73497	bi
+73501	niš
+73514	ina
+73520	šu
+ina
+73524	sar
+73527	su
+73529	ma
+73531	giš
+73537	ana
+73540	šu
+73543	ak
+73545	ma
+73549	šim
+73555	ad
+73557	ma
+šim
+73560	šim
+73563	šim
+73565	giš
+bi
+73568	nu
+u
+73573	niš
+73575	ina
+73584	su
+73587	ma
+ina
+73590	eš
+u
+73596	ina
+73599	ina
+73602	sar
+73606	sar
+šim
+73609	šim
+73613	šim
+73628	giš
+73633	giš
+šu
+73636	še
+73643	di
+73645	ik
+73647	šu
+ina
+73651	šu
+73656	su
+73658	ma
+73660	ši
+73662	ne
+73664	ʾ
+73666	ti
+73668	i
+73670	ša
+73672	an
+73674	na
+73676	ʾ
+73678	šu
+ina
+ge
+73683	ši
+73685	šu
+73688	i
+73690	par
+73692	ru
+ina
+da
+73696	ba
+73698	bi
+73700	šu
+ik
+73703	ka
+73705	šu
+ik
+73708	te
+73712	ner
+73714	ru
+73718	bi
+73721	šit
+73724	bi
+73728	sar
+73735	u
+73737	lu
+73741	la
+uš
+73744	ta
+73746	mah
+73748	har
+ut
+73751	ta
+73753	šar
+73767	šim
+73774	giš
+73786	giš
+73791	giš
+73799	u
+73801	qut
+73803	ra
+73805	ti
+73811	sar
+73816	giš
+73841	d
+73847	u
+ka
+73850	man
+73853	ta
+73859	šim
+73881	šum
+73883	ma
+73905	giš
+bi
+73908	nu
+u
+73915	ma
+73918	ana
+73922	ina
+73926	pa
+73928	tan
+73931	ma
+73934	ana
+73938	u
+73947	ina
+73953	aš
+ina
+73958	ri
+73961	id
+73967	aš
+ina
+73976	aš
+ina
+73981	šu
+73984	ma
+73990	ina
+74001	aš
+74005	šu
+74008	ma
+74014	u
+74021	ina
+74025	aš
+74029	ana
+74038	u
+74042	u
+74046	u
+74050	u
+tar
+74053	muš
+74064	niš
+74066	ina
+74069	um
+74071	mi
+ša
+74075	šu
+ta
+74078	ša
+74080	haṭ
+74082	ma
+74095	šu
+74101	a
+ki
+74104	ṣir
+74106	te
+74117	šu
+qer
+74120	be
+74122	na
+74125	u
+74127	ur
+74129	ne
+74131	e
+74141	u
+74144	d
+74147	u
+74151	šim
+74164	ina
+74167	tara
+74169	bak
+74174	ma
+74179	ina
+74186	ina
+dug
+74189	tara
+74191	bak
+ina
+74196	ri
+74200	šu
+ur
+74203	ra
+u
+74208	id
+74211	šu
+74213	ma
+74216	ta
+74218	hab
+74220	bu
+74224	ina
+74226	hal
+74228	ṣa
+74231	šu
+74234	bat
+74236	i
+74238	ar
+74240	ru
+74243	su
+74248	šu
+iš
+74251	tu
+74254	u
+74261	giš
+bi
+74264	ni
+74268	giš
+74276	šim
+74292	ina
+74295	sar
+tara
+74298	bak
+74302	ma
+74308	ina
+74313	ina
+dug
+74316	tara
+74318	bak
+ina
+74327	ri
+ur
+74330	ri
+u
+74335	ana
+74340	giš
+74347	giš
+74352	giš
+74363	ku
+74365	šim
+74369	ina
+74377	ina
+dug
+74380	tara
+74382	bak
+74385	ma
+74390	ina
+74392	u
+74396	ina
+dug
+74399	tara
+74401	bak
+ina
+74405	ur
+74407	ri
+u
+74412	id
+74416	u
+ti
+74419	ia
+74421	ta
+ina
+74425	pa
+74427	tan
+74434	mušen
+74441	u
+74449	u
+74453	ta
+74455	haš
+74457	šal
+ina
+74461	sar
+tara
+74464	bak
+74467	ma
+74472	ina
+74479	ina
+dug
+74482	tara
+74484	bak
+ina
+74489	ri
+ur
+74492	ri
+u
+74497	id
+ana
+74505	u
+74510	u
+74519	mušen
+74530	ina
+74533	tara
+74535	bak
+74538	ma
+74544	ina
+74551	ina
+dug
+74554	tara
+74556	bak
+ina
+74561	ri
+ur
+74564	ra
+u
+74569	id
+74571	giš
+74576	ina
+74579	pa
+74581	tan
+74583	ina
+74587	šal
+tara
+74590	has
+74592	su
+ana
+74601	ina
+74605	u
+74608	d
+74611	ri
+74613	giš
+74618	giš
+74620	šim
+74625	ina
+74628	sar
+tara
+74631	bak
+74634	ma
+74639	ina
+74646	ina
+dug
+74649	tara
+74651	bak
+ina
+74660	ri
+ur
+74663	ri
+u
+74669	ana
+74672	šim
+74674	šim
+74678	šim
+74680	šim
+74684	u
+ba
+74687	ri
+74689	ra
+74691	ta
+šim
+74694	giš
+74696	giš
+74702	šim
+74705	ina
+74708	sar
+tara
+74711	bak
+74714	ma
+74719	ina
+74726	u
+74728	ina
+dug
+74731	tara
+74733	bak
+ina
+74740	te
+74742	ṭer
+74744	ri
+ur
+74747	ra
+u
+74752	id
+74762	ina
+74765	ana
+74779	u
+74782	u
+74790	sar
+74792	giš
+74799	giš
+74806	giš
+74809	ina
+74812	sar
+ina
+dug
+74816	tara
+74818	bak
+ina
+74822	ur
+74824	ra
+u
+74828	ina
+74832	šal
+tara
+74835	has
+74837	su
+74840	ina
+74842	u
+74847	pa
+74849	tan
+74851	tu
+74853	ša
+74855	ʾ
+74858	ra
+74861	šu
+74863	ma
+74872	ka
+74874	la
+74876	u
+74878	ina
+74885	ina
+giš
+74889	šu
+la
+74894	ina
+še
+74897	ri
+74901	ti
+74904	šu
+74921	šum
+74927	šu
+74933	a
+74936	ta
+74938	aš
+74940	ni
+74942	qa
+74944	ana
+74947	šu
+74965	šim
+74970	šim
+74977	šim
+74982	šim
+74998	giš
+bi
+75001	ni
+75013	niš
+75015	ina
+75019	tal
+75021	tap
+75023	pat
+ina
+75028	u
+75037	šu
+75044	su
+75046	ma
+75049	ta
+ina
+75054	ka
+75056	u
+75058	še
+75060	ṣa
+75062	am
+75064	ma
+ina
+75067	eš
+75070	ki
+75072	ṣir
+75076	u
+75080	šu
+la
+75084	šu
+ina
+75088	šu
+75094	šu
+i
+75097	sa
+75099	hal
+75101	šu
+ana
+75106	šu
+75111	sah
+75113	le
+75115	e
+75121	šim
+75128	šim
+75133	u
+75136	d
+75141	ka
+75143	si
+75145	i
+75149	pa
+75151	pa
+75153	si
+75155	d
+75162	u
+75170	u
+75218	mušen
+75222	u
+75225	ti
+75229	šim
+75250	niš
+75253	ina
+75255	ina
+urudu
+75261	ra
+75263	bi
+75265	ki
+tara
+75268	bak
+ina
+75277	me
+75281	šu
+75284	u
+75288	šu
+75291	šu
+75293	ma
+ina
+75296	eš
+75301	ki
+75303	ṣir
+75306	bi
+75309	u
+75313	šu
+75317	šu
+ina
+75321	šu
+75325	ip
+75327	te
+75329	ne
+75331	ru
+ana
+75335	šu
+75352	sar
+75355	u
+75360	ana
+75363	ba
+75365	lu
+pa
+75368	tan
+75371	šu
+75374	šu
+75384	ina
+75387	šu
+75390	ma
+75392	u
+75396	šu
+75400	ana
+75407	i
+75409	a
+75411	ma
+75413	ni
+75416	niš
+75418	ina
+75421	pa
+75423	tan
+75426	ma
+ina
+75429	eš
+75431	ana
+75443	qi
+75445	lip
+75452	ina
+75457	me
+75459	ba
+75462	lu
+pa
+75465	tan
+75468	šu
+75476	šu
+tu
+75479	sa
+75481	lah
+75483	ma
+ina
+75486	eš
+75492	u
+75496	šu
+75500	šu
+75505	šu
+ir
+75508	ta
+75510	nam
+75512	mu
+75514	ina
+75517	šu
+75520	ur
+ana
+75524	šu
+75539	sar
+75551	u
+75558	hal
+75560	ṣa
+75566	i
+75569	niš
+tuš
+75572	te
+75574	mid
+75576	ina
+75578	ina
+75580	mul
+75582	tuš
+75584	bat
+75586	ina
+še
+75590	ri
+75593	šal
+ta
+75596	ša
+75598	hal
+75600	ina
+75602	tah
+75604	ta
+75606	na
+75608	su
+75611	šu
+75614	u
+75617	giš
+si
+75620	ha
+giš
+ar
+75624	ga
+75626	nu
+giš
+75632	sar
+75635	sar
+75637	giš
+75643	ana
+75648	šal
+ta
+75651	ša
+75653	hal
+mar
+75656	ha
+75658	ṣi
+tu
+75661	ša
+75663	at
+75665	tam
+75667	ma
+ina
+75672	su
+75676	šu
+75679	aš
+giš
+75685	u
+75691	ina
+75695	šu
+75697	giš
+75702	giš
+šu
+75705	še
+75711	niš
+75714	ina
+75721	ina
+75728	su
+75730	ma
+ina
+75733	eš
+75739	šu
+75742	šu
+ina
+ge
+75746	ši
+75748	šu
+75750	im
+75752	ta
+75754	na
+75756	ʾ
+75759	qer
+75761	be
+75763	na
+75771	su
+75773	a
+75775	lam
+75777	ana
+ki
+75780	is
+75786	m
+75801	ki
+ša
+d
+75805	u
+d
+taš
+75809	me
+75811	tu
+75815	ra
+75817	pa
+75819	aš
+75821	tu
+iš
+75824	ru
+75826	ku
+75828	uš
+e
+75831	hu
+75833	uz
+75835	zu
+75839	na
+75841	mir
+75843	tu
+ni
+75846	siq
+ṭup
+75849	šar
+75851	ru
+75853	ti
+ša
+ina
+75860	ni
+a
+75863	lik
+mah
+75866	ri
+75868	ia
+mam
+75871	ma
+šip
+75874	ru
+šu
+75877	a
+75879	tu
+la
+e
+75883	hu
+75885	uz
+75887	zu
+bul
+75890	ṭi
+75892	muh
+75894	hi
+75897	liq
+75899	ti
+75903	ta
+75905	hi
+75907	zu
+nak
+75910	la
+a
+75913	zu
+75915	gal
+75917	lu
+75919	ut
+d
+nin
+75923	urta
+u
+d
+gu
+75928	la
+ma
+75931	la
+ba
+75934	aš
+75936	mu
+ina
+ṭup
+75940	pa
+75942	a
+75944	ni
+aš
+75947	ṭur
+as
+75950	niq
+75955	ma
+a
+75958	na
+ta
+75961	mar
+75963	ti
+ši
+75966	ta
+75968	si
+75971	ia
+qe
+75974	reb
+75980	ia
+u
+75983	kin
+75985	u
+76010	sag
+76012	ki
+mu
+76015	un
+76018	dab
+76027	sag
+sahar
+76030	ra
+mu
+76033	un
+76036	dab
+76046	a
+76048	da
+76050	pa
+abgal
+76059	sag
+76061	ki
+mu
+76064	un
+76066	dab
+76084	sig
+76105	na
+76127	a
+76129	ra
+tu
+76132	e
+a
+76135	ra
+76146	šu
+du
+76149	du
+76151	meš
+šu
+ne
+76155	ne
+76158	a
+76160	meš
+76162	eridu
+ki
+76165	ga
+mu
+76168	un
+76171	tum
+76183	giš
+76186	ša
+im
+76191	ša
+ina
+76195	i
+76197	nam
+76200	zu
+76202	zu
+76205	qe
+76217	šu
+76220	nu
+ina
+76226	šu
+tara
+76229	kas
+76231	ma
+76235	uṭ
+76240	sur
+76242	ru
+76245	ga
+su
+76248	ma
+76250	hu
+ma
+76253	ak
+76255	tu
+ti
+76258	e
+76260	na
+ha
+76263	at
+76265	ru
+76274	ki
+76276	in
+76279	re
+76281	eš
+76283	na
+ha
+76286	at
+76288	ri
+76290	uk
+76292	kiš
+76294	tum
+si
+76297	na
+76299	an
+76302	na
+76311	lu
+76313	pi
+76316	tu
+šab
+76319	ki
+76321	im
+76323	an
+76325	ta
+76327	sur
+76329	ra
+76341	tu
+76343	e
+di
+76346	pa
+76348	ra
+tu
+76352	e
+76359	ha
+76361	ta
+76364	ra
+hat
+76367	ra
+76382	a
+76384	ra
+ba
+76388	še
+76390	ra
+76413	ra
+mu
+76416	un
+76418	dab
+76437	na
+76440	na
+76449	na
+76451	na
+76469	sag
+76471	ki
+76473	ni
+sag
+76476	ki
+76484	i
+76486	bi
+76488	ni
+i
+76491	bi
+76501	mu
+76503	ru
+76505	ub
+76507	bi
+76509	ni
+mu
+76512	ru
+76514	ub
+76517	bi
+76524	he
+76526	bi
+76528	da
+76530	a
+76532	na
+76534	mul
+76536	la
+he
+76539	en
+76542	da
+76544	a
+76546	na
+76548	mul
+76550	la
+76563	a
+76565	šu
+76568	u
+ana
+76574	šu
+76585	tu
+ina
+76591	ši
+ana
+76599	ti
+76607	ana
+76609	ta
+76611	za
+76613	ru
+76617	su
+76619	ma
+76625	na
+76629	na
+76633	ta
+76635	sak
+ina
+76645	šu
+76647	sa
+76650	ar
+76652	ʾi
+76662	šu
+76665	qe
+76668	šu
+76675	ša
+76679	ta
+76681	sak
+76691	nu
+76698	ki
+76700	in
+76702	ip
+ki
+76705	ni
+76707	ip
+ki
+76710	ni
+76712	ip
+šu
+76715	uh
+76717	ki
+76719	ni
+76721	ip
+ši
+76725	ha
+76727	ma
+76732	a
+76734	šu
+76737	u
+76743	it
+šim
+76749	sar
+u
+76754	niš
+76756	ina
+76762	su
+76768	a
+76770	šu
+76773	u
+76776	it
+76778	giš
+šu
+76781	ši
+76783	ina
+76787	tara
+76789	muk
+ina
+76792	tuš
+76794	bat
+ina
+še
+76798	ri
+76807	ma
+76809	gi
+76813	tur
+76815	ar
+76817	ina
+76819	u
+76822	ša
+76824	pil
+76826	ti
+giš
+76834	a
+76836	šu
+76839	u
+a
+76842	hi
+76844	iz
+e
+76847	riš
+76849	ti
+76851	sar
+76854	u
+76856	ina
+76863	su
+76869	ma
+76879	su
+76881	sah
+76883	le
+76885	e
+ina
+76890	šim
+76892	ana
+76895	šu
+76898	an
+76912	pa
+76914	tan
+76917	u
+76923	ma
+76928	šur
+76930	šum
+76932	me
+76947	ana
+76951	tu
+76953	maš
+76955	šad
+76962	giš
+šu
+76966	ši
+76972	u
+76974	ina
+76981	su
+u
+ka
+76985	la
+76991	šu
+77001	šu
+77009	su
+ana
+77013	šu
+77018	su
+77024	šu
+77032	ti
+77036	te
+77038	qi
+77043	te
+77045	qi
+77054	ina
+77070	šu
+77076	ku
+77080	ti
+77087	na
+77094	na
+mu
+77097	ṣa
+na
+77100	na
+77102	na
+77111	na
+77116	na
+77121	giš
+bi
+77124	ni
+77126	giš
+77139	niš
+77141	ta
+77143	ša
+77145	pah
+ina
+77160	šu
+ka
+77163	a
+77165	a
+77167	man
+77169	nam
+77171	ma
+77174	ma
+ina
+77177	eš
+77181	e
+77183	nu
+77185	ma
+bir
+77189	ṣa
+77192	ru
+77195	šu
+ki
+77198	a
+77200	am
+liq
+77203	bi
+ša
+d
+77207	en
+77209	lil
+u
+d
+nin
+77214	lil
+77216	ana
+77218	ku
+ša
+d
+iš
+77223	tar
+u
+d
+na
+77228	na
+77230	a
+77232	ana
+77234	ku
+i
+77237	qab
+77239	bi
+77241	ma
+77244	uṭ
+77248	ana
+77253	zu
+77256	qe
+ina
+77259	tu
+77261	kab
+77263	ba
+77265	ab
+77268	ina
+77279	šu
+te
+77282	eq
+77284	qi
+77286	ma
+ina
+77289	eš
+77293	bir
+77296	ṣi
+a
+77299	na
+77304	e
+77312	an
+ana
+77316	bi
+giš
+77319	u
+77327	u
+77329	giš
+77332	giš
+77336	giš
+77340	giš
+77342	giš
+77344	giš
+77350	šim
+d
+77354	u
+77360	ina
+77362	tuš
+77364	bat
+ina
+77375	d
+77377	ina
+77379	ṭa
+77381	bi
+77384	šu
+im
+77387	im
+77402	ina
+77404	šim
+77412	su
+77414	ma
+77421	i
+77423	mar
+77425	ma
+77427	bir
+77429	ṣi
+ana
+77441	giš
+77443	u
+77447	giš
+77450	giš
+77452	giš
+77454	giš
+77458	ana
+77464	di
+77466	ma
+77471	ina
+77473	tuš
+77475	bat
+ina
+77487	im
+77490	im
+77501	ina
+77503	šim
+77511	su
+77513	ma
+77521	bir
+77523	ṣi
+ana
+77535	mu
+77537	kil
+77542	ti
+77545	su
+77548	lu
+77550	lu
+77552	ina
+77554	tu
+77556	še
+77558	li
+77561	ma
+77564	li
+77566	in
+77568	na
+77570	di
+ina
+77574	d
+77576	e
+77579	re
+77581	bi
+77585	ap
+77587	ti
+77600	di
+77604	i
+77606	pet
+77608	tu
+77610	šu
+77614	u
+mu
+77617	šu
+ša
+77620	a
+77622	ti
+giš
+77625	ṣa
+77627	al
+77629	lu
+77636	mu
+77638	kil
+77642	ti
+77645	su
+maš
+77648	qi
+77650	ta
+nar
+77653	ma
+77655	ak
+77657	ta
+77664	ina
+77667	šu
+la
+77670	zi
+77672	iz
+77674	ma
+u
+ma
+77678	gal
+i
+77681	li
+77683	hi
+77685	ib
+77690	u
+77697	u
+77699	a
+77701	me
+77703	lu
+77705	ti
+giš
+77708	šim
+77713	ina
+77717	er
+ir
+77720	ta
+77722	na
+77724	haṣ
+77726	ma
+77729	giš
+77737	en
+ur
+77740	sag
+d
+asal
+77744	lu
+77746	hi
+igi
+77749	bi
+he
+77752	pa
+77757	ur
+77759	sag
+d
+ša
+77763	zu
+igi
+77766	bi
+he
+77770	pa
+77774	ur
+77776	sag
+den
+77779	ki
+igi
+77782	bi
+77784	he
+77786	pa
+77790	ur
+77792	sag
+d
+nin
+77796	urta
+igi
+77800	bi
+he
+77803	pa
+77807	ad
+77809	da
+77811	mu
+dumu
+77814	sag
+d
+77820	na
+77822	an
+77824	de
+77829	dumu
+77831	mu
+nam
+77834	tar
+77838	nu
+77840	un
+77842	bar
+77847	lu
+a
+77850	zu
+di
+77853	ku
+77857	nu
+77859	tar
+77861	re
+tu
+77865	en
+77868	ka
+77870	inim
+77872	ma
+sag
+77875	hul
+77877	ha
+77879	za
+77882	kam
+77894	ina
+77900	ak
+77906	u
+77909	lim
+77914	u
+77916	giš
+77918	kan
+77920	u
+77922	giš
+77931	ta
+77933	la
+77936	pap
+ina
+77942	šu
+77945	su
+77960	giš
+77962	ṣu
+77968	gir
+77970	giš
+77972	ša
+e
+ta
+77979	ti
+77981	i
+77983	ru
+77987	e
+77989	ri
+77991	iš
+la
+a
+ši
+a
+78002	id
+78004	ra
+78006	nu
+78013	i
+ša
+ti
+78017	i
+78019	ri
+la
+ib
+78023	šu
+78025	u
+78032	id
+78034	ra
+78036	ni
+a
+78039	a
+u
+78042	še
+78044	ṣa
+78050	gir
+78052	giš
+78054	ši
+a
+78057	a
+ib
+78060	ba
+78062	ni
+78069	gir
+78072	giš
+78074	šu
+78093	su
+78098	mat
+78100	qu
+78102	ti
+78124	ina
+78126	giš
+78136	su
+78147	šu
+78149	giš
+78154	u
+mur
+78157	ra
+78159	nu
+78162	šu
+78169	šu
+ina
+78184	su
+78186	u
+78188	za
+78191	ku
+78193	ti
+78195	šu
+78203	u
+mur
+78206	ru
+78214	ina
+78226	su
+78228	u
+78230	za
+78232	ku
+78234	ti
+78236	šu
+78239	ah
+u
+78243	lim
+ina
+78246	giš
+78264	su
+78268	mat
+78270	qu
+78272	ti
+78274	zap
+78276	pi
+78287	ša
+78291	tur
+78293	ar
+78299	su
+78305	ab
+78309	ina
+78320	šu
+78322	ru
+78324	uš
+78352	niš
+tur
+78355	ar
+78359	ru
+78361	an
+78363	nu
+78365	ha
+78367	ru
+na
+ga
+78371	bi
+78373	i
+78376	niš
+78379	ina
+78401	u
+78414	ina
+78423	giš
+78429	lu
+78444	giš
+nu
+78447	ur
+78449	ma
+78451	a
+78462	ina
+78466	aš
+78473	tur
+78475	ar
+78488	su
+78498	su
+78501	ab
+sah
+78504	le
+78506	e
+78511	šim
+78517	šim
+78528	šim
+78532	šim
+78534	ana
+78537	bi
+78540	di
+ina
+78557	ma
+78564	a
+78566	ma
+78568	ni
+ta
+78571	šar
+78573	rap
+78577	na
+ga
+78580	bi
+78582	i
+78585	niš
+tu
+78588	sa
+78590	mah
+ina
+78602	su
+78604	ma
+78613	ina
+78617	ka
+78621	ta
+78624	si
+78628	e
+78630	re
+78632	ni
+78646	ma
+78650	su
+78652	ma
+78656	u
+ru
+78659	uš
+78661	ru
+78663	uš
+78665	ša
+78669	giš
+78681	u
+78685	sah
+78687	le
+78689	e
+78692	ti
+78694	u
+78698	u
+78704	u
+zi
+78707	ba
+78709	a
+ina
+na
+ur
+78714	ṣi
+78719	e
+78721	re
+78723	ni
+78737	su
+78740	ma
+78747	tu
+ša
+78750	ina
+78761	aš
+78769	su
+78775	šid
+su
+78781	ana
+78786	an
+u
+78795	tur
+78797	ar
+78807	ti
+78813	giš
+78820	e
+78822	mi
+78824	il
+78826	ta
+u
+zi
+78830	ba
+78832	a
+78841	ina
+78843	tu
+78845	ša
+78847	ha
+78849	an
+78861	su
+78864	si
+78867	ab
+78876	ma
+78886	su
+78927	su
+78953	te
+78958	su
+78970	šu
+78975	su
+78978	šu
+78996	šu
+78998	u
+79001	kal
+79006	m
+aš
+79009	šur
+79018	aš
+79020	šur
+ki
+ša
+d
+79025	u
+d
+taš
+79029	me
+79031	tu
+79037	tu
+iš
+79040	ru
+79042	ku
+79044	uš
+79047	i
+79049	hu
+79051	uz
+79053	zu
+79057	na
+79059	mir
+79061	tu
+ni
+79064	siq
+ṭup
+79067	šar
+79069	ru
+79071	ti
+ša
+ina
+79078	ni
+a
+79081	lik
+mah
+79084	ri
+79086	ia
+mam
+79089	ma
+šip
+79092	ru
+šu
+79095	a
+79097	tu
+la
+i
+79101	hu
+79103	uz
+79105	zu
+bul
+79108	ṭi
+79110	muh
+79112	hi
+79115	liq
+79117	ti
+79121	ta
+79123	hi
+79125	zu
+79127	nak
+79129	la
+79131	a
+79133	zu
+79135	gal
+79137	lu
+79139	tu
+d
+nin
+79143	urta
+u
+d
+gu
+79148	la
+ma
+79151	la
+79153	ba
+aš
+79156	ba
+79158	aš
+79160	mu
+ina
+79166	ni
+79168	aš
+79170	ṭur
+as
+79173	niq
+79178	ma
+79181	a
+79184	na
+ta
+79187	mar
+79189	ti
+ši
+79192	ta
+79194	as
+79196	si
+79198	ia
+qe
+79202	reb
+79207	ia
+u
+79210	kin
+79217	sag
+79219	ki
+79222	ni
+79240	mu
+79242	ru
+79244	ub
+79246	bi
+79248	ni
+mu
+79252	ru
+79254	ub
+79256	bi
+79280	u
+aš
+79283	lam
+79300	e
+79302	ma
+79309	nu
+79327	ina
+sig
+79337	mi
+79347	id
+79349	da
+79351	ta
+tir
+gal
+79355	gal
+79357	la
+79360	ta
+79371	mul
+79373	mul
+giš
+geštin
+gir
+mu
+79379	un
+79381	kar
+79384	re
+79395	šu
+79397	mu
+79399	mu
+79401	e
+79403	de
+mul
+79406	mul
+79440	iti
+79468	šal

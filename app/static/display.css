@@ -1,0 +1,74 @@
+.pnum {
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: bold;
+    color: #444444;
+}
+.period {
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bold;
+    color: #0000bb;
+}
+/* LANGUAGE: superscript and subscript */
+
+/* cluster */
+.det {
+    vertical-align: super;
+}
+/* cluster */
+.lang {
+    vertical-align: sub;
+}
+/* REDACTIONAL: line over or under  */
+
+/* flag */
+.collated {
+    font-weight: bold;
+    text-decoration: underline;
+}
+/* cluster */
+.excised {
+    color: #dd0000;
+    text-decoration: line-through;
+}
+/* cluster */
+.supplied {
+    color: #0000ff;
+    text-decoration: overline;
+}
+/* flag */
+.remarkable {
+    font-weight: bold;
+    text-decoration: overline;
+}
+
+/* UNSURE: italic*/
+
+/* cluster */
+.uncertain {
+    font-style: italic
+}
+/* flag */
+.question {
+    font-weight: bold;
+    font-style: italic
+}
+
+/* BROKEN: text-shadow */
+
+/* cluster */
+.missing {
+    color: #999999;
+    text-shadow: #bbbbbb 1px 1px;
+}
+/* flag */
+.damage {
+    font-weight: bold;
+    color: #999999;
+    text-shadow: #bbbbbb 1px 1px;
+}
+.empty {
+  color: #ff0000;
+}
+

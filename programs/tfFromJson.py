@@ -121,7 +121,6 @@ generic = {
 otext = {
     "fmt:text-orig-full": "{atf}{after}",
     "fmt:text-orig-plain": "{sym}{after}",
-    "fmt:text-orig-bare": "{sym}{after}",
     "sectionFeatures": "pnumber,face,lnno",
     "sectionTypes": "document,face,line",
 }
@@ -146,12 +145,7 @@ intFeatures = (
 
 featureMeta = {
     "after": {"description": "what comes after a sign or word (- or space)"},
-    "atf": {
-        "description": (
-            "full atf of a sign (without cluster chars)"
-            " or word (including cluster chars)"
-        ),
-    },
+    "atf": {"description": "full atf of a sign"},
     "col": {"description": "ATF column number"},
     "collated": {"description": "whether a sign is collated (*)"},
     "collection": {"description": 'collection name from metadata field "collection"'},
@@ -355,7 +349,7 @@ def director(cv):
             cv.feature(
                 curSign,
                 atf="]",
-                sym="]",
+                sym="",
                 after=" ",
                 **getClusters(),
             )
@@ -368,58 +362,67 @@ def director(cv):
         doModifiers(data, curSign)
         signType = data["type"]
 
+        sym = data["cleanValue"]
+        feats = {}
+
         if signType == "AccidentalOmission":
             doCluster(data, clusterType[signType])
+            tp = "mark"
+            sym = ""
 
         elif signType == "Removal":
             doCluster(data, clusterType[signType])
+            tp = "mark"
+            sym = ""
 
         elif signType == "BrokenAway":
             doCluster(data, clusterType[signType])
+            tp = "mark"
+            sym = ""
 
         elif signType == "PerhapsBrokenAway":
             doCluster(data, clusterType[signType])
+            tp = "mark"
+            sym = ""
 
         elif signType == "UnknownNumberOfSigns":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="ellipsis", sym=sym)
+            tp = "ellipsis"
 
         elif signType == "UnidentifiedSign":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="unknown", sym=sym)
+            tp = "unknown"
 
         elif signType == "UnclearSign":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="unknown", sym=sym)
+            tp = "unknown"
 
         elif signType == "Number":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="number", sym=sym, number=int(sym))
+            tp = "numeral"
+            feats = dict(number=sym)
 
         elif signType == "Logogram":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="grapheme", sym=sym, grapheme=sym)
+            tp = "grapheme"
+            feats = dict(grapheme=sym)
 
         elif signType == "Reading":
+            tp = "reading"
             sym = data["name"]
-            cv.feature(curSign, type="reading", sym=sym, reading=sym)
+            feats = dict(reading=sym)
 
         elif signType == "Joiner":
-            sym = data["cleanValue"]
-            cv.feature(curSign, type="joiner", sym=sym)
+            tp = "joiner"
 
         elif signType == "Determinative" or signType == "Variant":
-            error(f"nested {signType} Signs")
+            error(f"nested {signType} Signs", stop=True)
 
         else:
-            error(f"unrecognized sign type {signType}")
+            error(f"unrecognized sign type {signType}", stop=True)
+
+        cv.feature(curSign, type=tp, sym=sym, **feats)
 
         if startMissingInternal and not endMissingInternal:
             curSign = cv.slot()
             cv.feature(
                 curSign,
                 atf="[",
-                sym="[",
                 after="",
                 **getClusters(),
             )
@@ -488,9 +491,9 @@ def director(cv):
                 continue
 
             if lineType == "ControlLine":
-                content = lineData["content"][0]["cleanValue"]
+                content = lineData["content"][0]["value"]
                 if content.startswith("note:"):
-                    lineData["content"][0]["cleanValue"] = content[5:].lstrip()
+                    lineData["content"][0]["value"] = content[5:].lstrip()
                     lineData["prefix"] = "#note: "
                     lineType = "NoteLine"
                 if content.startswith("tr."):
@@ -504,28 +507,35 @@ def director(cv):
                         lan = lan.split(".", 1)[0]
                         if lan not in languages:
                             error(f"Unknown language {lan}", stop=True)
-                    lineData["content"][0]["cleanValue"] = content
+                    lineData["content"][0]["value"] = content
                     lineType = "TranslationLine"
                     lineData["prefix"] = f"#tr.{lan}: "
 
             isEmptyLine = lineType == "EmptyLine"
             isTextLine = lineType == "TextLine"
 
+            content = " ".join(c["value"] for c in lineData["content"])
+            atf = f"{lineData['prefix']} {content}"
+
             if isEmptyLine or isTextLine:
                 lln += 1
                 curLine = cv.node("line")
-                cv.feature(curLine, lln=lln)
+                cv.feature(curLine, lln=lln, atf=atf)
 
                 if isEmptyLine:
                     curSlot = cv.slot()
                     cv.feature(curSlot, type="empty")
                     prevLine = curLine
-                    if col is not None:
+                    if col is None:
+                        lnno = f"!{lln}"
+                    else:
                         cv.feature(curLine, col=col, **primecolAtt)
                         colprime = "'" if primecol else ""
                         colno = f"{col}{colprime}"
                         lnno = f"!{colno}:{lln}"
                     cv.feature(curLine, lnno=lnno)
+                    if debug:
+                        info(f"{lln} - empty")
                 else:
                     numberData = lineData["lineNumber"]
                     ln = numberData["number"]
@@ -541,7 +551,7 @@ def director(cv):
                         colno = f"{col}{colprime}"
                         lnno = f"{colno}:{lnno}"
                     if debug:
-                        info(f"{lnno}")
+                        info(f"{lln} - {lnno}")
                     cv.feature(curLine, lnno=lnno)
 
                     lineContent = lineData["content"]
@@ -625,9 +635,9 @@ def director(cv):
                                         doSign(signData, after=after)
 
                             elif contentType == "Divider":
-                                cv.feature(curWord, type="divider")
+                                cv.feature(curWord, type="wdiv")
                                 curSign = cv.slot()
-                                cv.feature(curSign, type="divider", **textAtts)
+                                cv.feature(curSign, type="wdiv", **textAtts)
 
                             elif contentType == "LanguageShift":
                                 lang = wordData["cleanValue"][1:]
@@ -670,6 +680,7 @@ def director(cv):
                         cv.terminate(curWord)
 
                 prevLine = curLine
+                cv.terminate(curLine)
 
             else:
                 if lineType == "ControlLine":
@@ -716,8 +727,6 @@ def director(cv):
                 content = content if not orig else f"{orig}\n{content}"
                 contents[tp] = content
                 cv.feature(prevLine, **contents)
-
-            cv.terminate(curLine)
 
         if curFace:
             terminateClusters()
