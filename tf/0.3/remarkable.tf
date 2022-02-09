@@ -1,0 +1,57 @@
+@node
+@converters=Cale Johnson, Dirk Roorda
+@description=whether a sign is remarkable (!)
+@editor=Cale Johnson et al.
+@name=NinMed Medical Texts from Nineveh
+@project=BabMed
+@valueType=int
+@writtenBy=Text-Fabric
+@dateWritten=2022-02-09T16:41:26Z
+
+1194	1
+1198	1
+1552	1
+1645	1
+2969	1
+3161	1
+3629	1
+7226	1
+10651	1
+12692	1
+14410	1
+16303	1
+16305	1
+16503	1
+24130	1
+24318	1
+26472	1
+26477	1
+26650	1
+29108	1
+29112	1
+29197	1
+29505	1
+30190	1
+32114	1
+32127	1
+33227	1
+36609	1
+37061	1
+1
+38185	1
+1
+38797	1
+38830	1
+38836	1
+41346	1
+41449	1
+42979	1
+43139	1
+45624	1
+46889	1
+47141	1
+48179	1
+49749	1
+50178	1
+50709	1
+52118	1

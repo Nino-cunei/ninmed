@@ -11,10 +11,18 @@ from tf.convert.walker import CV
 HELP = """
 python3 tfFromJson.py
     Generate TF and if successful, load it
+python3 tfFromJson.py -Pnumber
+    Generate TF, only this Pnumber, do not load it
 python3 tfFromJson.py -skipgen
     Load TF
 python3 tfFromJson.py -skipload
     Generate TF but do not load it
+"""
+
+TEST = """
+P365742-K.2354: 63.: [x x x x {ši]m}LI GAZ KI ZI₃.KUM HI.HI ina A GAZI{sar} SILA₁₁-aš LAL IGI GIG tu-gal-lab EN TI.LA LAL₂
+P394523-K.2573: 17'.: [ina A.M]E[Š? ... UKU]Š₂.LAGAB U₂-BABBAR x [... t]e-qi₂?#
+P394520-K.2570: 9'.: [DIŠ NA IGI.MIN-šu₂ GIG? ... {u₂}EME.U]R.GI₇ {u₂}IN₆.UŠ ina ZI₃.KUM HE.HE ina GEŠTIN N[A]G?
 """
 
 GH = os.path.expanduser("~/github")
@@ -76,15 +84,19 @@ flagging = {
     "#": "damage",
 }
 
-clusterType = dict(
-    BrokenAway="missing",  # [ ]
-    PerhapsBrokenAway="uncertain",  # ( )
-    Removal="excised",  # << >>
-    AccidentalOmission="supplied",  # < >
-    DocumentOrientedGloss="gloss",  # {( )}
-    Determinative="det",  # { }
-    LoneDeterminative="det",  # { }
+clusterSpecs = (
+    ("BrokenAway", "missing", "[", "]", None),
+    ("PerhapsBrokenAway", "uncertain", "(", ")", None),
+    ("Removal", "excised", "<<", ">>", None),
+    ("AccidentalOmission", "supplied", "<", ">", None),
+    ("DocumentOrientedGloss", "gloss", "{(", ")}", None),
+    ("Determinative", "det", "{", "}", None),
+    ("LoneDeterminative", "det", "{", "}", None),
+    ("Erasure", "erasure", "°", "°", "\\"),
 )
+
+clusterType = {x[0]: x[1] for x in clusterSpecs}
+clusterChar = {x[1]: {True: x[2], False: x[3], None: x[4]} for x in clusterSpecs}
 
 commentTypes = set(
     """
@@ -119,7 +131,7 @@ generic = {
 }
 
 otext = {
-    "fmt:text-orig-full": "{atf}{after}",
+    "fmt:text-orig-full": "{atfpre}{atf}{atfpost}{after}",
     "fmt:text-orig-plain": "{sym}{after}",
     "sectionFeatures": "pnumber,face,lnno",
     "sectionTypes": "document,face,line",
@@ -146,6 +158,8 @@ intFeatures = (
 featureMeta = {
     "after": {"description": "what comes after a sign or word (- or space)"},
     "atf": {"description": "full atf of a sign"},
+    "atfpre": {"description": "cluster characters that precede a sign or word"},
+    "atfpost": {"description": "cluster characters that follow a sign or word"},
     "col": {"description": "ATF column number"},
     "collated": {"description": "whether a sign is collated (*)"},
     "collection": {"description": 'collection name from metadata field "collection"'},
@@ -159,6 +173,12 @@ featureMeta = {
     "docnumber": {"description": 'document number from metadata field "number"'},
     "excised": {
         "description": "whether a sign is excised - between << >>",
+    },
+    "erasure": {
+        "description": (
+            "whether a sign is in an erasure - between ° \\ °: "
+            "1: between ° and \\; 2: between \\ and °"
+        ),
     },
     "face": {"description": "full name of a face including the enclosing object"},
     "flags": {"description": "sequence of flags after a sign"},
@@ -220,6 +240,10 @@ featureMeta = {
 }
 
 
+def msg(m):
+    sys.stdout.write(f"{m}\n")
+
+
 def getJsonFiles():
     filePaths = []
 
@@ -253,6 +277,9 @@ def getConverter():
     return CV(TF)
 
 
+PNUMBER = None
+
+
 def convert():
     if generateTf:
         if os.path.exists(OUT_DIR):
@@ -276,43 +303,63 @@ def convert():
 
 
 def director(cv):
-    debug = False
-    curClusters = {cluster: None for cluster in clusterType.values()}
+    DEBUG = False
+    curClusters = {cluster: (None, 0) for cluster in clusterType.values()}
 
-    def info(msg):
-        print(f"INFO  ======> {msg}")
+    def debug(m):
+        if DEBUG:
+            msg(f"INFO  ======> {m}")
+            sys.stdout.flush()
 
-    def error(msg, stop=False):
-        print(f"ERROR ======> {msg}")
+    def error(m, stop=False):
+        msg(f"ERROR ======> {m}")
+        sys.stdout.flush()
         if stop:
             quit()
 
     def terminateClusters():
         for tp in curClusters:
-            node = curClusters[tp]
+            (node, val) = curClusters[tp]
             if node:
                 cv.terminate(node)
-                curClusters[tp] = None
+                curClusters[tp] = (None, 0)
 
-    def doCluster(data, cluster, on=None):
-        cv.feature(curSign, type="mark")
+    def doCluster(data, cluster, on=None, off=None):
         makeOn = data["side"] == "LEFT" if on is None else on
-        if makeOn:
-            if curClusters[cluster]:
+        makeOff = data["side"] == "RIGHT" if off is None else off
+        makeAlt = data["side"] == "CENTER" if off is None and on is None else off and on
+        status = True if makeOn else False if makeOff else None
+        if status is None and not makeAlt:
+            error(f"cluster {cluster} not on and not off and not alt", stop=True)
+
+        (clusterNode, clusterVal) = curClusters[cluster]
+        if status is True:
+            if clusterNode is not None:
                 error(f"cluster {cluster} is nesting", stop=True)
             clusterNode = cv.node("cluster")
-            curClusters[cluster] = clusterNode
+            curClusters[cluster] = (clusterNode, 1)
             cv.feature(clusterNode, type=cluster)
-        else:
-            clusterNode = curClusters[cluster]
-            if clusterNode:
-                cv.terminate(clusterNode)
-                curClusters[cluster] = None
-            else:
+        elif status is False:
+            if clusterNode is None:
                 error(f"cluster {cluster} is spuriously closed", stop=True)
+            else:
+                cv.terminate(clusterNode)
+                curClusters[cluster] = (None, 0)
+        elif status is None:
+            if clusterNode is None or clusterVal == 0:
+                error(f"cluster {cluster} is missing first part", stop=True)
+            elif clusterVal > 1:
+                error(f"cluster {cluster} has too many parts", stop=True)
+            else:
+                curClusters[cluster] = (clusterNode, 2)
+        return status
 
     def getClusters():
-        return {cluster: 1 for (cluster, node) in curClusters.items() if node}
+        return {
+            cluster: val
+            for (cluster, (node, val)) in curClusters.items()
+            if node is not None
+        }
 
     def doFlags(data, cur, extraFlag):
         flagList = data.get("flags", [])
@@ -329,104 +376,140 @@ def director(cv):
             modifiers = "".join(m[1:] for m in modifierList)
             cv.feature(cur, modifiers=f"@{modifiers}")
 
-    def doSign(data, **features):
+    def doSign(data, wordAfter, isLast, **features):
+        nonlocal prevSign
         nonlocal curSign
+        nonlocal nextPre
+        nonlocal after
+        nonlocal lang
 
-        atf = data["value"]
-        startMissingInternal = atf != "[" and "[" in atf
-        endMissingInternal = atf != "]" and "]" in atf
-
-        extraFlag = ""
-        if startMissingInternal or endMissingInternal:
-            extraFlag = "#"
-            if startMissingInternal:
-                atf = atf.replace("[", "") + extraFlag
-            if endMissingInternal:
-                atf = atf.replace("]", "") + extraFlag
-
-        if endMissingInternal and not startMissingInternal:
-            curSign = cv.slot()
-            cv.feature(
-                curSign,
-                atf="]",
-                sym="",
-                after=" ",
-                **getClusters(),
-            )
-            doCluster(data, "missing", on=False)
-
-        curSign = cv.slot()
-
-        cv.feature(curSign, atf=atf, **getClusters(), **features)
-        doFlags(data, curSign, extraFlag)
-        doModifiers(data, curSign)
         signType = data["type"]
+        debug(f"A {signType=}")
 
-        sym = data["cleanValue"]
-        feats = {}
+        if signType in {
+            "AccidentalOmission",
+            "Erasure",
+            "Removal",
+            "BrokenAway",
+            "PerhapsBrokenAway",
+            "DocumentOrientedGloss",
+        }:
+            cluster = clusterType[signType]
+            status = doCluster(data, cluster)
+            if status is True:
+                nextPre += clusterChar[cluster][status]
+            elif status is False:
+                cv.feature(
+                    curSign,
+                    atfpost=(cv.get(curSign, "atfpost") or "")
+                    + clusterChar[cluster][status],
+                )
+            elif status is None:
+                nextPre += clusterChar[cluster][status]
 
-        if signType == "AccidentalOmission":
-            doCluster(data, clusterType[signType])
-            tp = "mark"
-            sym = ""
+            debug("skip")
 
-        elif signType == "Removal":
-            doCluster(data, clusterType[signType])
-            tp = "mark"
-            sym = ""
-
-        elif signType == "BrokenAway":
-            doCluster(data, clusterType[signType])
-            tp = "mark"
-            sym = ""
-
-        elif signType == "PerhapsBrokenAway":
-            doCluster(data, clusterType[signType])
-            tp = "mark"
-            sym = ""
-
-        elif signType == "UnknownNumberOfSigns":
-            tp = "ellipsis"
-
-        elif signType == "UnidentifiedSign":
-            tp = "unknown"
-
-        elif signType == "UnclearSign":
-            tp = "unknown"
-
-        elif signType == "Number":
-            tp = "numeral"
-            feats = dict(number=sym)
-
-        elif signType == "Logogram":
-            tp = "grapheme"
-            feats = dict(grapheme=sym)
-
-        elif signType == "Reading":
-            tp = "reading"
-            sym = data["name"]
-            feats = dict(reading=sym)
+        elif signType == "LanguageShift":
+            lang = data["cleanValue"][1:]
+            nextPre += f"%{lang} "
+            if lang == "akk":
+                lang = None
+            debug("skip")
 
         elif signType == "Joiner":
-            tp = "joiner"
-
-        elif signType == "Determinative" or signType == "Variant":
-            error(f"nested {signType} Signs", stop=True)
+            after += data["value"]
+            if prevSign is not None:
+                cv.feature(prevSign, after=f"{cv.get(prevSign, 'after') or ''}{after}")
+            debug("skip")
 
         else:
-            error(f"unrecognized sign type {signType}", stop=True)
+            atf = data["value"]
+            atfPre = ""
+            atfPost = ""
+            extraFlag = ""
 
-        cv.feature(curSign, type=tp, sym=sym, **feats)
+            indexStart = atf.find("[")
+            indexEnd = atf.find("]")
 
-        if startMissingInternal and not endMissingInternal:
+            startMissingInternal = atf != "[" and indexStart >= 0
+            endMissingInternal = atf != "]" and indexEnd >= 0
+
+            if startMissingInternal and endMissingInternal:
+                if indexStart < indexEnd:
+                    extraFlag = "#"
+                    atf = atf.replace("[", "").replace("]", "") + extraFlag
+                else:
+                    atf = atf.replace("[", "").replace("]", "")
+            elif startMissingInternal:
+                atf = atf.replace("[", "")
+                atfPre = "["
+                doCluster(data, "missing", on=True, off=False)
+
+            prevSign = curSign
             curSign = cv.slot()
+            debug("slot")
+
+            if endMissingInternal and not startMissingInternal:
+                atf = atf.replace("]", "")
+                atfPost = "]"
+                doCluster(data, "missing", on=False, off=True)
+
+            thisPre = nextPre + atfPre
+            atfPre = dict(atfpre=thisPre) if thisPre else {}
+            nextPre = ""
+            atfPost = dict(atfpost=atfPost) if atfPost else {}
+
             cv.feature(
-                curSign,
-                atf="[",
-                after="",
-                **getClusters(),
+                curSign, **atfPre, **atfPost, atf=atf, **getClusters(), **features
             )
-            doCluster(data, "missing", on=True)
+            doFlags(data, curSign, extraFlag)
+            doModifiers(data, curSign)
+
+            sym = data["cleanValue"]
+            feats = {}
+
+            if signType == "UnknownNumberOfSigns":
+                tp = "ellipsis"
+
+            elif signType == "UnidentifiedSign":
+                tp = "unknown"
+
+            elif signType == "UnclearSign":
+                tp = "unknown"
+
+            elif signType == "Number":
+                tp = "numeral"
+                feats = dict(number=sym)
+
+            elif signType == "Logogram":
+                tp = "grapheme"
+                feats = dict(grapheme=sym)
+
+            elif signType == "Reading":
+                tp = "reading"
+                sign = data.get("sign", None)
+                reading = data["name"]
+                if sign is None:
+                    feats = dict(reading=reading)
+                else:
+                    grapheme = sign["cleanValue"]
+                    feats = dict(reading=reading, grapheme=grapheme)
+
+            elif signType == "Joiner":
+                tp = "joiner"
+
+            elif signType == "Divider":
+                tp = "wdiv"
+
+            elif signType == "Determinative" or signType == "Variant":
+                error(f"nested {signType} Signs", stop=True)
+
+            else:
+                error(f"unrecognized sign type {signType}", stop=True)
+
+            after += wordAfter if isLast else ""
+            cv.feature(curSign, type=tp, after=after, sym=sym, **feats)
+            after = ""
 
     paths = getJsonFiles()
     for (i, path) in enumerate(paths):
@@ -440,10 +523,14 @@ def director(cv):
                 if len(origFields) == 1
                 else docData[origFields[0]][origFields[1]]
             )
+        pNumber = metaData["pnumber"]
+        if PNUMBER is not None and PNUMBER != pNumber:
+            continue
+
         textData = docData["text"]["allLines"]
         nLines = len(textData)
 
-        print(f"{i + 1:>3} {nLines:>4} lines in {fileName}")
+        msg(f"{i + 1:>3} {nLines:>4} lines in {fileName}")
         if nLines == 0:
             continue
 
@@ -459,7 +546,13 @@ def director(cv):
 
         for lineData in textData:
             lang = None
+            prevSign = None
+
             lineType = lineData["type"]
+            content = " ".join(c["value"] for c in lineData["content"])
+            atf = f"{lineData['prefix']} {content}"
+            debug(atf)
+
             isFaceLine = lineType == "SurfaceAtLine"
             if isFaceLine:
                 thisFaceValue = lineData["label"]["surface"].lower()
@@ -477,8 +570,6 @@ def director(cv):
                 curFaceValue = (
                     lineData["label"]["surface"].lower() if isFaceLine else "obverse"
                 )
-                if debug:
-                    info(f"@{curFaceValue}")
                 cv.feature(curFace, face=curFaceValue)
                 if isFaceLine:
                     continue
@@ -514,15 +605,13 @@ def director(cv):
             isEmptyLine = lineType == "EmptyLine"
             isTextLine = lineType == "TextLine"
 
-            content = " ".join(c["value"] for c in lineData["content"])
-            atf = f"{lineData['prefix']} {content}"
-
             if isEmptyLine or isTextLine:
                 lln += 1
                 curLine = cv.node("line")
                 cv.feature(curLine, lln=lln, atf=atf)
 
                 if isEmptyLine:
+                    prevSign = curSign
                     curSlot = cv.slot()
                     cv.feature(curSlot, type="empty")
                     prevLine = curLine
@@ -534,8 +623,6 @@ def director(cv):
                         colno = f"{col}{colprime}"
                         lnno = f"!{colno}:{lln}"
                     cv.feature(curLine, lnno=lnno)
-                    if debug:
-                        info(f"{lln} - empty")
                 else:
                     numberData = lineData["lineNumber"]
                     ln = numberData["number"]
@@ -550,134 +637,123 @@ def director(cv):
                         colprime = "'" if primecol else ""
                         colno = f"{col}{colprime}"
                         lnno = f"{colno}:{lnno}"
-                    if debug:
-                        info(f"{lln} - {lnno}")
                     cv.feature(curLine, lnno=lnno)
 
                     lineContent = lineData["content"]
 
-                    erasure = ""
+                    lineSigns = []
 
-                    lastWord = len(lineContent) - 1
-
-                    for (w, wordData) in enumerate(lineContent):
-                        contentType = wordData["type"]
-                        if erasure and contentType != "Erasure":
-                            curWord = cv.node("word")
-                            cv.feature(
-                                curWord,
-                                type="mark",
-                                atf=erasure,
-                                sym=erasure,
-                                after=" ",
-                            )
-                            curSign = cv.slot()
-                            cv.feature(
-                                curSign,
-                                type="erasure",
-                                atf=erasure,
-                                sym=erasure,
-                                after=" ",
-                                **getClusters(),
-                            )
-                            cv.terminate(curWord)
-
-                        atf = wordData["value"]
-                        sym = wordData["cleanValue"]
-
-                        if contentType == "Erasure":
-                            erasure += wordData["value"]
+                    for wordData in lineContent:
+                        if "parts" in wordData:
+                            lineSigns.append([True, wordData, False])
+                            for signData in wordData["parts"]:
+                                hasSubs = False
+                                for (kind, tp) in (
+                                    ("parts", "Determinative"),
+                                    ("tokens", "Variant"),
+                                ):
+                                    if kind in signData:
+                                        hasSubs = True
+                                        end = len(signData[kind])
+                                        for (i, subPart) in enumerate(signData[kind]):
+                                            lineSigns.append(
+                                                [
+                                                    False,
+                                                    subPart,
+                                                    False,
+                                                    tp,
+                                                    i,
+                                                    i == end - 1,
+                                                ]
+                                            )
+                                if not hasSubs:
+                                    lineSigns.append([False, signData, False])
                         else:
+                            lineSigns.append([None, wordData, None])
+
+                    for entry in reversed(lineSigns):
+                        isWord = entry[0]
+                        if isWord:
+                            entry[2] = True
+                            break
+                    for entry in reversed(lineSigns):
+                        isWord = entry[0]
+                        atWordEnd = True
+                        if isWord is False:
+                            if atWordEnd:
+                                entry[2] = True
+                                atWordEnd = False
+                        elif isWord is True:
+                            atWordEnd = True
+
+                    curWord = None
+                    curSign = None
+                    nextPre = ""
+                    after = ""
+
+                    for (e, entry) in enumerate(lineSigns):
+                        isWord = entry[0]
+                        data = entry[1]
+                        isLast = entry[2]
+                        where = None if len(entry) < 4 else entry[3]
+                        contentType = data["type"]
+                        if isWord:
+                            if curWord:
+                                cv.terminate(curWord)
+                            atf = data["value"]
+                            sym = data["cleanValue"]
                             curWord = cv.node("word")
-                            after = "\n" if lastWord == w else " "
-                            textAtts = dict(atf=atf, sym=sym, after=after)
-                            cv.feature(curWord, **textAtts)
+                            wordAfter = "\n" if isLast else " "
+                            cv.feature(curWord, atf=atf, sym=sym, after=wordAfter)
 
                             if contentType in {"Word", "LoneDeterminative"}:
-                                lemmaData = wordData["uniqueLemma"]
+                                lemmaData = data["uniqueLemma"]
                                 lemma = ", ".join(lemmaData)
                                 atts = {} if lang is None else dict(lang=lang)
                                 cv.feature(curWord, type="word", **atts, lemma=lemma)
 
-                                parts = wordData["parts"]
-                                lastSign = len(parts) - 1
-
-                                for (i, signData) in enumerate(parts):
-                                    signType = signData["type"]
-                                    isDeterminative = signType == "Determinative"
-                                    isVariant = signType == "Variant"
-
-                                    if isDeterminative or isVariant:
-                                        subParts = signData[
-                                            "tokens" if isVariant else "parts"
-                                        ]
-                                        lastSubPart = len(subParts) - 1
-
-                                        if isDeterminative:
-                                            doCluster(signData, "det", on=True)
-
-                                        for (j, subPartData) in enumerate(subParts):
-                                            after = (
-                                                " "
-                                                if lastSign == i and lastSubPart == j
-                                                else ""
-                                            )
-                                            atts = (
-                                                dict(variant=j + 1) if isVariant else {}
-                                            )
-                                            doSign(subPartData, after=after, **atts)
-
-                                        if isDeterminative:
-                                            doCluster(signData, "det", on=False)
-
-                                    else:
-                                        after = " " if lastSign == i else ""
-                                        doSign(signData, after=after)
-
-                            elif contentType == "Divider":
-                                cv.feature(curWord, type="wdiv")
-                                curSign = cv.slot()
-                                cv.feature(curSign, type="wdiv", **textAtts)
-
-                            elif contentType == "LanguageShift":
-                                lang = wordData["cleanValue"][1:]
-                                if lang == "akk":
-                                    lang = None
-                                cv.feature(curWord, type="lang")
-                                curSign = cv.slot()
-                                cv.feature(curSign, type="lang", **textAtts)
-
-                            else:
-                                cv.feature(curWord, type="mark")
-                                curSign = cv.slot()
-                                cv.feature(curSign, type="mark", **textAtts)
-
-                                if contentType in {
-                                    "BrokenAway",
-                                    "Divider",
-                                    "DocumentOrientedGloss",
-                                }:
-                                    doCluster(wordData, clusterType[contentType])
-                                elif contentType == "ValueToken":
-                                    error(f"unexpected word type {contentType}")
-
+                        elif isWord is False:
+                            if len(entry) > 3:
+                                tp = entry[3]
+                                where = entry[4]
+                                atEnd = entry[5]
+                                atts = {}
+                                debug(f"COMPLEX {tp=} {where=} {atEnd=}")
+                                if tp == "Determinative":
+                                    if where == 0:
+                                        doCluster(data, "det", on=True, off=False)
+                                    doSign(data, wordAfter, isLast)
+                                    if atEnd:
+                                        doCluster(data, "det", on=False, off=True)
+                                elif tp == "Variant":
+                                    doSign(data, wordAfter, isLast, variant=where + 1)
                                 else:
-                                    error(f"unrecognized word type {contentType}")
+                                    error(f"Unknown complex type: {tp}", stop=True)
+                            else:
+                                doSign(data, wordAfter, isLast)
+                        else:
+                            doSign(data, " ", isLast)
 
-                            cv.terminate(curWord)
-
-                    if erasure:
-                        curWord = cv.node("word")
-                        cv.feature(curWord, type="mark", atf=erasure)
-                        curSign = cv.slot()
-                        cv.feature(
-                            curSign,
-                            type="erasure",
-                            atf=erasure,
-                            sym=erasure,
-                            after=after,
+                    if nextPre != "":
+                        error(
+                            f"dangling pre material at last sign of line: {nextPre}",
+                            stop=True,
                         )
-                        cv.terminate(curWord)
+
+                    if after:
+                        if prevSign is not None:
+                            cv.feature(
+                                prevSign,
+                                after=f"{cv.get(prevSign, 'after') or ''}{after}",
+                            )
+                            after = ""
+                    if after != "":
+                        error(
+                            f"dangling after material at last sign of line: {after}",
+                            stop=True,
+                        )
+
+                    cv.terminate(curWord)
 
                 prevLine = curLine
                 cv.terminate(curLine)
@@ -750,30 +826,34 @@ def loadTf():
     loadableFeatures = allFeatures["nodes"] + allFeatures["edges"]
     api = TF.load(loadableFeatures, silent=False)
     if api:
-        print(f"max node = {api.F.otype.maxNode}")
-        print("Frequency of readings")
-        print(api.F.reading.freqList()[0:20])
-        print("Frequency of grapheme")
-        print(api.F.grapheme.freqList()[0:20])
+        msg(f"max node = {api.F.otype.maxNode}")
+        msg("Frequency of readings")
+        msg(api.F.reading.freqList()[0:20])
+        msg("Frequency of grapheme")
+        msg(api.F.grapheme.freqList()[0:20])
 
 
 # MAIN
 
 command = None if len(sys.argv) <= 1 else sys.argv[1]
 
-print(f"JSON to TF converter for {REPO}")
-print(f"ATF source version = {VERSION_SRC}")
-print(f"TF  target version = {VERSION_TF}")
+msg(f"JSON to TF converter for {REPO}")
+msg(f"ATF source version = {VERSION_SRC}")
+msg(f"TF  target version = {VERSION_TF}")
 
 if command is None:
     generateTf = True
     good = convert()
     if good:
         loadTf()
+elif command.startswith("P"):
+    generateTf = True
+    PNUMBER = command
+    convert()
 elif command == "-skipload":
     generateTf = True
     convert()
 elif command == "-skipgen":
     loadTf()
 else:
-    print(f"Wrong command {command} !\n{HELP}")
+    msg(f"Wrong command {command} !\n{HELP}")

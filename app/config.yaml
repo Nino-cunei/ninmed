@@ -21,7 +21,7 @@ docs:
 provenanceSpec:
   corpus: 'Nineveh Medical Encyclopedia 800 BCE: Cuneiform tablets'
   doi: 10.5281/zenodo.2579207
-  version: 0.2
+  version: 0.3
   webBase: https://cdli.ucla.edu
   webHint: Show this document on CDLI
   webUrl: '{webBase}/search/search_results.php?SearchMode=Text&ObjectID=<1>'
