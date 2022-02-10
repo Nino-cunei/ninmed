@@ -6,7 +6,7 @@
 @project=BabMed
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-09T16:41:26Z
+@dateWritten=2022-02-10T09:59:19Z
 
 59314	Its ritual: [you rub him with the nagappu of vinegar, you scatter qutru-plant (over it) . . .].
 Wording of five spells [for removing? the kurāru-boil].
@@ -22,7 +22,7 @@ Wording of two spells [for healing . . .].
 59340	[The sick? belly?] is bound up like a reed basket, [like water in a river, it does not know where it will go, like water in a well], it is without flow, [like a fermentation vat, its mouth is covered, neither food nor water] is able to enter. [. . . Asalluḫi (took) notice (and told Enki about this. Enki answered)] ‘What I (know, you know as well). Go, my son!’ You should take [a lump? of salt? and ḫašû-thyme, you should cast the spell of Eridu over them], you should put them in the mouth [of the man, son of his god, (and) the man, son? of his god?, can fart it (= the disease) out like excrement], belch it up [like a burp], pass it [from his anus like wind].
 [Its ritual: . . ., you cast the incantation over it, he sucks on it in his mouth, and then] he drinks it in beer; then he will get better.
 [. . .] sick belly?
-59346	[. . .] may he release its blockage, [. . . may Asalluḫi, the son of Eridu], release its blockage.
+59346	tr.en: \n[. . .] may he release its blockage, [. . . may Asalluḫi, the son of Eridu], release its blockage.
 [Its ritual: . . . you recite the incantation seven times], he sucks on it in his mouth, and then he will get better.
 59350	[Incantation: “Šakkan, his belly is bound up in the steppe], his hands are filled with murderous dust, [he (has) no mother, who cheers him up], he (has) no sister, who takes care of him, [he (is) like a . . .] carrying a dagger.” Incantation-formula.
 [Its ritual: you take a lump of salt (and) nuḫurtu-plant], you cast the incantation over them, he sucks on them in his mouth, and then he will get better.

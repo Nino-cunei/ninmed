@@ -6,7 +6,7 @@
 @project=BabMed
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-09T16:41:26Z
+@dateWritten=2022-02-10T09:59:19Z
 
 60418	pace CADS242a
 BBR No. 26 ii 10
@@ -36,7 +36,7 @@ bam480iv26ff
 ii63ff.seeBAM3iv12f.; Heeßel and Al-rawi 2003, 223 i 30-36; JMC10:12ll.70ff.(AO11447r.18-21)
 60508	note:ii67f.seeBAM3iv14f.
 60525	note:iii12-15seeJMC14,29ii1ff.
-60556	‘place a say and hear’ = qabâ u šemâ šakin, šuila language, e.g. AGH 108: 21: UFBG 249ff.).
+60556	Following lines parallel BM 41289 + 41373 + 44238 i 1-4\n‘place a say and hear’ = qabâ u šemâ šakin, šuila language, e.g. AGH 108: 21: UFBG 249ff.).
 60560	note:iii52-56seeBM41373i6-10
 60565	join does not look great [SVP]
 60570	note:62f.seeJMC14iv8f.
@@ -65,6 +65,6 @@ ii63ff.seeBAM3iv12f.; Heeßel and Al-rawi 2003, 223 i 30-36; JMC10:12ll.70ff.(AO
 60764	see AMT 24, 2: 8ff.'
 60770	see AMT 24, 2: 17ff.' also BAM 539
 60777	edition of a similar or the same incantation Collins, medical incantations 276.
-60779	iv 34ff.' see AMT 23, 6:1ff. 
+60779	edition of the incantation Collins, medical incantations 262ff.\niv 31'-34' see AMT 25, 2 r. 15'-28'\niv 31'-39' see CT 17,50: 1-26\niv 34ff.' see AMT 23, 6:1ff. 
 60788	see CT 17,50: 25f.
 60790	see AMT 23, 6: 1'-17'. edition of the incantation Collins, medical incantations 266ff.

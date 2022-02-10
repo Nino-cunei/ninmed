@@ -56,4 +56,6 @@ Click the DOI badge to be taken to the archive. There you find ways to cite this
 
 # Status
 
+*   2022-02-10 Improved conversion results,
+    encoding decisions are now in better agreement with Old Babylonian and Old Assyrian
 *   2022-02-06 First conversion result delivered as fully functional TF corpus.

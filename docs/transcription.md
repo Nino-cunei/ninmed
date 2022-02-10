@@ -54,37 +54,41 @@ There are several types of sign, stored in the feature `type`.
 
 type | examples | description
 ------- | ------ | ------
-`reading` | `ma` `qa2` | normal cintent sign with a reading (lowercase)
-`unknown` | `x` `n` | representation of an unknown sign, the `n` stands for an unknown numeral
-`numeral` | `5` `5/6`  | a numeral, either with a repeat or with a fraction
 `ellipsis` | `...` | representation of an unknown number of missing signs
-`erasure` | `° \ °` | representation of an erasure
-`grapheme` | `ARAD2` `GAN2` | cintent sign given as a grapheme (uppercase)
-`joiner` | `-` `.` | in-word character that joins two content signs
-`wdiv` | ` / ` | word divider
-`mark` | `[` `(` | any character that is not a reading or grapheme in itself
-`lang` | ` %sux %sb %akk ` | language shift
 `empty` | | empty sign, usually due to an empty line
+`grapheme` | `ARAD2` `GAN2` | content sign given as a grapheme (uppercase)
+`numeral` | `5` `5/6`  | a numeral, either with a repeat or with a fraction
+`reading` | `ma` `qa2` | normal content sign with a reading (lowercase), may contain a grapheme as well as in `raš!(BI)`
+`unknown` | `x` `n` | representation of an unknown sign, the `n` stands for an unknown numeral
+`wdiv` | ` / ` | word divider
 
 feature | example values | description
 ------- | ------ | ------
 **after** | `-` ` ` | what comes after a sign before the next sign
 **atf** | `lam` `GIG` |  full atf of a sign
+**atfpost** | `}` | clustering characters attached at the end of a sign
+**atfpre** | `{` | clustering characters attached at the start of a sign
 **collated** | `1` | indicates the presence of the *collated* flag `*`
 **comment** | `(erased line)` | value of a comment
 **damage** | `1` | indicates the presence of the *damage* flag `#`
 **det** | `1` | indicates whether the sign is (part of) a determinative, marked by being within braces `{ }`
+**erasure** | `1` `2` | whether the sign is in an erasure; the value is `1` if `°` and ` \ `; the value is `2` if between ` \ ` and `°` 
 **excised** | `1` | whether a sign is excised by the editor, marked by being within double angle brackets  `<< >>`
+**flags** | `#` `?` | flags that follow a sign
+**gloss** | `1` | whether a sign is a gloss, marked by being within `{( )}`
 **grapheme**| `GIG` | the grapheme name of a [*sign*](#sign) when its atf is capitalized
-**lang** | `sux` `akk` `sb` | language shift: `sux` = Sumerian; `akk` = Akkadian; `sb` = Standard Babylonian
+**lang** | `sux` `sb` | language shift: `sux` = Sumerian; absent = Akkadian; `sb` = Standard Babylonian
 **missing** | `1` | whether a sign is missing, marked by being within square brackets  `[ ]`
+**modifiers** | `@v` | modifiers that follow a sign
+**number** | `3` | numeric value of a sign with type `numeral`
 **question** | `1` | indicates the presence of the *question* flag `?`
 **reading** | `lam` | reading (lowercase) of a sign
 **remarkable** | `1` | indicates the presence of the *remarkable* flag `!`
-**sym**| `lam` `GIG` | essential parts of a sign, composed of **reading**, **grapheme**
+**sym** | `lam` `GIG` | essential parts of a sign, composed of **reading**, **grapheme**
 **supplied** | `1` | whether a sign is supplied by the editor, marked by being within angle brackets  `< >`
 **type** | type of sign, see table above
 **uncertain** | `1` | whether a sign is uncertain, marked by being within brackets  `( )`
+**variant** | `1` `2` | whether the sign is in variant pair, separated by '/'; the value is `1` for the first member of the pair and `2` for the second member
 
 ## Node type [*word*](#word)
 
@@ -96,6 +100,7 @@ feature | example values | description
 ------- | ------ | ------
 **after** | ` ` | | what comes after a word before the next word, including word dividers
 **atf**| `šu-ru-uš#` | full atf of a word, including flags and clustering characters, but no word dividers
+**lemma** | `pilšu` | the lemma of the word
 **sym**| `šu-ru-uš` | essential parts of a word, composed of the **sym** values of its individual signs
 
 ## Node type [*cluster*](#cluster)
@@ -108,15 +113,17 @@ The type of a cluster is stored in the feature `type`.
 
 type | examples | description
 ------- | ------ | ------
-`langalt` | `_  _` | alternate language
 `det` | `{ }` | gloss, determinative
-`uncertain` | `( )` | uncertain
+`erasure` | `° \ °` | erasure: two parts, before a and after the ` \ `
+`excised` | `<< >>` | excised by the editor in order to get a reading
+`langalt` | `_  _` | alternate language
 `missing` | `[ ]` | missing
 `supplied` | `< >` | supplied by the editor in order to get a reading
-`excised` | `<< >>` | excised by the editor in order to get a reading
+`uncertain` | `( )` | uncertain
 
 Each cluster induces a sign feature with the same name as the type of the cluster,
 which gets value 1 precisely when the sign is in that cluster.
+For erasures, the first part gets value 1, the second part value 2.
 
 ## Node type [*line*](#line)
 
@@ -124,14 +131,17 @@ Subdivision of a containing [*face*](#face).
 Corresponds to a transcription or comment line in the source data.
 
 feature | example values | description
-------- | ------ | ------ | -----------
+------- | ------ | ------
+**atf**| `1'. D[U₃.DU₃.BI ...]` | full atf of a line
 **col** | `1` | number of the column in which the line occurs; without prime, see also `primecol`
 **ln** | `1` | ATF line number of a numbered transcription line; without prime, see also `primeln`
 **lln** | `1` | logical line number within a face: a number from 1 to the number of lines on the face
 **lnno** | `1:1` | combination of **col**, **primecol**, **ln**, **primeln** to identify a line
+**note** | `pace CADS242a` | note or comment to a line
 **primecol** | `1` | whether the column number has a prime `'`
 **primeln** | `1` | whether the line number has a prime `'`
-**atf**| `1'. D[U₃.DU₃.BI ...]` | full atf of a line
+**ruling** | `single ruling` | ruling comment to a line
+**seal** | `about 20 lines missing` | seal comment to a line
 **trans** | `1` | indicates whether a line has a translation (in the form of a following meta line (`#tr.en`))
 **tr@en** | `If a man suffers from phlegm` | English translation in the form of a meta line (`#tr.en`)
 
@@ -141,7 +151,7 @@ One of the sides of an *object* belonging to a document [*document*](#document).
 In most cases, the object is a *tablet*, but it can also be an *envelope*, or yet an other kind of object. 
 
 feature | example values | description
-------- | ------ | ------ | -----------
+------- | ------ | ------
 **face** | `obverse` `reverse` | type of face
 
 ## Node type [*document*](#document)
@@ -149,8 +159,8 @@ feature | example values | description
 The main entity of which the corpus is composed, representing the transcription
 of all objects associated with it.
 
-feature | values | in ATF | description
-------- | ------ | ------ | -----------
+feature | example values | description
+------- | ------ | ------
 **collection** | `Kuyunjik` | the collection in which a document is included
 **description** | `Fragment of a clay tablet` | short description
 **docnumber** | `K.11317` | identification

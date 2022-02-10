@@ -12,7 +12,10 @@ HELP = """
 python3 tfFromJson.py
     Generate TF and if successful, load it
 python3 tfFromJson.py -Pnumber
-    Generate TF, only this Pnumber, do not load it
+python3 tfFromJson.py -Pnumber:obverse
+python3 tfFromJson.py -Pnumber:obverse:2:1
+    Generate TF, only this Pnumber, face, line, do not load it
+    Primes in numbers are not relevant
 python3 tfFromJson.py -skipgen
     Load TF
 python3 tfFromJson.py -skipload
@@ -158,8 +161,8 @@ intFeatures = (
 featureMeta = {
     "after": {"description": "what comes after a sign or word (- or space)"},
     "atf": {"description": "full atf of a sign"},
-    "atfpre": {"description": "cluster characters that precede a sign or word"},
     "atfpost": {"description": "cluster characters that follow a sign or word"},
+    "atfpre": {"description": "cluster characters that precede a sign or word"},
     "col": {"description": "ATF column number"},
     "collated": {"description": "whether a sign is collated (*)"},
     "collection": {"description": 'collection name from metadata field "collection"'},
@@ -171,14 +174,14 @@ featureMeta = {
         "description": "whether a sign is a determinative gloss - between { }",
     },
     "docnumber": {"description": 'document number from metadata field "number"'},
-    "excised": {
-        "description": "whether a sign is excised - between << >>",
-    },
     "erasure": {
         "description": (
             "whether a sign is in an erasure - between ° \\ °: "
             "1: between ° and \\; 2: between \\ and °"
         ),
+    },
+    "excised": {
+        "description": "whether a sign is excised - between << >>",
     },
     "face": {"description": "full name of a face including the enclosing object"},
     "flags": {"description": "sequence of flags after a sign"},
@@ -209,6 +212,7 @@ featureMeta = {
         "description": "whether a sign is missing - between [ ]",
     },
     "modifiers": {"description": "sequence of modifiers after a sign"},
+    "museum": {"description": 'museum name from metadata field "museum.name"'},
     "note": {"description": "note comment to a line"},
     "number": {"description": "numeric value of a number sign"},
     "pnumber": {"description": "P number of a document"},
@@ -229,14 +233,13 @@ featureMeta = {
     "trans": {"description": "whether a line has a translation"},
     "tr@en": {"description": "english translation of a line"},
     "type": {"description": "name of a type of cluster or kind of sign"},
+    "uncertain": {"description": "whether a sign is uncertain - between ( )"},
     "variant": {
         "description": (
             "if sign is part of a variant pair, "
             "this is the sequence number of the variant (1 or 2)"
         )
     },
-    "uncertain": {"description": "whether a sign is uncertain - between ( )"},
-    "museum": {"description": 'museum name from metadata field "museum.name"'},
 }
 
 
@@ -278,6 +281,8 @@ def getConverter():
 
 
 PNUMBER = None
+FACE = None
+LINE = None
 
 
 def convert():
@@ -377,14 +382,12 @@ def director(cv):
             cv.feature(cur, modifiers=f"@{modifiers}")
 
     def doSign(data, wordAfter, isLast, **features):
-        nonlocal prevSign
         nonlocal curSign
         nonlocal nextPre
-        nonlocal after
         nonlocal lang
 
         signType = data["type"]
-        debug(f"A {signType=}")
+        after = wordAfter if isLast else ""
 
         if signType in {
             "AccidentalOmission",
@@ -401,26 +404,22 @@ def director(cv):
             elif status is False:
                 cv.feature(
                     curSign,
-                    atfpost=(cv.get(curSign, "atfpost") or "")
+                    after=(cv.get("after", curSign) or "") + after,
+                    atfpost=(cv.get("atfpost", curSign) or "")
                     + clusterChar[cluster][status],
                 )
             elif status is None:
                 nextPre += clusterChar[cluster][status]
-
-            debug("skip")
 
         elif signType == "LanguageShift":
             lang = data["cleanValue"][1:]
             nextPre += f"%{lang} "
             if lang == "akk":
                 lang = None
-            debug("skip")
 
         elif signType == "Joiner":
-            after += data["value"]
-            if prevSign is not None:
-                cv.feature(prevSign, after=f"{cv.get(prevSign, 'after') or ''}{after}")
-            debug("skip")
+            if curSign is not None:
+                cv.feature(curSign, after=data["value"])
 
         else:
             atf = data["value"]
@@ -445,22 +444,27 @@ def director(cv):
                 atfPre = "["
                 doCluster(data, "missing", on=True, off=False)
 
-            prevSign = curSign
             curSign = cv.slot()
-            debug("slot")
 
             if endMissingInternal and not startMissingInternal:
                 atf = atf.replace("]", "")
-                atfPost = "]"
+                atfPost += "]"
                 doCluster(data, "missing", on=False, off=True)
 
             thisPre = nextPre + atfPre
-            atfPre = dict(atfpre=thisPre) if thisPre else {}
+            atfPreFeat = dict(atfpre=thisPre) if thisPre else {}
+            atfPre = ""
             nextPre = ""
-            atfPost = dict(atfpost=atfPost) if atfPost else {}
+            atfPostFeat = dict(atfpost=atfPost) if atfPost else {}
+            atfPost = ""
 
             cv.feature(
-                curSign, **atfPre, **atfPost, atf=atf, **getClusters(), **features
+                curSign,
+                **atfPreFeat,
+                **atfPostFeat,
+                atf=atf,
+                **getClusters(),
+                **features,
             )
             doFlags(data, curSign, extraFlag)
             doModifiers(data, curSign)
@@ -500,6 +504,7 @@ def director(cv):
 
             elif signType == "Divider":
                 tp = "wdiv"
+                after = wordAfter
 
             elif signType == "Determinative" or signType == "Variant":
                 error(f"nested {signType} Signs", stop=True)
@@ -507,11 +512,12 @@ def director(cv):
             else:
                 error(f"unrecognized sign type {signType}", stop=True)
 
-            after += wordAfter if isLast else ""
             cv.feature(curSign, type=tp, after=after, sym=sym, **feats)
-            after = ""
 
     paths = getJsonFiles()
+    skipFace = FACE is not None
+    skipLine = LINE is not None
+
     for (i, path) in enumerate(paths):
         fileName = path.split("/")[-1].rsplit(".", 1)[0]
         docData = readJsonFile(path)
@@ -546,18 +552,21 @@ def director(cv):
 
         for lineData in textData:
             lang = None
-            prevSign = None
 
             lineType = lineData["type"]
             content = " ".join(c["value"] for c in lineData["content"])
             atf = f"{lineData['prefix']} {content}"
-            debug(atf)
 
             isFaceLine = lineType == "SurfaceAtLine"
             if isFaceLine:
                 thisFaceValue = lineData["label"]["surface"].lower()
+                if FACE is not None:
+                    skipFace = thisFaceValue != FACE
                 if thisFaceValue == curFaceValue:
                     continue
+
+            if skipFace:
+                continue
 
             if isFaceLine or not curFace:
                 if isFaceLine and curFace:
@@ -572,6 +581,7 @@ def director(cv):
                 )
                 cv.feature(curFace, face=curFaceValue)
                 if isFaceLine:
+                    debug(atf)
                     continue
 
             if lineType == "ColumnAtLine":
@@ -579,6 +589,7 @@ def director(cv):
                 primeInfo = lineData["label"]["status"]
                 primecol = len(primeInfo) > 0 and "PRIME" in primeInfo
                 primecolAtt = dict(primecol=1) if primecol else {}
+                debug(atf)
                 continue
 
             if lineType == "ControlLine":
@@ -611,7 +622,8 @@ def director(cv):
                 cv.feature(curLine, lln=lln, atf=atf)
 
                 if isEmptyLine:
-                    prevSign = curSign
+                    if not skipLine:
+                        debug(atf)
                     curSlot = cv.slot()
                     cv.feature(curSlot, type="empty")
                     prevLine = curLine
@@ -629,15 +641,23 @@ def director(cv):
                     primeln = numberData["hasPrime"]
                     primelnAtt = dict(primeln=1) if primeln else {}
 
-                    cv.feature(curLine, ln=ln, **primelnAtt)
                     lnprime = "'" if primeln else ""
                     lnno = f"{ln}{lnprime}"
+
                     if col is not None:
                         cv.feature(curLine, col=col, **primecolAtt)
                         colprime = "'" if primecol else ""
                         colno = f"{col}{colprime}"
                         lnno = f"{colno}:{lnno}"
-                    cv.feature(curLine, lnno=lnno)
+
+                    if LINE is not None:
+                        skipLine = lnno.replace("'", "") != LINE
+
+                    if skipLine:
+                        continue
+
+                    debug(atf)
+                    cv.feature(curLine, ln=ln, **primelnAtt, lnno=lnno)
 
                     lineContent = lineData["content"]
 
@@ -676,9 +696,10 @@ def director(cv):
                         if isWord:
                             entry[2] = True
                             break
+
+                    atWordEnd = True
                     for entry in reversed(lineSigns):
                         isWord = entry[0]
-                        atWordEnd = True
                         if isWord is False:
                             if atWordEnd:
                                 entry[2] = True
@@ -689,7 +710,6 @@ def director(cv):
                     curWord = None
                     curSign = None
                     nextPre = ""
-                    after = ""
 
                     for (e, entry) in enumerate(lineSigns):
                         isWord = entry[0]
@@ -718,15 +738,26 @@ def director(cv):
                                 where = entry[4]
                                 atEnd = entry[5]
                                 atts = {}
-                                debug(f"COMPLEX {tp=} {where=} {atEnd=}")
                                 if tp == "Determinative":
                                     if where == 0:
                                         doCluster(data, "det", on=True, off=False)
+                                        nextPre += "{"
                                     doSign(data, wordAfter, isLast)
                                     if atEnd:
+                                        cv.feature(
+                                            curSign,
+                                            atfpost=(cv.get("atfpost", curSign) or "")
+                                            + "}",
+                                        )
                                         doCluster(data, "det", on=False, off=True)
                                 elif tp == "Variant":
                                     doSign(data, wordAfter, isLast, variant=where + 1)
+                                    if not atEnd:
+                                        cv.feature(
+                                            curSign,
+                                            atfpost=(cv.get("atfpost", curSign) or "")
+                                            + "/",
+                                        )
                                 else:
                                     error(f"Unknown complex type: {tp}", stop=True)
                             else:
@@ -740,25 +771,17 @@ def director(cv):
                             stop=True,
                         )
 
-                    if after:
-                        if prevSign is not None:
-                            cv.feature(
-                                prevSign,
-                                after=f"{cv.get(prevSign, 'after') or ''}{after}",
-                            )
-                            after = ""
-                    if after != "":
-                        error(
-                            f"dangling after material at last sign of line: {after}",
-                            stop=True,
-                        )
-
                     cv.terminate(curWord)
 
                 prevLine = curLine
                 cv.terminate(curLine)
 
             else:
+                if skipLine:
+                    continue
+
+                debug(atf)
+
                 if lineType == "ControlLine":
                     error(f"Unknown ControlLine: {atf[0:40]}")
                     continue
@@ -799,7 +822,7 @@ def director(cv):
                 elif lineType == "SealDollarLine":
                     tp = "seal"
 
-                orig = cv.get(prevLine, tp)
+                orig = cv.get(tp, prevLine)
                 content = content if not orig else f"{orig}\n{content}"
                 contents[tp] = content
                 cv.feature(prevLine, **contents)
@@ -848,7 +871,13 @@ if command is None:
         loadTf()
 elif command.startswith("P"):
     generateTf = True
-    PNUMBER = command
+    parts = command.split(":", 1)
+    PNUMBER = parts[0]
+    if len(parts) > 1:
+        parts = parts[1].split(":", 1)
+        FACE = parts[0]
+        if len(parts) > 1:
+            LINE = parts[1].replace("'", "")
     convert()
 elif command == "-skipload":
     generateTf = True
