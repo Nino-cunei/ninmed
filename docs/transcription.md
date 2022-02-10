@@ -56,7 +56,7 @@ type | examples | description
 ------- | ------ | ------
 `ellipsis` | `...` | representation of an unknown number of missing signs
 `empty` | | empty sign, usually due to an empty line
-`grapheme` | `ARAD2` `GAN2` | content sign given as a grapheme (uppercase)
+`grapheme` | `GUR₂` `ŠEŠ₂` | content sign given as a grapheme (uppercase)
 `numeral` | `5` `5/6`  | a numeral, either with a repeat or with a fraction
 `reading` | `ma` `qa2` | normal content sign with a reading (lowercase), may contain a grapheme as well as in `raš!(BI)`
 `unknown` | `x` `n` | representation of an unknown sign, the `n` stands for an unknown numeral
