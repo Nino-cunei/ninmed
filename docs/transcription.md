@@ -186,8 +186,9 @@ All signs have the features **sym** and **atf** and **after**.
 Together they are the building blocks by which the complete original ATF sequence for that sign
 can be reconstructed:
 
-*    **atf** + **after** (full representation)
-*    **sym** + **after** (plain representation, without modifiers, flags and clusters)
+*    **atf** + **after** (full representation of the sign, but without surrounding cluster marks)
+*    **atfpre** + **atf** + **atfpost** + **after** (full representation, including surrounding cluster marks)
+*    **sym** + **after** (plain representation, without modifiers, flags and cluster marks)
 
 For analytical purposes, there is a host of other features on signs, depending on the type of sign.
 
@@ -232,10 +233,11 @@ as that type.
 It has value `1` for those signs that are inside a cluster of that type and no value otherwise.
 
 *   `{ }` **det** determinatives
-*   `{( )}` **gloss** glosses
-*   `( )` **uncertain** uncertain readings
-*   `[ ]` **missing** missing signs
+*   `° \ °` **erasure** signs that have been erased, one or two parts separated by ` \ `
 *   `<< >>` **excised** signs that have been excised by the editor in order to arrive at a reading
+*   `{( )}` **gloss** glosses
+*   `[ ]` **missing** missing signs
+*   `( )` **uncertain** uncertain readings
 *   `< >` **supplied** signs that have been supplied by the editor in order to arrive at a reading
 
 ## Word
