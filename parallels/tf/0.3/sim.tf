@@ -7,7 +7,7 @@
 @name=Nineveh Medical Encyclopedia Cuneiform
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-10T07:40:36Z
+@dateWritten=2022-02-10T10:08:12Z
 
 59315	59324,59787,61647	100
 59319	61949	80
