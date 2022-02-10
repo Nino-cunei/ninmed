@@ -1,4 +1,4 @@
-<img src="images/ninologo.png" align="right" width="200"/>
+<img src="images/logo.png" align="right" width="200"/>
 <img src="images/tf.png" align="right" width="200"/>
 
 # Feature documentation
