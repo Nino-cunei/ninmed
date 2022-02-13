@@ -32,9 +32,9 @@ this corpus we have node types for:
 [*document*](#document).
 
 The type of every node is given by the feature
-[**otype**](https://annotation.github.io/text-fabric/Api/Features/#node-features).
+[**otype**](https://annotation.github.io/text-fabric/tf/core/otypefeature.html#tf.core.otypefeature)
 Every node is linked to a subset of slots by
-[**oslots**](https://annotation.github.io/text-fabric/Api/Features/#edge-features).
+[**oslots**](ahttps://annotation.github.io/text-fabric/tf/core/oslotsfeature.html#tf.core.oslotsfeature)
 
 Nodes can be annotated with features. See the table below.
 
