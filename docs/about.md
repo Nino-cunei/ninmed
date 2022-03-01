@@ -44,6 +44,13 @@ in the
 [NinMed Project](http://oracc.museum.upenn.edu/asbp/ninmed/project/index.html),
 which is currently underway (British Museum, London, 2020–2023).
 
+The lemmatizations stem from the
+[electronnic Babylonian Literature project](https://www.ag.geschichte.uni-muenchen.de/forschung/forsch_projekte/ebl/index.html),
+led by 
+[Prof. Enrique Jiménez](https://www.ag.geschichte.uni-muenchen.de/personen/mitarbeiter/jimenez/index.html).
+
+Note that these lemmatizations are stored in the JSON representation, and not in the ATF.
+
 Currently, we have converted only 34 tablets from JSON to Text-Fabric.
 
 ## Provenance
