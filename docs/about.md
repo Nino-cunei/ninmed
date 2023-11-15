@@ -10,7 +10,7 @@ cuneiform tablets with medical content from Nineveh, ca. 800 BCE.
 
 Cuneiform tablets have been photographed, and transliterated
 in [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/cdliatf/index.html)
-files, in which the marks on a tablet are represented by ascii characters.
+files, in which the marks on a tablet are represented by ASCII characters.
 
 While the ATF descriptions preserve an awesome amount of precise information
 about the marks that are visible in the clay and their spatial structure, it is
@@ -39,17 +39,17 @@ This repo contains transliterations of texts of the Nineveh Medical Encyclopedia
 This compendium was first described and transliterated as part of the
 [BabMed Project](https://www.geschkult.fu-berlin.de/en/e/babmed/index.html)
 (Berlin, 2013–2018)
-and is now being edited, with normalizations, lemmatization and translations,
+and is now being edited, with normalizations, lemmatisation and translations,
 in the
 [NinMed Project](http://oracc.museum.upenn.edu/asbp/ninmed/project/index.html),
 which is currently underway (British Museum, London, 2020–2023).
 
-The lemmatizations stem from the
+The lemmatisations stem from the
 [electronic Babylonian Literature project](https://www.ag.geschichte.uni-muenchen.de/forschung/forsch_projekte/ebl/index.html),
 led by 
 [Prof. Enrique Jiménez](https://www.ag.geschichte.uni-muenchen.de/personen/mitarbeiter/jimenez/index.html).
 
-Note that these lemmatizations are stored in the JSON representation, and not in the ATF.
+Note that these lemmatisations are stored in the JSON representation, and not in the ATF.
 
 Currently, we have converted only 34 tablets from JSON to Text-Fabric.
 
@@ -60,7 +60,7 @@ to Dirk Roorda.
 
 ### Transliterations
 
-The JSON files contain plain ATF and interpreted ATF, and include lemmatizations for
+The JSON files contain plain ATF and interpreted ATF, and include lemmatisations for
 a fair number of words.
 
 Where possible we have used the interpreted ATF, since that is the logical, unwrapped
